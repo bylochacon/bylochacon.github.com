@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100304" date="2010-03-04 11:05:45 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>MATT&#x2019;S PHOTOGRAPHY</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_Travels_through_the_east_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Eliquatuero dip numsan vent lam, conum facillum init lut doloreet ullametuero od tet adit, commod tatummy  feug tiam velit praese exer aute enit alit, veliqua modit dolorer commod niam onul laore. Uptat prat lut lut iriliquat, quis alisl irilit am irillum at niam zzrit, verosto consequ ismodit iriuscin el dolorero prat lut lut iriliquat, quis alisl irilit am irillum at niam zzrit, verosto dionsequi veliqui exerit inis ea feugue feum.&#xD;&#xD;Eliquatuero dip numsan vent lam, conum facillum init lut doloreet ullametuero od tet adit, commod tatummy  feug tiam velit praese exer aute enit alit, veliqua modit dolorer commod niam onul laore praese exer aute enit alit. &#xD;&#xD;Uptat prat lut lut iriliquat, quis alisl irilit am irillum at niam zzrit, verosto consequ ismodit iriuscin el dolorero prat lut lut iriliquat, quis alisl irilit am irillum at niam zzrit, verosto dionsequi veliqui exerit inis ea feugue feum.Eliquatuero dip numsan vent lam, conum facillum init lut veliqua modit dolorer commod niam onul laore. Uptat prat lut lut iriliquat, quis alisl irilit am irillum at niam zzrit, verosto consequ ismodit iriuscin el dolorero prat lut lut iriliquat, quis alisl irilit am irillum at niam zzrit, verosto dionsequi veliqui exerit inis ea feugue feum. Uptat prat dolorero prat lut lut iriliquat, quis alisl irilit am irillum at niam zzrit, verosto.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Travels through the east</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;1/31/10&lt;/b&gt;</richText>
+  </textBox>
+</content>

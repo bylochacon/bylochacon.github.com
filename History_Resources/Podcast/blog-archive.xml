@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Podcast</title>
+    <link>http://bylochacon.com/History_Resources/Podcast</link>
+    <description>Human rights, genocide, and world history topics explained</description>
+    <item>
+      <title>Desert Rock National Park</title>
+      <link>http://bylochacon.com/History_Resources/Podcast/Entries/2010/1/31_Desert_Rock_National_Park.html</link>
+      <guid isPermaLink="false">436726f7-1e83-43a9-8302-fad1f4a80874</guid>
+      <pubDate>Sun, 31 Jan 2010 11:24:40 -0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://bylochacon.com/History_Resources/Podcast/Entries/2010/1/31_Desert_Rock_National_Park.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>M/d/yy</iweb:dateFormat>
+    <iweb:baseURL>http://bylochacon.com/History_Resources/Podcast</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>
