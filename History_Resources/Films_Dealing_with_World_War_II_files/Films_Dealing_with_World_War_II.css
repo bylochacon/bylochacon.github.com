@@ -258,13 +258,13 @@
 }
 .paragraph_style_11 {
     color: #b45444;
-    font-family: 'ADamnMess', 'A Damn Mess', 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 96px;
+    font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue', 'Helvetica Neue Black Condensed', 'Arial', sans-serif;
+    font-size: 114px;
     font-style: normal;
     font-variant: normal;
-    font-weight: normal;
+    font-weight: bold;
     letter-spacing: 0;
-    line-height: 105px;
+    line-height: 140px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -402,6 +402,9 @@
 .graphic_textbox_layout_style_default_External_314_25 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_681_293 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_327_398 {
     position: relative;
 }
@@ -415,9 +418,6 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_327_233 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_681_324 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_327_178 {

@@ -60,6 +60,31 @@
     opacity: 1.00;
 }
 .paragraph_style_2 {
+    color: #b45444;
+    font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue', 'Helvetica Neue Black Condensed', 'Arial', sans-serif;
+    font-size: 114px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 140px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_4 {
+    background: transparent url(backgroundimage_1.png) no-repeat scroll center center;
+    opacity: 1.00;
+}
+.paragraph_style_3 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 14px;
@@ -80,33 +105,8 @@
     text-indent: 0px;
     text-transform: uppercase;
 }
-.style_SkipStroke_4 {
-    background: transparent;
-    opacity: 1.00;
-}
-.paragraph_style_3 {
-    color: #b45444;
-    font-family: 'ADamnMess', 'A Damn Mess', 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 96px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 105px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .style_SkipStroke_5 {
-    background: transparent url(backgroundimage_1.png) no-repeat scroll center center;
+    background: transparent;
     opacity: 1.00;
 }
 .Free_Form {
@@ -206,7 +206,7 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_681_358 {
+.graphic_textbox_layout_style_default_External_681_293 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_477_178 {

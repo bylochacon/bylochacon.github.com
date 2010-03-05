@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100305" date="2010-03-05 13:32:18 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>This site is a project I have undertaken to organize web and print resources for history.  It is meant to be a first-stop for individuals seeking to understand modern history and current global issues.  I plan to develop it as a place to aggregate bibliographies, links, films, and useful downloads for teachers, students and curious individuals.  Any recommendations of related books, sites, podcasts, blogs, and events you may wish to contribute would be greatly appreciated.  Thank you for visiting! </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Welcome!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, March 4, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

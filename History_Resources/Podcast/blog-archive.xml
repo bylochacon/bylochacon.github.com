@@ -11,7 +11,7 @@
       <pubDate>Sun, 31 Jan 2010 11:24:40 -0800</pubDate>
       <iweb:comment enabled="0" count="0" link="http://bylochacon.com/History_Resources/Podcast/Entries/2010/1/31_Desert_Rock_National_Park.html#comment_layer"></iweb:comment>
     </item>
-    <iweb:dateFormat>M/d/yy</iweb:dateFormat>
+    <iweb:dateFormat>MMMM d, yyyy</iweb:dateFormat>
     <iweb:baseURL>http://bylochacon.com/History_Resources/Podcast</iweb:baseURL>
     <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
   </channel>

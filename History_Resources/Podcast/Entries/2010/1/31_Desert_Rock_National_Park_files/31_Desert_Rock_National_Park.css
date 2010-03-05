@@ -16,6 +16,9 @@
 .style_External_320_123 {
     position: relative;
 }
+.style_External_103_15 {
+    position: relative;
+}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
@@ -50,9 +53,6 @@
     opacity: 1.00;
 }
 .style_External_260_18 {
-    position: relative;
-}
-.style_External_80_18 {
     position: relative;
 }
 .style_External_515_43 {
@@ -148,13 +148,13 @@
 .Normal {
     padding: 0px;
 }
+.Normal_External_103_15 {
+    position: relative;
+}
 .Normal_External_260_18 {
     position: relative;
 }
 .Normal_External_340_335 {
-    position: relative;
-}
-.Normal_External_80_18 {
     position: relative;
 }
 .Previous {
