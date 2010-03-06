@@ -46,10 +46,31 @@
     text-indent: 0px;
     text-transform: none;
 }
+.paragraph_style_2 {
+    color: #404040;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 23px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 10px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_2 {
     padding: 0px;
 }
-.paragraph_style_2 {
+.paragraph_style_3 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -79,27 +100,6 @@
 .style_External_270_120 {
     position: relative;
 }
-.paragraph_style_3 {
-    color: #404040;
-    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 18px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: bold;
-    letter-spacing: 0;
-    line-height: 23px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 10px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .style_External_403_152 {
     bottom: 0px;
     position: relative;
@@ -109,11 +109,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_2 {
+.style_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke {
+.style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
@@ -122,11 +122,11 @@
     opacity: 1.00;
 }
 .style_SkipStroke_4 {
-    background: #b2b2b2;
+    background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke_5 {
-    background: transparent;
+    background: #b2b2b2;
     opacity: 1.00;
 }
 .style_External_479_42 {
@@ -205,15 +205,15 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_401_30 {
-    bottom: 0px;
-    position: absolute;
-    width: 401px;
-}
 .Normal_External_479_42 {
     bottom: 0px;
     position: absolute;
     width: 479px;
+}
+.Normal_External_403_32 {
+    bottom: 0px;
+    position: absolute;
+    width: 403px;
 }
 .Normal_External_403_152 {
     bottom: 0px;

@@ -42,48 +42,6 @@
 }
 .paragraph_style_2 {
     color: #404040;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 14px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: bold;
-    letter-spacing: 0;
-    line-height: 17px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 10px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: uppercase;
-}
-.paragraph_style_3 {
-    color: #404040;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 14px;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 16px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 10px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: uppercase;
-}
-.paragraph_style_4 {
-    color: #404040;
     font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 12px;
     font-style: italic;
@@ -103,7 +61,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_5 {
+.paragraph_style_3 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
@@ -112,6 +70,48 @@
     font-weight: bold;
     letter-spacing: 0;
     line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 16px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_4 {
+    color: #404040;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_5 {
+    color: #404040;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 14px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -147,72 +147,6 @@
 }
 .paragraph_style_7 {
     color: #404040;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 16px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_8 {
-    color: #404040;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_SkipStroke_2 {
-    background: #a64b3c;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_5 {
-    background: transparent url(CA64B3C7F.png) repeat scroll center center;
-    opacity: 1.00;
-}
-.paragraph_style_9 {
-    color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 12px;
     font-style: normal;
@@ -232,39 +166,39 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_10 {
-    color: #404040;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
+.style_SkipStroke_2 {
+    background: transparent;
     opacity: 1.00;
-    padding-bottom: 16px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
 }
-.style {
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
 }
-.paragraph_style_11 {
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: #a64b3c;
+    opacity: 1.00;
+}
+.style_SkipStroke_5 {
+    background: transparent url(CA64B3C7F.png) repeat scroll center center;
+    opacity: 1.00;
+}
+.paragraph_style_8 {
     color: #b45444;
     font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue', 'Helvetica Neue Black Condensed', 'Arial', sans-serif;
-    font-size: 114px;
+    font-size: 68px;
     font-style: normal;
     font-variant: normal;
     font-weight: bold;
     letter-spacing: 0;
-    line-height: 140px;
+    line-height: 83px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -384,11 +318,14 @@
 .graphic_textbox_layout_style_default_External_224_36 {
     position: relative;
 }
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
 .graphic_textbox_layout_style_default_External_186_25 {
     position: relative;
 }
-.graphic_textbox_layout_style_default {
-    padding: 4px;
+.graphic_textbox_layout_style_default_External_327_308 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default_External_327_413 {
     position: relative;
@@ -396,13 +333,10 @@
 .graphic_textbox_layout_style_default_External_231_42 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_327_308 {
+.graphic_textbox_layout_style_default_External_681_89 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_314_25 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_681_293 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_327_398 {
