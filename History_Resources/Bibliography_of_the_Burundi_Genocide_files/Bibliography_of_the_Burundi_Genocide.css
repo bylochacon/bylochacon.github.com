@@ -22,12 +22,12 @@
 .paragraph_style_1 {
     color: #b45444;
     font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue', 'Helvetica Neue Black Condensed', 'Arial', sans-serif;
-    font-size: 68px;
+    font-size: 60px;
     font-style: normal;
     font-variant: normal;
     font-weight: bold;
     letter-spacing: 0;
-    line-height: 83px;
+    line-height: 74px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -138,6 +138,14 @@
     color: #d67053;
     text-decoration: underline;
 }
+#widget4 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+#widget4 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
 #widget0 a {
     color: #a64b3c;
     text-decoration: none;
@@ -163,6 +171,10 @@
     line-height: 1px;
 }
 #widget3 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+#widget4 a {
     color: #a64b3c;
     text-decoration: none;
 }

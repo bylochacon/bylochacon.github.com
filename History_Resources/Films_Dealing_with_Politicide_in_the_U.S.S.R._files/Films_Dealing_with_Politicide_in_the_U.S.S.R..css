@@ -386,6 +386,14 @@ a:hover {
     color: #d67053;
     text-decoration: underline;
 }
+#widget4 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+#widget4 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
 #widget0 a {
     color: #a64b3c;
     text-decoration: none;
@@ -411,6 +419,10 @@ a:hover {
     line-height: 1px;
 }
 #widget3 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+#widget4 a {
     color: #a64b3c;
     text-decoration: none;
 }
