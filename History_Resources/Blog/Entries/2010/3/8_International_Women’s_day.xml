@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100308" date="2010-03-08 12:01:14 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_International_Women%E2%80%99s_day_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Happy International Women&#x2019;s Day!  In honor of today, which I only happened to stumble upon thanks to the work of the &lt;a href="http://imow.org"&gt;International Museum of Women&lt;/a&gt;, I directed my research towards collecting online resources for women&#x2019;s issues and women&#x2019;s history.  For now, they are not formatted attractively, and their descriptions are not my own, but they are listed on the page for &lt;a href="perma://BLPageReference/381AA43D-8DCD-43E9-8FBC-A82CF4E222FE"&gt;Links - Human Rights and Women&lt;/a&gt;.  I chose this page because I believe women&#x2019;s history essentially to be a history of the struggle for human rights.  &#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>International Women&#x2019;s day</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, March 8, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>
