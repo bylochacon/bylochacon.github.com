@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7DCF2AE-4DE9-4581-BBB6-2BA46644091E">
+  <lastEdited clientType="local-build-20100307" date="2010-03-07 22:34:03 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>PODCAST</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>This will be an overview of the genocide, meant as an introduction to help clarify the major issues and events of the tragedy.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;March 14, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Rwandan Genocide</richText>
+  </textBox>
+</content>

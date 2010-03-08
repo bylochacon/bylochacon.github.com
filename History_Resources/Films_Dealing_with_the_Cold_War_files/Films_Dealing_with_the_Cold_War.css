@@ -201,6 +201,10 @@
     background: transparent url(backgroundimage_1.png) no-repeat scroll center center;
     opacity: 1.00;
 }
+.style_SkipStroke_8 {
+    background: #363636;
+    opacity: 1.00;
+}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -294,6 +298,9 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
+.graphic_shape_layout_style_default_External_225_95 {
+    position: relative;
+}
 .graphic_shape_layout_style_default_External_168_168 {
     position: relative;
 }
@@ -337,6 +344,9 @@
 .graphic_textbox_layout_style_default_External_327_233 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_327_395 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_327_338 {
     position: relative;
 }
@@ -359,46 +369,6 @@ a:hover {
     color: #d67053;
     text-decoration: underline;
 }
-#widget1 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget0 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget1 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget3 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget2 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget3 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget4 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget4 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget0 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
 #widget1 a {
     color: #a64b3c;
     text-decoration: none;
@@ -407,25 +377,29 @@ a:hover {
     color: #d67053;
     text-decoration: underline;
 }
-#widget2 a {
+#widget1 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+#widget0 a {
     color: #a64b3c;
     text-decoration: none;
 }
-#widget2 a:hover {
-    color: #d67053;
-    text-decoration: underline;
+#widget1 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
 }
 .bumper {
     font-size: 1px;
     line-height: 1px;
-}
-#widget3 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
-#widget4 a {
-    color: #a64b3c;
-    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;

@@ -43,18 +43,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
 .paragraph_style_2 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
@@ -118,6 +106,15 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_390_282 {
+    position: relative;
+}
+.style_External_390_120 {
+    position: relative;
+}
+.style_External_390_100 {
+    position: relative;
+}
 .paragraph_style_5 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
@@ -160,15 +157,25 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_3 {
-    background: transparent url(backgroundimage_1.png) no-repeat scroll center center;
+.style_SkipStroke_2 {
+    background: #363636;
     opacity: 1.00;
 }
-.style_External_390_145 {
-    position: relative;
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
-.style_External_390_93 {
-    position: relative;
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: transparent url(backgroundimage_1.png) no-repeat scroll center center;
+    opacity: 1.00;
 }
 .style_External_230_19 {
     position: relative;
@@ -242,13 +249,16 @@
 .Normal_External_660_43 {
     position: relative;
 }
+.Normal_External_390_282 {
+    position: relative;
+}
+.Normal_External_390_100 {
+    position: relative;
+}
+.Normal_External_390_120 {
+    position: relative;
+}
 .Normal_External_230_19 {
-    position: relative;
-}
-.Normal_External_390_93 {
-    position: relative;
-}
-.Normal_External_390_145 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -259,10 +269,23 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_shape_layout_style_default_External_125_245 {
+    position: relative;
+}
+.graphic_shape_layout_style_default {
+    padding: 4px;
+}
+.graphic_shape_layout_style_default_External_225_95 {
+    position: relative;
+}
+.graphic_shape_style_default_SkipStroke {
+    background: #a64b3c;
+    opacity: 1.00;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_400_45 {
+.graphic_textbox_layout_style_default_External_382_36 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_660_40 {
@@ -272,44 +295,8 @@
     background: transparent;
     opacity: 1.00;
 }
-#widget1 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget0 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget1 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget3 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
 #widget2 a:visited {
     color: #333333;
-    text-decoration: none;
-}
-#widget3 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget4 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget4 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget0 a {
-    color: #a64b3c;
     text-decoration: none;
 }
 #widget1 a {
@@ -320,9 +307,29 @@
     color: #d67053;
     text-decoration: underline;
 }
+#widget1 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+#widget0 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+#widget1 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
 #widget2 a {
     color: #a64b3c;
     text-decoration: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
 }
 #widget2 a:hover {
     color: #d67053;
@@ -331,14 +338,6 @@
 .bumper {
     font-size: 1px;
     line-height: 1px;
-}
-#widget3 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
-#widget4 a {
-    color: #a64b3c;
-    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;

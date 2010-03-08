@@ -1,4 +1,4 @@
-// Created by iWeb 2.0.4 local-build-20100306
+// Created by iWeb 2.0.4 local-build-20100307
 
 function createMediaStream_id3()
 {return IWCreatePhotocast("http://bylochacon.com/History_Resources/Photos_files/rss.xml",true,true);}
@@ -16,9 +16,7 @@ function onStubPage()
 {var args=getArgs();parent.IWMediaStreamPhotoPageSetMediaStream(createMediaStream_id3(),args.id);}
 if(window.stubPage)
 {onStubPage();}
-setTransparentGifURL('Media/transparent.gif');function applyEffects()
-{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWStrokeParts([{rect:new IWRect(-4,4,8,192),url:'Photos_files/stroke_8.png'},{rect:new IWRect(-4,-4,8,8),url:'Photos_files/stroke_9.png'},{rect:new IWRect(4,-4,192,8),url:'Photos_files/stroke_10.png'},{rect:new IWRect(196,-4,8,8),url:'Photos_files/stroke_11.png'},{rect:new IWRect(196,4,8,192),url:'Photos_files/stroke_12.png'},{rect:new IWRect(196,196,8,8),url:'Photos_files/stroke_13.png'},{rect:new IWRect(4,196,192,8),url:'Photos_files/stroke_14.png'},{rect:new IWRect(-4,196,8,8),url:'Photos_files/stroke_15.png'}],new IWSize(200,200)),shadow_0:new IWShadow({blurRadius:10,offset:new IWPoint(4.2426,4.2426),color:'#000000',opacity:0.750000})});registry.applyEffects();}
-function hostedOnDM()
+setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
 {return false;}
 function onPageLoad()
 {IWRegisterNamedImage('comment overlay','Media/Photo-Overlay-Comment.png')
@@ -26,7 +24,7 @@ IWRegisterNamedImage('movie overlay','Media/Photo-Overlay-Movie.png')
 IWRegisterNamedImage('contribution overlay','Media/Photo-Overlay-Contribution.png')
 loadMozillaCSS('Photos_files/PhotosMoz.css')
 adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');NotificationCenter.addObserver(null,relayoutMediaGrid_id3,'RangeChanged','id3')
-adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');detectBrowser();adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');Widget.onload();fixupAllIEPNGBGs();applyEffects()
-initializeMediaStream_id3()}
+adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');detectBrowser();adjustLineHeightIfTooBig('id6');adjustFontSizeIfTooBig('id6');adjustLineHeightIfTooBig('id7');adjustFontSizeIfTooBig('id7');Widget.onload();initializeMediaStream_id3()
+performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}

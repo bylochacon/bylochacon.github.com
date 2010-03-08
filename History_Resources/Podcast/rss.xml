@@ -17,16 +17,16 @@
     <itunes:image href="http://bylochacon.com/History_Resources/Podcast/Podcast_files/world-globe.jpeg.jpg"/>
     <language>en</language>
     <item>
-      <title>Desert Rock National Park</title>
-      <link>http://bylochacon.com/History_Resources/Podcast/Entries/2010/1/31_Desert_Rock_National_Park.html</link>
+      <title>Rwandan Genocide</title>
+      <link>http://bylochacon.com/History_Resources/Podcast/Entries/2010/3/14_Rwandan_Genocide%3A__An_overview.html</link>
       <guid isPermaLink="false">436726f7-1e83-43a9-8302-fad1f4a80874</guid>
-      <pubDate>Sun, 31 Jan 2010 11:24:40 -0800</pubDate>
-      <description>&lt;a href=&quot;http://bylochacon.com/History_Resources/Media/200250987-001_c.mp4&quot;&gt;&lt;img src=&quot;http://bylochacon.com/History_Resources/Podcast/Media/200250987-001_c.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:247px; height:247px;&quot;/&gt;&lt;/a&gt;Hello.</description>
+      <pubDate>Sun, 14 Mar 2010 11:24:40 -0700</pubDate>
+      <description>&lt;a href=&quot;http://bylochacon.com/History_Resources/Media/200250987-001_c.mp4&quot;&gt;&lt;img src=&quot;http://bylochacon.com/History_Resources/Podcast/Media/200250987-001_c.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:247px; height:247px;&quot;/&gt;&lt;/a&gt;This will be an overview of the genocide, meant as an introduction to help clarify the major issues and events of the tragedy.</description>
       <enclosure url="http://bylochacon.com/History_Resources/Media/200250987-001_c.mp4" length="27547" type="video/mp4"/>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>00:00:00</itunes:duration>
-      <itunes:subtitle>Hello.</itunes:subtitle>
-      <itunes:summary>Hello.</itunes:summary>
+      <itunes:subtitle>This will be an overview of the genocide, meant as an introduction to help clarify the major issues and events of the tragedy.</itunes:subtitle>
+      <itunes:summary>This will be an overview of the genocide, meant as an introduction to help clarify the major issues and events of the tragedy.</itunes:summary>
     </item>
   </channel>
 </rss>
