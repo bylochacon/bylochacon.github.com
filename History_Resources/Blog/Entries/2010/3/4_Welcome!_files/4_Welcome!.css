@@ -96,13 +96,13 @@
     background: #b2b2b2;
     opacity: 1.00;
 }
+.style_External_269_220 {
+    position: relative;
+}
 .style_External_148_20 {
     bottom: 0px;
     position: absolute;
     width: 148px;
-}
-.style_External_379_220 {
-    position: relative;
 }
 .Date {
     color: #666666;
@@ -314,10 +314,10 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_200_24 {
+.graphic_textbox_layout_style_default_External_269_220 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_379_220 {
+.graphic_textbox_layout_style_default_External_200_24 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_195_24 {

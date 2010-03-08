@@ -49,6 +49,10 @@
     opacity: 1.00;
 }
 .style_SkipStroke_6 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_7 {
     background: #b2b2b2;
     opacity: 1.00;
 }
@@ -178,27 +182,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.Quote {
-    color: #a64b3c;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 16px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 22px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .Summary_Date {
     color: #666666;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -250,6 +233,10 @@
     opacity: 1.00;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_generic_picture_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }

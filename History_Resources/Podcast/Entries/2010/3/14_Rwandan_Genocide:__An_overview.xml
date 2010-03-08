@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="D7DCF2AE-4DE9-4581-BBB6-2BA46644091E">
-  <lastEdited clientType="local-build-20100308" date="2010-03-08 12:01:14 -0800"/>
+  <lastEdited clientType="local-build-20100308" date="2010-03-08 12:53:20 -0800"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>PODCAST</richText>
   </textBox>
@@ -13,4 +13,5 @@
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
     <richText>Rwandan Genocide</richText>
   </textBox>
+  <image id="generic-movie-attribute" dynamic="no" visible="yes" src="14_Rwandan_Genocide%3A__An_overview_files/4317_1030298012605_1680024448_46781_6123983_n.jpg" left="0px" top="0px" width="300px" height="199.7368px"/>
 </content>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
-  <lastEdited clientType="local-build-20100308" date="2010-03-08 12:01:14 -0800"/>
+  <lastEdited clientType="local-build-20100308" date="2010-03-08 12:53:19 -0800"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>BLOG</richText>
   </textBox>
-  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Plan_of_attack_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Plan_of_attack_files/shapeimage_1.jpg" left="0px" top="0px" width="393px" height="210px"/>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
     <richText>I have never really followed through on setting up a website before, but I think that this could be a good way for me to get my head around the myriad of resources available to students of history and human rights.  I am not teaching right now, and I am not currently enrolled as a student, so I want to make sure that my brain isn&#x2019;t complete mush when I apply to programs in the fall.  &#xD;&#xD;First I set up all the areas I wanted on the site, and then realized I bit off way more than I could chew - initially, at least.  This project will indeed take many months.  Its already been four weeks of fairly focused work to get it to this point.&#xD;&#xD;My goal is to finish all of the Rwandan Genocide sections before the end of next week, when I go down to visit my family in Ventura for a few days.  So far, the film section is ready to post, as is one of a possible sixteen bibliographies.  Just typing that makes me realize I may need more than another week.  Links are also a challenge - how much information should be on a site before I include it?  Which sites are most valid?  When should I say &#x2018;enough is enough&#x2019;, and end the list?  I suppose those are things I will have to figure out in the next week!</richText>
   </textBox>
