@@ -19,29 +19,12 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_1 {
-    color: #b45444;
-    font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue', 'Helvetica Neue Black Condensed', 'Arial', sans-serif;
-    font-size: 60px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: bold;
-    letter-spacing: 0;
-    line-height: 74px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .style_SkipStroke_2 {
-    background: #363636;
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke {
@@ -49,8 +32,58 @@
     opacity: 1.00;
 }
 .style_SkipStroke_1 {
-    background: transparent url(backgroundimage_1.png) no-repeat scroll center center;
+    background: #a64b3c;
     opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: #363636;
+    opacity: 1.00;
+}
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 1.00;
+}
+.paragraph_style_1 {
+    color: #404040;
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
+    color: #404040;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 10px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: underline;
+    text-indent: 0px;
+    text-transform: uppercase;
 }
 .Free_Form {
     color: #404040;
@@ -100,12 +133,50 @@
 .Normal_External_535_86 {
     position: relative;
 }
+.Normal_External_290_25 {
+    position: relative;
+}
+.Normal_External_150_270 {
+    position: relative;
+}
+.Title {
+    color: #404040;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 10px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: uppercase;
+}
 .graphic_generic_header_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_generic_title_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
 .graphic_shape_layout_style_default {
     padding: 4px;
+}
+.graphic_shape_layout_style_default_External_150_270 {
+    position: relative;
 }
 .graphic_shape_layout_style_default_External_225_95 {
     position: relative;
@@ -117,12 +188,30 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_681_89 {
+.graphic_textbox_layout_style_default_External_290_25 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_224_36 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_330_100 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 #widget1 a {
     color: #a64b3c;
