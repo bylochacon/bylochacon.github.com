@@ -40,10 +40,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_2 {
-    background: #a64b3c;
-    opacity: 1.00;
-}
 .paragraph_style_2 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -68,14 +64,6 @@
 .style {
     font-size: 24px;
     line-height: 29px;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
 }
 .paragraph_style_3 {
     color: #7e3a32;
@@ -119,7 +107,15 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_3 {
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
     background: transparent url(CA64B3C7F.png) repeat scroll center center;
     opacity: 1.00;
 }
@@ -127,15 +123,15 @@
     font-size: 23px;
     line-height: 28px;
 }
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke_5 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_6 {
     background: #363636;
     opacity: 1.00;
 }
