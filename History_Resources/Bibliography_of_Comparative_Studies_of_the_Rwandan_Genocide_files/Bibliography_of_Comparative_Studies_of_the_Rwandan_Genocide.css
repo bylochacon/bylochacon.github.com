@@ -48,29 +48,8 @@
     background: transparent;
     opacity: 1.00;
 }
-.paragraph_style_2 {
-    color: #b45444;
-    font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue', 'Helvetica Neue Black Condensed', 'Arial', sans-serif;
-    font-size: 60px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: bold;
-    letter-spacing: 0;
-    line-height: 74px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .style_SkipStroke_4 {
-    background: transparent url(backgroundimage_1.png) no-repeat scroll center center;
+    background: #363636;
     opacity: 1.00;
 }
 .style_SkipStroke {
@@ -79,10 +58,6 @@
 }
 .style_SkipStroke_1 {
     background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_5 {
-    background: #363636;
     opacity: 1.00;
 }
 .Free_Form {
@@ -154,9 +129,6 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_141_266 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_681_89 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_537_266 {
