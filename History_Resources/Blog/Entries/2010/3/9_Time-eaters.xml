@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100309" date="2010-03-09 12:54:34 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_Time-eaters_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>It seems that the things that take the most time in creating this project are the small, formatting tasks.  Centering, font size and style, adjusting the position of every little text box.  Hopefully its worth it - I want to make this site as easy to navigate as possible.&#xD;&#xD;I think that the pages for Rwandan Genocide Films and the Personal Accounts of the Rwandan Genocide are done.  Everything else is still in process.  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Time-eaters</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, March 9, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>
