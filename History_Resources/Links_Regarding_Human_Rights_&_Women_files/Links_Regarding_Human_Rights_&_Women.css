@@ -210,6 +210,27 @@
 }
 .paragraph_style_8 {
     color: #404040;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_9 {
+    color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 10px;
     font-style: normal;
@@ -233,15 +254,15 @@
     font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-style: italic;
 }
-.paragraph_style_9 {
+.paragraph_style_10 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 13px;
     font-style: normal;
     font-variant: normal;
     font-weight: bold;
     letter-spacing: 0;
-    line-height: 17px;
+    line-height: 16px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -254,7 +275,19 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_10 {
+.style_10 {
+    font-size: 12px;
+    line-height: 15px;
+}
+.style_11 {
+    font-size: 10px;
+    line-height: 12px;
+}
+.style_12 {
+    font-size: 13px;
+    line-height: 16px;
+}
+.paragraph_style_11 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
@@ -274,57 +307,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.paragraph_style_11 {
-    color: #404040;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 4px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_10 {
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 10px;
-    font-style: italic;
-    line-height: 12px;
-    text-decoration: underline;
-}
-.style_11 {
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 10px;
-    font-style: italic;
-    line-height: 12px;
-}
-.style_12 {
-    font-weight: bold;
-    text-decoration: underline;
-}
-.style_13 {
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-style: italic;
-    text-decoration: underline;
-}
-.style_14 {
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-style: italic;
-}
-.style_15 {
-    font-size: 12px;
-    line-height: 15px;
 }
 .paragraph_style_12 {
     color: #404040;
@@ -334,6 +316,58 @@
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
+    line-height: 4px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_13 {
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 10px;
+    font-style: italic;
+    line-height: 12px;
+    text-decoration: underline;
+}
+.style_14 {
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 10px;
+    font-style: italic;
+    line-height: 12px;
+}
+.style_15 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+.style_16 {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 17px;
+}
+.style_17 {
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+}
+.style_18 {
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-style: italic;
+}
+.paragraph_style_13 {
+    color: #404040;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
     line-height: 17px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -347,9 +381,9 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_16 {
+.style_19 {
 }
-.paragraph_style_13 {
+.paragraph_style_14 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -358,27 +392,6 @@
     font-weight: normal;
     letter-spacing: 0;
     line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 14px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_14 {
-    color: #404040;
-    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: bold;
-    letter-spacing: 0;
-    line-height: 17px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -393,6 +406,27 @@
 }
 .paragraph_style_15 {
     color: #404040;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 14px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_16 {
+    color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
     font-style: normal;
@@ -412,7 +446,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_16 {
+.paragraph_style_17 {
     color: #333333;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -433,7 +467,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_17 {
+.paragraph_style_18 {
     color: #333333;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
@@ -454,7 +488,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_18 {
+.paragraph_style_19 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -475,7 +509,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_19 {
+.paragraph_style_20 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
@@ -510,10 +544,6 @@
 }
 .style_SkipStroke_3 {
     background: #363636;
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: #a64b3c;
     opacity: 1.00;
 }
 .Free_Form {
@@ -578,14 +608,14 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_shape_layout_style_default_External_150_150 {
-    position: relative;
-}
 .graphic_shape_style_default_SkipStroke {
     background: #a64b3c;
     opacity: 1.00;
 }
 .graphic_textbox_layout_style_default_External_520_135 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_530_25 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_100 {
