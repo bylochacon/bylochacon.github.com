@@ -44,9 +44,26 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_3 {
-    background: #363636;
+.paragraph_style_2 {
+    color: #404040;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
     opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
 .style_SkipStroke {
     background: transparent;
@@ -56,8 +73,12 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_4 {
+.style_SkipStroke_3 {
     background: #a64b3c;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: #363636;
     opacity: 1.00;
 }
 .Free_Form {
@@ -139,9 +160,6 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_173_100 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_670_246 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
