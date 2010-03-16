@@ -550,6 +550,10 @@
     background: #363636;
     opacity: 1.00;
 }
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
