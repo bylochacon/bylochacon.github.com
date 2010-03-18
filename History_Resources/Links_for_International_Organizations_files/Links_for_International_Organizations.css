@@ -1,12 +1,12 @@
 .paragraph_style {
-    color: #404040;
-    font-family: 'HelveticaNeue-Italic', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: italic;
+    color: #666666;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 36px;
+    font-style: normal;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 14px;
+    line-height: 43px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -20,14 +20,14 @@
     text-transform: none;
 }
 .paragraph_style_1 {
-    color: #666666;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 36px;
-    font-style: normal;
+    color: #404040;
+    font-family: 'HelveticaNeue-Italic', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: italic;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 43px;
+    line-height: 14px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
