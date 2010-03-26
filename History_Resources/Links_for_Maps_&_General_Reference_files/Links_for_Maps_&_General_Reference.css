@@ -99,7 +99,11 @@
     text-transform: none;
 }
 .style_SkipStroke_4 {
-    background: #a64b3c;
+    background: transparent url(CA64B3C7F.png) repeat scroll center center;
+    opacity: 1.00;
+}
+.style_SkipStroke_5 {
+    background: transparent;
     opacity: 1.00;
 }
 .Free_Form {
