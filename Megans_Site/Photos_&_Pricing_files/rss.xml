@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photos &amp; Pricing</title>
+    <link>http://bylochacon.com/Megans_Site/Photos_%26_Pricing.html</link>
+    <description>Some of what I have made and sold in the past, with their price.</description>
+    <item>
+      <title>Bella playing in the water.</title>
+      <link>http://bylochacon.com/Megans_Site/Photos_%26_Pricing.html#0</link>
+      <guid isPermaLink="false">cbeb2d61-7228-4219-aa86-4552fa0970c1</guid>
+      <enclosure url="http://bylochacon.com/Megans_Site/Photos_%26_Pricing_files/Media/23-1051-0272_30_a/23-1051-0272_30_a.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://bylochacon.com/Megans_Site/Photos_%26_Pricing_files/Media/23-1051-0272_30_a/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://bylochacon.com/Megans_Site/Photos_%26_Pricing_files/Media/23-1051-0272_30_a/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_241_34&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Bella playing in the water.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>The girls, after the picnic.</title>
+      <link>http://bylochacon.com/Megans_Site/Photos_%26_Pricing.html#1</link>
+      <guid isPermaLink="false">ac73fbdf-5d14-4552-95cb-658acdeb9265</guid>
+      <enclosure url="http://bylochacon.com/Megans_Site/Photos_%26_Pricing_files/Media/18_a/18_a.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://bylochacon.com/Megans_Site/Photos_%26_Pricing_files/Media/18_a/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://bylochacon.com/Megans_Site/Photos_%26_Pricing_files/Media/18_a/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_241_34&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;The girls, after the picnic.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Resting after the hike.</title>
+      <link>http://bylochacon.com/Megans_Site/Photos_%26_Pricing.html#2</link>
+      <guid isPermaLink="false">45cdf5ab-253f-44ef-8ecb-f4a4a3dd21f7</guid>
+      <enclosure url="http://bylochacon.com/Megans_Site/Photos_%26_Pricing_files/Media/04_a/04_a.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://bylochacon.com/Megans_Site/Photos_%26_Pricing_files/Media/04_a/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://bylochacon.com/Megans_Site/Photos_%26_Pricing_files/Media/04_a/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_241_34&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Resting after the hike.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Jack in his big hole.</title>
+      <link>http://bylochacon.com/Megans_Site/Photos_%26_Pricing.html#3</link>
+      <guid isPermaLink="false">8bd1cfbf-ce70-4969-8f5b-f8c99e4f546d</guid>
+      <enclosure url="http://bylochacon.com/Megans_Site/Photos_%26_Pricing_files/Media/06_a/06_a.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://bylochacon.com/Megans_Site/Photos_%26_Pricing_files/Media/06_a/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://bylochacon.com/Megans_Site/Photos_%26_Pricing_files/Media/06_a/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_241_34&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Jack in his big hole.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
