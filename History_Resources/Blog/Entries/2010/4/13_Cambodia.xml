@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100413" date="2010-04-13 10:47:14 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Cambodia_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Cambodia is a place that I have wanted to travel to for a while.  The photographs are beautiful, and those who have been there talk about the warmth of the people.  There are ancient and beautiful temples and a lush, green landscape.  &#xD;&#xD;Today I am adding a short, &#x2018;starter&#x2019;, bibliography on the Cambodian genocide. The &lt;a href="perma://BLPageReference/E42F40AA-7B74-422A-AF01-009E2BCA7400"&gt;Cambodian Genocide Films page&lt;/a&gt; is already up and going, and I will add more to the &lt;a href="perma://BLPageReference/A99CD90E-F7F2-4425-97D2-914A96ED9B92"&gt;Cambodian Genocide Bibliography page&lt;/a&gt; as I read and understand more.  &#xD;&#xD;The basic facts are these:  Between 1975 and 1979, under the rule of Pol Pot and the Khmer Rouge, Cambodia lost nearly two million people from starvation, forced labor, and executions.  Trials of perpetrators began only in 2006, thirty years later.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Cambodia</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, April 13, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

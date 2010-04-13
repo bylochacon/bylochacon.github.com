@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
-  <lastEdited clientType="local-build-20100412" date="2010-04-12 11:00:18 -0700"/>
+  <lastEdited clientType="local-build-20100413" date="2010-04-13 10:47:14 -0700"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>BLOG</richText>
   </textBox>
   <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_Time-eaters_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
-    <richText>It seems that the things that take the most time in creating this project are the small, formatting tasks.  Centering, font size and style, adjusting the position of every little text box.  Hopefully its worth it - I want to make this site as easy to navigate as possible.&#xD;&#xD;I think that the pages for Rwandan Genocide Films and the Personal Accounts of the Rwandan Genocide are done.  Everything else is still in process.  </richText>
+    <richText>It seems that the things that take the most time in creating this project are the small, formatting tasks.  Centering, font size and style, adjusting the position of every little text box.  Hopefully its worth it - I want to make this site as easy to navigate as possible.&#xD;&#xD;I think that the pages for &lt;a href="perma://BLPageReference/98A9BD57-D224-4203-A2F7-4B806085C8D2"&gt;Films Dealing with the Rwandan Genocide&lt;/a&gt; and the &lt;a href="perma://BLPageReference/2C15BA81-3647-4E84-A971-DF035A897ABD"&gt;Bibliography of Personal Accounts of the Rwandan Genocide&lt;/a&gt; are done.  Everything else is still in process.  </richText>
   </textBox>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
     <richText>Time-eaters</richText>
