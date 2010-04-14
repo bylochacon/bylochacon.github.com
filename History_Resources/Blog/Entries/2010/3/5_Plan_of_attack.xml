@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
-  <lastEdited clientType="local-build-20100413" date="2010-04-13 10:47:13 -0700"/>
+  <lastEdited clientType="local-build-20100414" date="2010-04-14 11:38:42 -0700"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>BLOG</richText>
   </textBox>
@@ -9,7 +9,7 @@
     <richText>I have never really followed through on setting up a website before, but I think that this could be a good way for me to get my head around the myriad of resources available to students of history and human rights.  I am not teaching right now, and I am not currently enrolled as a student, so I want to make sure that my brain isn&#x2019;t complete mush when I apply to programs in the fall.  &#xD;&#xD;First I set up all the areas I wanted on the site, and then realized I bit off way more than I could chew - initially, at least.  This project will indeed take many months.  Its already been four weeks of fairly focused work to get it to this point.&#xD;&#xD;My goal is to finish all of the Rwandan Genocide sections before the end of next week, when I go down to visit my family in Ventura for a few days.  So far, the film section is ready to post, as is one of a possible sixteen bibliographies.  Just typing that makes me realize I may need more than another week.  Links are also a challenge - how much information should be on a site before I include it?  Which sites are most valid?  When should I say &#x2018;enough is enough&#x2019;, and end the list?  I suppose those are things I will have to figure out in the next week!</richText>
   </textBox>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
-    <richText>Plan of attack</richText>
+    <richText>Plan of Attack</richText>
   </textBox>
   <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
     <richText>&lt;b&gt;Friday, March 5, 2010&lt;/b&gt;</richText>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100414" date="2010-04-14 11:38:42 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_The_Former_Yugoslavia_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Today I am simply putting up a small list of works dealing with the wars in the Balkans in the 1990s, wars which led to a vigorous attempt at ethnic cleansing and resulted in the deaths of approximately 100,000.  &#xD;&#xD;I recently read a book, a graphic novel, called Safe Area Gorazde.  It is listed on the &lt;a href="perma://BLPageReference/47B5440D-A708-4A0D-B2B6-482A83F2149E"&gt;Bibliography of Ethnic Cleansing in the Former Yugoslavia&lt;/a&gt; page.  Written from the perspective of its journalist author Joe Sacco, it did a very good job at making the experiences of Muslim individuals caught in the war in Eastern Bosnia vivid and personal to a reader who has never experienced anything like that.  Sacco moved fluidly between the memories of the survivors and the present.  Using the medium of the graphic novel, he made a difficult topic readable and understandable to a lay person.  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Former Yugoslavia</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, April 14, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>
