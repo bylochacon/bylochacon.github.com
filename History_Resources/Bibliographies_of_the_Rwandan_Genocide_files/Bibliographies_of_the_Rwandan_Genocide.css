@@ -83,13 +83,21 @@
 }
 .style_SkipStroke_3 {
     background: transparent;
-    opacity: 1.00;
+    opacity: 0.50;
 }
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke_5 {
+    background: transparent;
+    opacity: 0.50;
+}
+.style_SkipStroke_6 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_7 {
     background: #363636;
     opacity: 1.00;
 }
