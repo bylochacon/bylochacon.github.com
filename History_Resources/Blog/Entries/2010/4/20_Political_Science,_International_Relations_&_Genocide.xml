@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100420" date="2010-04-20 12:23:35 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_Political_Science,_International_Relations_%26_Genocide_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Democide, mass murder, politicide, ethnic cleansing, genocide, gendercide - understanding these are an increasingly large part of navigating the world of international relations.  Whether the solution is democracy, globalization, civic responsibility, the United Nations and other policing forces, or some combination of these and more, is all up for debate.  I have put up another starter page, &lt;a href="perma://BLPageReference/76A0CA2F-4BD6-47AA-BDE3-07BB85B56721"&gt;Bibliography of Political Science, International Relations &amp; Genocide&lt;/a&gt;, (again with great thanks to the work by Adam Jones) dealing with just these topics.&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Political Science, International Relations &amp; Genocide</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, April 20, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>
