@@ -40,6 +40,10 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_2 {
+    background: #a64c3d;
+    opacity: 1.00;
+}
 .paragraph_style_2 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -60,10 +64,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_SkipStroke_2 {
-    background: #a64c3d;
-    opacity: 1.00;
 }
 .paragraph_style_3 {
     color: #404040;
@@ -96,10 +96,6 @@
 }
 .style_SkipStroke_1 {
     background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: #363636;
     opacity: 1.00;
 }
 .Free_Form {
@@ -154,21 +150,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_shape_layout_style_default {
-    padding: 4px;
-}
-.graphic_shape_layout_style_default_External_225_95 {
+.graphic_textbox_layout_style_default_External_175_50 {
     position: relative;
-}
-.graphic_shape_style_default_SkipStroke {
-    background: #a64b3c;
-    opacity: 1.00;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
-}
-.graphic_textbox_layout_style_default_External_175_50 {
-    position: relative;
 }
 .graphic_textbox_layout_style_default_External_141_266 {
     position: relative;
@@ -205,6 +191,10 @@
     text-decoration: none;
 }
 #widget8 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+#widget21 a:hover {
     color: #d67053;
     text-decoration: underline;
 }
@@ -288,6 +278,14 @@
     color: #d67053;
     text-decoration: underline;
 }
+#widget20 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+#widget20 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
 #widget0 a:visited {
     color: #333333;
     text-decoration: none;
@@ -324,6 +322,10 @@
     color: #d67053;
     text-decoration: underline;
 }
+#widget20 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
 #widget4 a {
     color: #a64b3c;
     text-decoration: none;
@@ -345,6 +347,10 @@
     text-decoration: underline;
 }
 #widget14 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+#widget21 a {
     color: #a64b3c;
     text-decoration: none;
 }
@@ -427,6 +433,10 @@
 #widget19 a:hover {
     color: #d67053;
     text-decoration: underline;
+}
+#widget21 a:visited {
+    color: #333333;
+    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;

@@ -40,6 +40,10 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_2 {
+    background: #a64c3d;
+    opacity: 1.00;
+}
 .paragraph_style_2 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -60,10 +64,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_SkipStroke_2 {
-    background: #a64c3d;
-    opacity: 1.00;
 }
 .paragraph_style_3 {
     color: #404040;
@@ -96,10 +96,6 @@
 }
 .style_SkipStroke_1 {
     background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: #363636;
     opacity: 1.00;
 }
 .Free_Form {
@@ -154,26 +150,16 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_shape_layout_style_default {
-    padding: 4px;
-}
-.graphic_shape_layout_style_default_External_225_95 {
+.graphic_textbox_layout_style_default_External_175_50 {
     position: relative;
-}
-.graphic_shape_style_default_SkipStroke {
-    background: #a64b3c;
-    opacity: 1.00;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_175_50 {
+.graphic_textbox_layout_style_default_External_141_266 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_537_278 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_141_266 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_537_266 {
@@ -231,6 +217,10 @@
     color: #d67053;
     text-decoration: underline;
 }
+#widget23 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
 #widget9 a:hover {
     color: #d67053;
     text-decoration: underline;
@@ -243,6 +233,10 @@
     color: #333333;
     text-decoration: none;
 }
+#widget23 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
 #widget8 a {
     color: #a64b3c;
     text-decoration: none;
@@ -254,6 +248,10 @@
 #widget16 a:hover {
     color: #d67053;
     text-decoration: underline;
+}
+#widget22 a:visited {
+    color: #333333;
+    text-decoration: none;
 }
 #widget12 a:visited {
     color: #333333;
@@ -319,9 +317,17 @@
     color: #a64b3c;
     text-decoration: none;
 }
+#widget23 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
 #widget7 a {
     color: #a64b3c;
     text-decoration: none;
+}
+#widget22 a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 #widget13 a:visited {
     color: #333333;
@@ -412,6 +418,10 @@
     text-decoration: underline;
 }
 #widget10 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+#widget22 a {
     color: #a64b3c;
     text-decoration: none;
 }

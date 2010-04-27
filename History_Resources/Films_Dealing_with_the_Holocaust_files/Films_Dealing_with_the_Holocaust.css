@@ -313,10 +313,6 @@
     opacity: 1.00;
 }
 .style_SkipStroke_7 {
-    background: #363636;
-    opacity: 1.00;
-}
-.style_SkipStroke_8 {
     background: transparent;
     opacity: 1.00;
 }
@@ -408,9 +404,6 @@
     opacity: 1.00;
 }
 .graphic_shape_layout_style_default_External_150_270 {
-    position: relative;
-}
-.graphic_shape_layout_style_default_External_225_95 {
     position: relative;
 }
 .graphic_shape_layout_style_default {
@@ -544,6 +537,10 @@ a:hover {
 #widget12 a {
     color: #a64b3c;
     text-decoration: none;
+}
+#widget54 a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 #widget38 a {
     color: #a64b3c;
@@ -679,6 +676,10 @@ a:hover {
 }
 #widget17 a:visited {
     color: #333333;
+    text-decoration: none;
+}
+#widget53 a {
+    color: #a64b3c;
     text-decoration: none;
 }
 #widget9 a:hover {
@@ -1001,6 +1002,10 @@ a:hover {
     color: #a64b3c;
     text-decoration: none;
 }
+#widget54 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
 #widget40 a {
     color: #a64b3c;
     text-decoration: none;
@@ -1021,9 +1026,17 @@ a:hover {
     color: #d67053;
     text-decoration: underline;
 }
+#widget54 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
 #widget18 a:hover {
     color: #d67053;
     text-decoration: underline;
+}
+#widget53 a:visited {
+    color: #333333;
+    text-decoration: none;
 }
 #widget38 a:hover {
     color: #d67053;
@@ -1120,6 +1133,10 @@ a:hover {
 #widget49 a:visited {
     color: #333333;
     text-decoration: none;
+}
+#widget53 a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 #widget34 a {
     color: #a64b3c;

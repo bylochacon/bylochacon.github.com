@@ -45,7 +45,7 @@
     opacity: 1.00;
 }
 .style_SkipStroke_3 {
-    background: #363636;
+    background: #a64b3c;
     opacity: 1.00;
 }
 .style_SkipStroke {
@@ -54,10 +54,6 @@
 }
 .style_SkipStroke_1 {
     background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: #a64b3c;
     opacity: 1.00;
 }
 .Free_Form {
@@ -122,9 +118,6 @@
 .graphic_shape_layout_style_default_External_150_150 {
     position: relative;
 }
-.graphic_shape_layout_style_default_External_225_95 {
-    position: relative;
-}
 .graphic_shape_style_default_SkipStroke {
     background: #a64b3c;
     opacity: 1.00;
@@ -145,15 +138,11 @@
     background: transparent;
     opacity: 1.00;
 }
-#widget1 a {
-    color: #a64b3c;
-    text-decoration: none;
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
 }
 #widget0 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget1 a:hover {
     color: #d67053;
     text-decoration: underline;
 }
@@ -165,15 +154,7 @@
     color: #a64b3c;
     text-decoration: none;
 }
-#widget1 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
 .spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-.bumper {
     font-size: 1px;
     line-height: 1px;
 }

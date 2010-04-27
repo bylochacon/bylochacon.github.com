@@ -190,10 +190,6 @@
     background: transparent url(CA64B3C7F.png) repeat scroll center center;
     opacity: 1.00;
 }
-.style_SkipStroke_6 {
-    background: #363636;
-    opacity: 1.00;
-}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -286,9 +282,6 @@
 }
 .graphic_shape_layout_style_default {
     padding: 4px;
-}
-.graphic_shape_layout_style_default_External_225_95 {
-    position: relative;
 }
 .graphic_shape_style_default_SkipStroke {
     background: #a64b3c;
@@ -397,19 +390,43 @@ a:hover {
     color: #333333;
     text-decoration: none;
 }
+#widget8 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
 #widget5 a:hover {
     color: #d67053;
     text-decoration: underline;
 }
+#widget8 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+#widget9 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
 .spacer {
     font-size: 1px;
     line-height: 1px;
+}
+#widget9 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+#widget8 a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 #widget1 a:hover {
     color: #d67053;
     text-decoration: underline;
 }
 #widget7 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+#widget9 a:visited {
     color: #333333;
     text-decoration: none;
 }

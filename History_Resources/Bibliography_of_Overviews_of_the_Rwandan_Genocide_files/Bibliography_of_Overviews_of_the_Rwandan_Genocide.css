@@ -143,10 +143,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_4 {
-    background: #363636;
-    opacity: 1.00;
-}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -197,16 +193,6 @@
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
     background: transparent;
-    opacity: 1.00;
-}
-.graphic_shape_layout_style_default {
-    padding: 4px;
-}
-.graphic_shape_layout_style_default_External_225_95 {
-    position: relative;
-}
-.graphic_shape_style_default_SkipStroke {
-    background: #a64b3c;
     opacity: 1.00;
 }
 .graphic_textbox_layout_style_default {
@@ -268,6 +254,10 @@ a:hover {
     color: #d67053;
     text-decoration: underline;
 }
+#widget21 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
 #widget11 a {
     color: #a64b3c;
     text-decoration: none;
@@ -307,6 +297,10 @@ a:hover {
 #widget16 a:hover {
     color: #d67053;
     text-decoration: underline;
+}
+#widget22 a:visited {
+    color: #333333;
+    text-decoration: none;
 }
 #widget12 a:visited {
     color: #333333;
@@ -376,6 +370,10 @@ a:hover {
     color: #a64b3c;
     text-decoration: none;
 }
+#widget22 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
 #widget13 a:visited {
     color: #333333;
     text-decoration: none;
@@ -417,6 +415,10 @@ a:hover {
     text-decoration: underline;
 }
 #widget14 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+#widget21 a {
     color: #a64b3c;
     text-decoration: none;
 }
@@ -464,6 +466,10 @@ a:hover {
     color: #a64b3c;
     text-decoration: none;
 }
+#widget22 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
 #widget15 a {
     color: #a64b3c;
     text-decoration: none;
@@ -499,6 +505,10 @@ a:hover {
 #widget19 a:hover {
     color: #d67053;
     text-decoration: underline;
+}
+#widget21 a:visited {
+    color: #333333;
+    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;

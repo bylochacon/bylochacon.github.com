@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100426" date="2010-04-26 20:08:48 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Gender_%26_Genocide_files/shapeimage_1.jpg" left="0px" top="0px" width="307px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Gender is an immensely complicated issue, and prevents complex questions when studying genocide.  This short list, &lt;a href="perma://BLPageReference/B3595D73-79A9-4B77-A56D-F77549ECE3D9"&gt;Bibliography of Gender &amp; Genocide&lt;/a&gt;, again created with considerable help from Adam Jones, reflects the varied roles women have filled in the midst of genocide.  &#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Gender &amp; Genocide</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, April 26, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -41,19 +41,7 @@
     text-transform: none;
 }
 .style_SkipStroke_2 {
-    background: #363636;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
     background: #a64c3d;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
     opacity: 1.00;
 }
 .paragraph_style_2 {
@@ -98,7 +86,15 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_4 {
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
@@ -154,21 +150,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_shape_layout_style_default {
-    padding: 4px;
-}
-.graphic_shape_layout_style_default_External_225_95 {
+.graphic_textbox_layout_style_default_External_175_50 {
     position: relative;
-}
-.graphic_shape_style_default_SkipStroke {
-    background: #a64b3c;
-    opacity: 1.00;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
-}
-.graphic_textbox_layout_style_default_External_175_50 {
-    position: relative;
 }
 .graphic_textbox_layout_style_default_External_141_266 {
     position: relative;
@@ -220,6 +206,10 @@
     color: #a64b3c;
     text-decoration: none;
 }
+#widget13 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
 #widget9 a:visited {
     color: #333333;
     text-decoration: none;
@@ -227,6 +217,10 @@
 #widget5 a:visited {
     color: #333333;
     text-decoration: none;
+}
+#widget13 a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 #widget3 a {
     color: #a64b3c;
@@ -255,6 +249,14 @@
 #widget0 a {
     color: #a64b3c;
     text-decoration: none;
+}
+#widget12 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+#widget12 a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 #widget7 a {
     color: #a64b3c;
@@ -292,6 +294,10 @@
     color: #d67053;
     text-decoration: underline;
 }
+#widget12 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
 #widget1 a:hover {
     color: #d67053;
     text-decoration: underline;
@@ -307,6 +313,10 @@
 #widget7 a:hover {
     color: #d67053;
     text-decoration: underline;
+}
+#widget13 a {
+    color: #a64b3c;
+    text-decoration: none;
 }
 #widget8 a {
     color: #a64b3c;

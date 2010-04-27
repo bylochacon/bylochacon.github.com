@@ -1,4 +1,4 @@
-// Created by iWeb 2.0.4 local-build-20100420
+// Created by iWeb 2.0.4 local-build-20100426
 
 function createMediaStream_id3()
 {return IWCreatePhotocast("http://bylochacon.com/History_Resources/Photos_files/rss.xml",true,true);}
@@ -24,7 +24,7 @@ IWRegisterNamedImage('movie overlay','Media/Photo-Overlay-Movie.png')
 IWRegisterNamedImage('contribution overlay','Media/Photo-Overlay-Contribution.png')
 loadMozillaCSS('Photos_files/PhotosMoz.css')
 adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');NotificationCenter.addObserver(null,relayoutMediaGrid_id3,'RangeChanged','id3')
-adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');detectBrowser();adjustLineHeightIfTooBig('id6');adjustFontSizeIfTooBig('id6');adjustLineHeightIfTooBig('id7');adjustFontSizeIfTooBig('id7');Widget.onload();initializeMediaStream_id3()
+adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');detectBrowser();Widget.onload();initializeMediaStream_id3()
 performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}

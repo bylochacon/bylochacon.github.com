@@ -23,10 +23,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_1 {
-    background: #363636;
-    opacity: 1.00;
-}
 .Header {
     color: #666666;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
@@ -48,25 +44,47 @@
     text-indent: 0px;
     text-transform: none;
 }
-.Normal {
-    padding: 0px;
-}
 .Normal_External_662_85 {
     position: relative;
+}
+.Normal {
+    padding: 0px;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
-.graphic_shape_layout_style_default {
-    padding: 4px;
+#widget1 a:visited {
+    color: #333333;
+    text-decoration: none;
 }
-.graphic_shape_layout_style_default_External_225_95 {
-    position: relative;
+#widget0 a:visited {
+    color: #333333;
+    text-decoration: none;
 }
-.graphic_shape_style_default_SkipStroke {
-    background: #a64b3c;
-    opacity: 1.00;
+#widget1 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget3 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+#widget2 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+#widget3 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+#widget0 a {
+    color: #a64b3c;
+    text-decoration: none;
 }
 #widget1 a {
     color: #a64b3c;
@@ -76,29 +94,21 @@
     color: #d67053;
     text-decoration: underline;
 }
-#widget1 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget0 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget0 a {
+#widget2 a {
     color: #a64b3c;
     text-decoration: none;
 }
-#widget1 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
+#widget2 a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 .bumper {
     font-size: 1px;
     line-height: 1px;
+}
+#widget3 a {
+    color: #a64b3c;
+    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;
