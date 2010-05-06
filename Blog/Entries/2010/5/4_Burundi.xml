@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100505" date="2010-05-05 11:43:24 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="4_Burundi_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>In 1972, 80-210,000 Tutsi were killed by Hutu.  In 1993, approximately 50,000 Hutu were killed by Tutsi.  I have put together a small introductory reading list on the &lt;a href="perma://BLPageReference/EBBFD4B9-B447-4CD1-B479-A00642362132"&gt;Bibliography of the Burundi Genocide&lt;/a&gt; page.  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Burundi</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, May 4, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

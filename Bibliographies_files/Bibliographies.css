@@ -24,7 +24,7 @@
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
     font-style: normal;
-    font-variant: normal;
+    font-variant: small-caps;
     font-weight: normal;
     letter-spacing: 0;
     line-height: 16px;
@@ -38,14 +38,14 @@
     text-align: left;
     text-decoration: none;
     text-indent: 0px;
-    text-transform: uppercase;
+    text-transform: none;
 }
 .paragraph_style_2 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
     font-style: normal;
-    font-variant: normal;
+    font-variant: small-caps;
     font-weight: normal;
     letter-spacing: 0;
     line-height: 16px;
@@ -59,32 +59,15 @@
     text-align: left;
     text-decoration: none;
     text-indent: 0px;
-    text-transform: uppercase;
+    text-transform: none;
 }
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
-.paragraph_style_3 {
-    color: #7e3931;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 24px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 29px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
+.style_SkipStrokeSkipFillSkipOpacity {
+}
+.style_SkipStrokeSkipFillSkipOpacity_1 {
 }
 .style_SkipStroke {
     background: transparent;
@@ -97,27 +80,6 @@
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
-}
-.Free_Form {
-    color: #404040;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
 }
 .Header {
     color: #666666;
@@ -149,10 +111,10 @@
 .Normal_External_300_314 {
     position: relative;
 }
-.Normal_External_299_594 {
+.Normal_External_323_568 {
     position: relative;
 }
-.Normal_External_139_240 {
+.Normal_External_139_198 {
     position: relative;
 }
 .Title {
@@ -191,15 +153,14 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_306_36 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_125_249 {
+.graphic_textbox_layout_style_default_External_125_144 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 a {
     color: #a64b3c;

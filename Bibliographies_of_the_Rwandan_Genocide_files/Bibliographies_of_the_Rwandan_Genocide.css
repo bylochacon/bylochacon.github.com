@@ -44,6 +44,10 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 0.50;
+}
 .style {
     font-size: 17px;
     line-height: 21px;
@@ -81,19 +85,19 @@
     background: #a64c3d;
     opacity: 1.00;
 }
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 0.50;
-}
 .style_SkipStroke_4 {
     background: transparent;
-    opacity: 1.00;
+    opacity: 0.50;
 }
 .style_SkipStroke_5 {
     background: transparent;
-    opacity: 0.50;
+    opacity: 1.00;
 }
 .style_SkipStroke_6 {
+    background: transparent;
+    opacity: 0.50;
+}
+.style_SkipStroke_7 {
     background: transparent;
     opacity: 1.00;
 }

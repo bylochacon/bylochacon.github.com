@@ -45,8 +45,8 @@
     opacity: 1.00;
 }
 .style_SkipStroke_3 {
-    background: #a64b3c;
-    opacity: 1.00;
+    background: transparent;
+    opacity: 0.50;
 }
 .style_SkipStroke {
     background: transparent;
@@ -55,6 +55,10 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: #a64b3c;
+    opacity: 0.50;
 }
 .Free_Form {
     color: #404040;

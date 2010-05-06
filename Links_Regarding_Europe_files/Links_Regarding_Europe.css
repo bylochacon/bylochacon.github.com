@@ -120,8 +120,12 @@
     text-transform: none;
 }
 .style_SkipStroke_4 {
+    background: transparent;
+    opacity: 0.50;
+}
+.style_SkipStroke_5 {
     background: #a64b3c;
-    opacity: 1.00;
+    opacity: 0.50;
 }
 .Free_Form {
     color: #404040;

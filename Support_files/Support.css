@@ -22,6 +22,10 @@
 .style {
     padding: 0px;
 }
+.style_SkipStroke_2 {
+    background: #363636;
+    opacity: 1.00;
+}
 .paragraph_style_1 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
@@ -42,6 +46,24 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_External_390_146 {
+    position: relative;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_390_120 {
+    position: relative;
 }
 .paragraph_style_2 {
     color: #404040;
@@ -88,27 +110,6 @@
 .paragraph_style_4 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 11px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 16px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_5 {
-    color: #404040;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 12px;
     font-style: normal;
     font-variant: normal;
@@ -127,58 +128,8 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_390_120 {
-    position: relative;
-}
-.style_External_390_282 {
-    position: relative;
-}
 .style_External_390_100 {
     position: relative;
-}
-.style_External_390_264 {
-    position: relative;
-}
-.style_SkipStroke_2 {
-    background: #363636;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
-}
-.paragraph_style_6 {
-    color: #b45444;
-    font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue', 'Helvetica Neue Black Condensed', 'Arial', sans-serif;
-    font-size: 24px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: bold;
-    letter-spacing: 0;
-    line-height: 29px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_SkipStroke_4 {
-    background: transparent url(backgroundimage_1.png) no-repeat scroll center center;
-    opacity: 1.00;
 }
 .Body {
     color: #404040;
@@ -249,16 +200,13 @@
 .Normal_External_660_43 {
     position: relative;
 }
-.Normal_External_390_282 {
-    position: relative;
-}
-.Normal_External_390_100 {
-    position: relative;
-}
-.Normal_External_390_264 {
+.Normal_External_390_146 {
     position: relative;
 }
 .Normal_External_390_120 {
+    position: relative;
+}
+.Normal_External_390_100 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -269,11 +217,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_shape_layout_style_default_External_230_160 {
-    position: relative;
-}
 .graphic_shape_layout_style_default {
     padding: 4px;
+}
+.graphic_shape_layout_style_default_External_230_160 {
+    position: relative;
 }
 .graphic_shape_style_default_SkipStroke {
     background: #a64b3c;
@@ -281,9 +229,6 @@
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
-}
-.graphic_textbox_layout_style_default_External_382_36 {
-    position: relative;
 }
 .graphic_textbox_layout_style_default_External_660_40 {
     position: relative;

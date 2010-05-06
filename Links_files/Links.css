@@ -20,20 +20,20 @@
     text-transform: none;
 }
 .paragraph_style_1 {
-    color: #7e3931;
+    color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 24px;
+    font-size: 14px;
     font-style: normal;
-    font-variant: normal;
+    font-variant: small-caps;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 29px;
+    line-height: 16px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 0px;
+    padding-bottom: 10px;
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
@@ -44,9 +44,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
+.style_SkipStrokeSkipFillSkipOpacity {
 }
 .style_SkipStroke {
     background: transparent;
@@ -55,31 +53,6 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
-}
-.style {
-    font-size: 12px;
-    line-height: 15px;
-}
-.Free_Form {
-    color: #404040;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
 }
 .Header {
     color: #666666;
@@ -108,13 +81,10 @@
 .Normal_External_360_42 {
     position: relative;
 }
-.Normal_External_300_447 {
-    position: relative;
-}
 .Normal_External_300_386 {
     position: relative;
 }
-.Normal_External_301_29 {
+.Normal_External_300_29 {
     position: relative;
 }
 .Normal_External_300_157 {
@@ -124,9 +94,6 @@
     position: relative;
 }
 .Normal_External_300_370 {
-    position: relative;
-}
-.Normal_External_300_206 {
     position: relative;
 }
 .Title {
@@ -162,15 +129,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default {
-    padding: 4px;
-}
-.graphic_textbox_layout_style_default_External_306_36 {
-    position: relative;
-}
-.graphic_textbox_style_default_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
+.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 a {
     color: #a64b3c;

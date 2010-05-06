@@ -21,7 +21,7 @@
 }
 .style_SkipStroke_2 {
     background: transparent;
-    opacity: 1.00;
+    opacity: 0.50;
 }
 .style_SkipStroke {
     background: transparent;
@@ -29,7 +29,7 @@
 }
 .style_SkipStroke_1 {
     background: #a64c3d;
-    opacity: 1.00;
+    opacity: 0.50;
 }
 .Header {
     color: #666666;
@@ -55,7 +55,7 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_515_85 {
+.Normal_External_515_74 {
     position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {

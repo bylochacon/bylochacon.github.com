@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100505" date="2010-05-05 11:43:24 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Al-Anfal_Campaign_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Between 1986 and 1989, the Iraqi regime in Baghdad led a campaign against the Kurdish people of the north.  Using bombing, deportations, mass executions, destruction of villages and chemical warfare, they are estimated to have killed 100-150,000 and displaced approximately one million people.   Here is a reading list to begin to understand what happened there:  &lt;a href="perma://BLPageReference/DC0D7AD0-967C-4BE5-8213-5671C607E989"&gt;Bibliography of Ethnic Cleansing in Iraq&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Al-Anfal Campaign</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, May 3, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

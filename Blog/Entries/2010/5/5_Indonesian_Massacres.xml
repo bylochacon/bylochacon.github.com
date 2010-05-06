@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100505" date="2010-05-05 11:43:25 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Indonesian_Massacres_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>These massive killings, meant to rid the country of communist revolutionaries, were the method in which Suharto began his thirty-year rule as president of Indonesia.  More than 500,000 are estimated to have been killed, while more than a million were imprisoned at one point or another.  So far, I have only found a single monograph, listed on the &lt;a href="perma://BLPageReference/8A552536-A926-4792-8BF8-6B7D51A5885A"&gt;Bibliography of the Indonesian Massacres&lt;/a&gt; page, but the number of sources there will undoubtedly be added to as I receive suggestions.  &#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Indonesian Massacres</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, May 5, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

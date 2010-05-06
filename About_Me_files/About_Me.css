@@ -44,19 +44,19 @@
 .style_2 {
     padding: 10px;
 }
+.style_SkipStroke_4 {
+    background: #b2b2b2;
+    opacity: 1.00;
+}
 .style_External_515_43 {
     bottom: 0px;
     position: absolute;
     width: 515px;
 }
-.style_SkipStroke_4 {
-    background: #b2b2b2;
-    opacity: 1.00;
-}
 .style_External_270_119 {
     position: relative;
 }
-.style_External_390_134 {
+.style_External_390_167 {
     bottom: 0px;
     position: relative;
     width: 390px;
@@ -133,7 +133,7 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_390_18 {
+.Normal_External_390_167 {
     bottom: 0px;
     position: absolute;
     width: 390px;
@@ -143,7 +143,7 @@
     position: absolute;
     width: 515px;
 }
-.Normal_External_390_134 {
+.Normal_External_390_18 {
     bottom: 0px;
     position: absolute;
     width: 390px;
