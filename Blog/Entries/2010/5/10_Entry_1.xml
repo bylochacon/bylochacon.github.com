@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100510" date="2010-05-10 11:43:38 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Entry_1_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I love commodity and thematic histories.  These are the books that you can read and learn about economics, culture, individuals, groups, international and domestic politics, changing tastes, status symbols, classes, science . . . the list goes on.  The page &lt;a href="perma://BLPageReference/2603F6F4-7861-424E-9C73-48C1CBAA3EE6"&gt;Bibliography of Thematic &amp; Commodity Histories&lt;/a&gt; has a list of books on topics including salt, diamonds and oil, among many others.  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Commodity Histories</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, May 10, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

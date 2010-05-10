@@ -21,13 +21,13 @@
 }
 .paragraph_style_1 {
     color: #404040;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-variant: small-caps;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 16px;
+    line-height: 17px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -40,11 +40,33 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style {
+    font-family: 'HelveticaNeue-Medium', 'Helvetica Neue', 'Helvetica Neue Medium', 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStrokeSkipFillSkipOpacity {
+.paragraph_style_2 {
+    color: #404040;
+    font-family: 'HelveticaNeue-Medium', 'Helvetica Neue', 'Helvetica Neue Medium', 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 10px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
 .style_SkipStroke {
     background: transparent;
@@ -53,6 +75,8 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
+}
+.style_SkipStrokeSkipFillSkipOpacity {
 }
 .Header {
     color: #666666;
@@ -78,13 +102,10 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_360_42 {
-    position: relative;
-}
-.Normal_External_300_386 {
-    position: relative;
-}
 .Normal_External_300_29 {
+    position: relative;
+}
+.Normal_External_360_42 {
     position: relative;
 }
 .Normal_External_300_157 {
@@ -94,6 +115,9 @@
     position: relative;
 }
 .Normal_External_300_370 {
+    position: relative;
+}
+.Normal_External_300_395 {
     position: relative;
 }
 .Title {
