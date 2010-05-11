@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
-  <lastEdited clientType="local-build-20100510" date="2010-05-10 11:43:39 -0700"/>
+  <lastEdited clientType="local-build-20100511" date="2010-05-11 11:23:46 -0700"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>BLOG</richText>
   </textBox>
   <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Teaching_History_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
-    <richText>When I was teaching, I spent dozens of hours searching for texts that would help me be a more creative teacher.  I remembered how, as a high school student, I had learned well from lecture, but most of my classmates had not.  I hated how everyone who heard that I taught history said that it had been their least favorite class.  I wanted to be better, to help students see the impact of history on our daily lives, the danger of ignorance, and how crucial history was to understanding so many other disciplines.  History has the drama that can be found in literature, the logic that can be found in science, and the creativity that can be found in writing and arguing.  I&#x2019;ve put together a list of texts that will hopefully be of use to other world history teachers here:  &lt;a href="perma://BLPageReference/9D529E6C-222E-44B3-AFF4-4C27CF93F639"&gt;Bibliography of Teaching History&lt;/a&gt;.</richText>
+    <richText>When I was teaching, I spent dozens of hours searching for texts that would help me be a more creative teacher.  I remembered how, as a high school student, I had learned well from lecture, but most of my classmates had not.  I hated how everyone who heard that I taught history said that it had been their least favorite class.  I wanted to be better, to help students see the impact of history on our daily lives, the danger of ignorance, and how crucial history was to understanding so many other disciplines.  History has the drama that can be found in literature, the logic that can be found in science, and the creativity that can be found in writing and arguing.  I&#x2019;ve put together a list of texts that will hopefully be of use to other world history teachers here:  &lt;a href="perma://BLPageReference/9D529E6C-222E-44B3-AFF4-4C27CF93F639"&gt;Bibliography of Teaching History&lt;/a&gt;.  &#xD;&#xD;I&#x2019;ve also updated the descriptions on the page &lt;a href="perma://BLPageReference/5CEAA2D1-DBFD-4D79-BE6B-438F143192F6"&gt;Links for Teacher Training &amp; Organizations&lt;/a&gt; to reflect my experiences with each.  These are definitely the best!</richText>
   </textBox>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
     <richText>Teaching History</richText>

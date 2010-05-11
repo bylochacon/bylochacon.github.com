@@ -30,11 +30,11 @@
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 12px;
-    font-style: italic;
+    font-style: normal;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 14px;
+    line-height: 15px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -46,9 +46,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_External_390_146 {
-    position: relative;
 }
 .style_SkipStroke {
     background: transparent;
@@ -62,52 +59,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_390_120 {
-    position: relative;
-}
 .paragraph_style_2 {
-    color: #404040;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 11px;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 12px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 12px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_3 {
-    color: #404040;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 18px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_4 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 12px;
@@ -127,6 +79,33 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.paragraph_style_3 {
+    color: #404040;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_External_390_170 {
+    position: relative;
+}
+.style_External_390_167 {
+    position: relative;
 }
 .style_External_390_100 {
     position: relative;
@@ -197,13 +176,13 @@
 .Normal {
     padding: 0px;
 }
+.Normal_External_390_167 {
+    position: relative;
+}
 .Normal_External_660_43 {
     position: relative;
 }
-.Normal_External_390_146 {
-    position: relative;
-}
-.Normal_External_390_120 {
+.Normal_External_390_170 {
     position: relative;
 }
 .Normal_External_390_100 {

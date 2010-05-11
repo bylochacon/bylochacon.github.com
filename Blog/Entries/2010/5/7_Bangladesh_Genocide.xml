@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
-  <lastEdited clientType="local-build-20100510" date="2010-05-10 11:43:38 -0700"/>
+  <lastEdited clientType="local-build-20100511" date="2010-05-11 11:23:45 -0700"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>BLOG</richText>
   </textBox>
   <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_Bangladesh_Genocide_files/shapeimage_1.jpg" left="0px" top="0px" width="393px" height="210px"/>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
-    <richText>In 1971, a genocide started that claimed up to three million people, though estimates range as low as 200,000.  Eight to ten million others fled the country to find safety.  A short starting list is here:  &lt;a href="perma://BLPageReference/32AB8C20-E985-4292-9EF3-B7F89526D913"&gt;Bibliography of the Bangladesh Genocide&lt;/a&gt;&#xD;(On a side note, with the posting of this page, all of the bibliographies dealing with genocide and mass murder now have initial content on them.  Yay!)</richText>
+    <richText>In 1971, a genocide started that claimed up to three million people, though estimates range as low as 200,000.  Eight to ten million others fled the country to find safety.  A short starting list is here:  &lt;a href="perma://BLPageReference/32AB8C20-E985-4292-9EF3-B7F89526D913"&gt;Bibliography of the Bangladesh Genocide&lt;/a&gt;.&#xD;(On a side note, with the posting of this page, all of the bibliographies dealing with genocide and mass murder now have initial content on them.  Yay!)</richText>
   </textBox>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
     <richText>Bangladesh Genocide</richText>
