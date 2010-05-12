@@ -331,9 +331,6 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_487_42 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_330_112 {
     position: relative;
 }
@@ -343,10 +340,16 @@
 .graphic_textbox_layout_style_default_External_330_100 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_330_229 {
+.graphic_textbox_layout_style_default_External_330_177 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_330_177 {
+.graphic_textbox_layout_style_default_External_317_42 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_371_42 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_487_42 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_224_50 {
@@ -359,6 +362,9 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_330_151 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_330_230 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

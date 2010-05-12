@@ -48,7 +48,7 @@
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 14px;
     font-style: normal;
-    font-variant: small-caps;
+    font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
     line-height: 17px;
@@ -133,16 +133,19 @@
 .Normal_External_300_29 {
     position: relative;
 }
-.Normal_External_300_157 {
+.Normal_External_175_206 {
     position: relative;
 }
-.Normal_External_300_452 {
+.Normal_External_300_157 {
     position: relative;
 }
 .Normal_External_300_370 {
     position: relative;
 }
 .Normal_External_300_395 {
+    position: relative;
+}
+.Normal_External_175_233 {
     position: relative;
 }
 .Title {

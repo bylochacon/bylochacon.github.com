@@ -205,7 +205,7 @@
     text-align: left;
     text-decoration: none;
     text-indent: 0px;
-    text-transform: none;
+    text-transform: uppercase;
 }
 .style_SkipStroke_5 {
     background: transparent url(CA64B3C7F.png) repeat scroll center center;
@@ -345,6 +345,15 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_330_100 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_336_42 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_280_42 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_302_42 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_224_50 {
