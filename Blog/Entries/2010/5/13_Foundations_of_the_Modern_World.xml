@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100513" date="2010-05-13 11:26:28 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Foundations_of_the_Modern_World_files/shapeimage_1.jpg" left="0px" top="0px" width="393px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>In California, tenth grade world history courses are usually begun by a review of the foundations of world civilization.  This enormous topic is then  reduced, by necessity, to a quick overview of global religions and a summary of the European Enlightenment.  I have put together a list of books on these topics, on the page &lt;a href="perma://BLPageReference/9B036413-DCAB-409C-A870-7651C215043D"&gt;Bibliography of Intellectual &amp; Ethical Foundations of the Modern Era&lt;/a&gt;, and I plan to add to it more global perspectives as I find them and as they are suggested to me.  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Foundations of the Modern World</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, May 13, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>
