@@ -53,13 +53,13 @@
     position: absolute;
     width: 515px;
 }
-.style_External_270_119 {
-    position: relative;
-}
-.style_External_390_167 {
+.style_External_390_170 {
     bottom: 0px;
     position: relative;
     width: 390px;
+}
+.style_External_270_119 {
+    position: relative;
 }
 .Body {
     color: #404040;
@@ -133,15 +133,15 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_390_167 {
-    bottom: 0px;
-    position: absolute;
-    width: 390px;
-}
 .Normal_External_515_43 {
     bottom: 0px;
     position: absolute;
     width: 515px;
+}
+.Normal_External_390_170 {
+    bottom: 0px;
+    position: absolute;
+    width: 390px;
 }
 .Normal_External_390_18 {
     bottom: 0px;

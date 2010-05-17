@@ -61,6 +61,10 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style {
     font-size: 24px;
     line-height: 29px;
@@ -115,17 +119,13 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_2 {
+.style_SkipStroke_3 {
     background: transparent url(CA64B3C7F.png) repeat scroll center center;
     opacity: 1.00;
 }
 .style_1 {
     font-size: 23px;
     line-height: 28px;
-}
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
 }
 .style_SkipStroke_4 {
     background: transparent;

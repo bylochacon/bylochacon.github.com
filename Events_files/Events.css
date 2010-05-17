@@ -44,16 +44,16 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_3 {
-    background: transparent url(CA64B3C7F.png) repeat scroll center center;
-    opacity: 1.00;
-}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke_1 {
     background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent url(CA64B3C7F.png) repeat scroll center center;
     opacity: 1.00;
 }
 .Free_Form {
@@ -101,7 +101,7 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_669_94 {
+.Normal_External_670_42 {
     position: relative;
 }
 .Title {
@@ -145,6 +145,9 @@
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_520_22 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default_External_650_25 {
     position: relative;
