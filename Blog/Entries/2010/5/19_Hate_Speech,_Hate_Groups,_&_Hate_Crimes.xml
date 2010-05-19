@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100519" date="2010-05-19 10:38:24 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Hate_Speech,_Hate_Groups,_%26_Hate_Crimes_files/shapeimage_1.jpg" left="0px" top="0px" width="393px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A few years ago I saw this guy on a news broadcast as a suspect in a hate crime.  My first thought was, of course he did it - he&#x2019;s so proud of his ideology he tattooed it on his forehead!  Unfortunately, most perpetrators of hate crimes, members of hate groups and participants in hate speech are not so clearly labeled.  &#xD;&#xD;A couple weeks ago a man in my apartment building was murdered, beaten and left on the railroad tracks, because he was gay.  A number of years ago I had a transgender student who was killed in a homophobic rage.  A middle school student near my hometown was shot execution-style by another student for being gay.  These are not experiences I researched; they are events that are tangential to my life.  &#xD;&#xD;I don&#x2019;t understand how people are threatened by homosexuality.  It doesn&#x2019;t hurt my life or my marriage or my daughter in any way - how does it hurt others?  Why is it so scary?  &#xD;&#xD;Obviously, homosexuals are not the only targets of hate crimes, speech or language.  My multi-ethnic students could have told hundreds of times they or a friend or family member dealt with bald-faced prejudice. My former student and teacher&#x2019;s aide, David Armstead, is helping me put together information for those hurt by hate, students and teachers.  The topic page is located here:  &lt;a href="perma://BLPageReference/E8D3EB67-97E4-4835-A399-C43CBDAA046A"&gt;Hate&lt;/a&gt;, and the first page with content is &lt;a href="perma://BLPageReference/6B73C744-6BD6-42C8-9DAC-A0E9DD969DEB"&gt;News of Hate&lt;/a&gt;.  Please email me with ideas of sites to add.  Thank you.  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Hate Speech, Hate Groups, &amp; Hate Crimes</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, May 19, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>
