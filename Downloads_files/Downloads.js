@@ -1,7 +1,7 @@
-// Created by iWeb 2.0.4 local-build-20100519
+// Created by iWeb 2.0.4 local-build-20100520
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
-{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWEmptyStroke(),shadow_1:new IWShadow({blurRadius:12,offset:new IWPoint(5.6569,5.6569),color:'#008080',opacity:0.750000}),stroke_1:new IWEmptyStroke(),shadow_0:new IWShadow({blurRadius:12,offset:new IWPoint(5.6569,5.6569),color:'#008080',opacity:0.750000})});registry.applyEffects();}
+{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWEmptyStroke(),shadow_0:new IWShadow({blurRadius:12,offset:new IWPoint(5.6569,5.6569),color:'#008080',opacity:0.750000}),shadow_1:new IWShadow({blurRadius:12,offset:new IWPoint(5.6569,5.6569),color:'#008080',opacity:0.750000}),stroke_1:new IWEmptyStroke()});registry.applyEffects();}
 function hostedOnDM()
 {return false;}
 function onPageLoad()
