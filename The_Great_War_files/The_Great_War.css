@@ -41,7 +41,7 @@
     text-transform: none;
 }
 .style_SkipStroke_2 {
-    background: #a64c3d;
+    background: #a64b3c;
     opacity: 1.00;
 }
 .style_SkipStroke_3 {
@@ -49,8 +49,10 @@
     opacity: 1.00;
 }
 .style_SkipStroke_4 {
-    background: #ffffff;
+    background: #a64c3d;
     opacity: 1.00;
+}
+.style_SkipStrokeSkipFillSkipOpacity {
 }
 .style_SkipStroke {
     background: transparent;
@@ -64,10 +66,8 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStrokeSkipFillSkipOpacity {
-}
 .style_SkipStroke_6 {
-    background: #a64b3c;
+    background: #ffffff;
     opacity: 1.00;
 }
 .Free_Form {
@@ -126,11 +126,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_shape_layout_style_default_External_175_125 {
-    position: relative;
-}
 .graphic_shape_layout_style_default {
     padding: 4px;
+}
+.graphic_shape_layout_style_default_External_175_125 {
+    position: relative;
 }
 .graphic_shape_layout_style_default_External_144_144 {
     position: relative;
