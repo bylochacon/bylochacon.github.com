@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
-  <lastEdited clientType="local-build-20100520" date="2010-05-20 17:07:56 -0700"/>
+  <lastEdited clientType="local-build-20100521" date="2010-05-21 13:18:15 -0700"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>BLOG</richText>
   </textBox>
   <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Entry_1_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
-    <richText>Just to be clear, here are some widely-accepted &lt;a href="perma://BLPageReference/B766EC52-3307-413E-AB40-3D9B31AEF3C4"&gt;Definitions of Hate Issues&lt;/a&gt;.</richText>
+    <richText>I believe education is key to change.  Here are some widely-accepted &lt;a href="perma://BLPageReference/B766EC52-3307-413E-AB40-3D9B31AEF3C4"&gt;Definitions of Hate Issues&lt;/a&gt;.  I have also just added the links to teacher training for anti-bias classrooms here: &lt;a href="perma://BLPageReference/A979B2BC-6B13-47A8-84CB-F6B0A0A965F9"&gt;Teacher Training in Tolerance &amp; Understanding&lt;/a&gt;.</richText>
   </textBox>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
-    <richText>Hate</richText>
+    <richText>Understanding &amp; Combatting Hate</richText>
   </textBox>
   <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
     <richText>&lt;b&gt;Friday, May 21, 2010&lt;/b&gt;</richText>

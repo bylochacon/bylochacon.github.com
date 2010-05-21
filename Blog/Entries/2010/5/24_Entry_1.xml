@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100521" date="2010-05-21 13:18:15 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_Entry_1_files/shapeimage_1.jpg" left="0px" top="0px" width="393px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Between 1904 and 1907, more than half the population of both the Herero and Nama peoples of Namibia were killed by German genocidal imperial tactics, including starvation, forced relocation, and the poisoning of well-water. I have put the few links I have found here:  &lt;a href="perma://BLPageReference/261872D8-460F-4E6A-B49E-4F81D795F56E"&gt;Links Regarding the Genocide of the Herero &amp; Nama&lt;/a&gt;.  More scholarship is needed.  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Genocide of the Herero and Nama</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, May 24, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

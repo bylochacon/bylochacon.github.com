@@ -45,7 +45,7 @@
     opacity: 1.00;
 }
 .style_SkipStroke_3 {
-    background: transparent;
+    background: #a64b3c;
     opacity: 0.50;
 }
 .style_SkipStroke {
@@ -55,10 +55,6 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: #a64b3c;
-    opacity: 0.50;
 }
 .Free_Form {
     color: #404040;
@@ -135,7 +131,7 @@
 .graphic_textbox_layout_style_default_External_500_100 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_173_100 {
+.graphic_textbox_layout_style_default_External_173_97 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
