@@ -70,6 +70,10 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_7 {
+    background: transparent;
+    opacity: 0.50;
+}
 .paragraph_style_2 {
     color: #333333;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -91,10 +95,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_7 {
-    background: transparent;
-    opacity: 0.50;
-}
 .style_SkipStroke_8 {
     background: transparent;
     opacity: 1.00;
@@ -106,10 +106,6 @@
 .style_SkipStroke_10 {
     background: transparent;
     opacity: 0.50;
-}
-.style_SkipStroke_11 {
-    background: transparent;
-    opacity: 0.25;
 }
 .Free_Form {
     color: #404040;

@@ -168,27 +168,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_7 {
-    color: #404040;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 14px;
-    font-style: normal;
-    font-variant: small-caps;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 17px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 10px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .style_SkipStrokeSkipFillSkipOpacity {
 }
 .Free_Form {
@@ -239,13 +218,13 @@
 .Normal_External_300_29 {
     position: relative;
 }
-.Normal_External_170_210 {
+.Normal_External_300_287 {
+    position: relative;
+}
+.Normal_External_100_180 {
     position: relative;
 }
 .Normal_External_350_50 {
-    position: relative;
-}
-.Normal_External_300_260 {
     position: relative;
 }
 .Normal_External_300_395 {

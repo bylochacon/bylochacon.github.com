@@ -3,13 +3,21 @@
   <channel>
     <title>My Blog</title>
     <link>http://bylochacon.com/History_Resources/Blog/Blog.html</link>
-    <description>Resources and news in the areas of human rights, genocide, and world history</description>
+    <description>Resources and news in the areas of teaching, genocide, world history, and human rights.</description>
     <generator>iWeb 2.0.4</generator>
     <image>
       <url>http://bylochacon.com/History_Resources/Blog/Blog_files/world%20globe%20WQ.jpg</url>
       <title>My Blog</title>
       <link>http://bylochacon.com/History_Resources/Blog/Blog.html</link>
     </image>
+    <item>
+      <title>Mapping &amp; Geography</title>
+      <link>http://bylochacon.com/History_Resources/Blog/Entries/2010/5/25_Entry_1.html</link>
+      <guid isPermaLink="false">1b39a76a-82cc-4810-a30f-8d0a5f0e3926</guid>
+      <pubDate>Tue, 25 May 2010 09:26:02 -0700</pubDate>
+      <description>&lt;a href=&quot;http://bylochacon.com/History_Resources/Blog/Entries/2010/5/25_Entry_1_files/africa_in_perspective_map.jpg&quot;&gt;&lt;img src=&quot;http://bylochacon.com/History_Resources/Blog/Media/africa_in_perspective_map_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:271px; height:353px;&quot;/&gt;&lt;/a&gt;Maps can be standard political or physical representations, or they can be illustrative of things like population or which people use what kind of birth control.  They are above all, critical reference points for students.  I have put here as many good map resources as I could find, including blank political maps, scans of very old maps, and creative representations of things like the small arms trade.  You can find these sources here:  &lt;a href=&quot;../Links_for_Maps_%2526_Geography.html&quot;&gt;Links for Maps &amp;amp; Geography&lt;/a&gt;.</description>
+      <enclosure url="http://bylochacon.com/History_Resources/Blog/Entries/2010/5/25_Entry_1_files/africa_in_perspective_map.jpg" length="52649" type="image/jpeg"/>
+    </item>
     <item>
       <title>Genocide of the Herero and Nama</title>
       <link>http://bylochacon.com/History_Resources/Blog/Entries/2010/5/24_Entry_1.html</link>
@@ -81,14 +89,6 @@
       <pubDate>Fri, 7 May 2010 10:20:35 -0700</pubDate>
       <description>&lt;a href=&quot;http://bylochacon.com/History_Resources/Blog/Entries/2010/5/7_Bangladesh_Genocide_files/bangladesh.jpg&quot;&gt;&lt;img src=&quot;http://bylochacon.com/History_Resources/Blog/Media/bangladesh_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:271px; height:172px;&quot;/&gt;&lt;/a&gt;In 1971, a genocide started that claimed up to three million people, though estimates range as low as 200,000.  Eight to ten million others fled the country to find safety.  A short starting list is here:  &lt;a href=&quot;../Bibliography_of_the_Bangladesh_Genocide.html&quot;&gt;Bibliography of the Bangladesh Genocide&lt;/a&gt;.&lt;br/&gt;(On a side note, with the posting of this page, all of the bibliographies dealing with genocide and mass murder now have initial content on them.  Yay!)</description>
       <enclosure url="http://bylochacon.com/History_Resources/Blog/Entries/2010/5/7_Bangladesh_Genocide_files/bangladesh.jpg" length="60143" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>East Timor</title>
-      <link>http://bylochacon.com/History_Resources/Blog/Entries/2010/5/6_East_Timor.html</link>
-      <guid isPermaLink="false">82f010f6-89b7-4ac5-aacb-869be100dbb2</guid>
-      <pubDate>Thu, 6 May 2010 12:25:29 -0700</pubDate>
-      <description>&lt;a href=&quot;http://bylochacon.com/History_Resources/Blog/Entries/2010/5/6_East_Timor_files/EastTimor%20600x389.jpg&quot;&gt;&lt;img src=&quot;http://bylochacon.com/History_Resources/Blog/Media/EastTimor%20600x389_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:271px; height:176px;&quot;/&gt;&lt;/a&gt;Indonesia occupied East Timor from 1975 until 1999, with final realization of independence in 2002.  Torture, starvation, massacre and summary executions were suffered for twenty five years.  Out of a population of less than one-million, the East Timorese are estimated to have lost more than 100,000.  A short reading list can be found on the &lt;a href=&quot;../Bibliography_of_the_Genocide_in_East_Timor.html&quot;&gt;Bibliography of the East Timor Genocide&lt;/a&gt; page.</description>
-      <enclosure url="http://bylochacon.com/History_Resources/Blog/Entries/2010/5/6_East_Timor_files/EastTimor%20600x389.jpg" length="36699" type="image/jpeg"/>
     </item>
   </channel>
 </rss>

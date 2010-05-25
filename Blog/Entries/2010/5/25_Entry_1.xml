@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100524" date="2010-05-24 15:11:33 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Entry_1_files/shapeimage_1.jpg" left="0px" top="0px" width="388px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Maps can be standard political or physical representations, or they can be illustrative of things like population or which people use what kind of birth control.  They are above all, critical reference points for students.  I have put here as many good map resources as I could find, including blank political maps, scans of very old maps, and creative representations of things like the small arms trade.  You can find these sources here:  &lt;a href="perma://BLPageReference/274F2222-E22B-4FA5-8512-989940148031"&gt;Links for Maps &amp; Geography&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Mapping &amp; Geography</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, May 25, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>
