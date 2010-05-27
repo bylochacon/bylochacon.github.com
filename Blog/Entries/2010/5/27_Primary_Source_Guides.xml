@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100527" date="2010-05-27 12:38:48 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="27_Primary_Source_Guides_files/shapeimage_1.jpg" left="0px" top="0px" width="393px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Primary source examination is essential in the attempt to understand the past.  In addition, it makes the experiences of history more immediate and real to its students.  Primary sources don&#x2019;t have to be written documents - they can include guest speakers, photographs, videos, oral interviews, and artistic representations.  Using these sources in the classroom can enhance interest in topics as well as provide opportunity for critical analysis, writing, discussing and presenting.  I have put together a lengthy page of &lt;a href="perma://BLPageReference/6FD96872-E0A1-4D76-BC5D-A16C8287C8EC"&gt;Links for Primary Source Guides&lt;/a&gt; here.  Later I will have primary sources listed more specifically by topic.  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Primary Source Guides</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, May 27, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>
