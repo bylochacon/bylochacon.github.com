@@ -68,10 +68,6 @@
 }
 .style_SkipStroke_6 {
     background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_7 {
-    background: transparent;
     opacity: 0.50;
 }
 .paragraph_style_2 {
@@ -99,6 +95,10 @@
     font-family: 'HelveticaNeue-Italic', 'Helvetica Neue', 'Arial', sans-serif;
     font-style: italic;
     font-weight: normal;
+}
+.style_SkipStroke_7 {
+    background: transparent;
+    opacity: 1.00;
 }
 .Free_Form {
     color: #404040;
