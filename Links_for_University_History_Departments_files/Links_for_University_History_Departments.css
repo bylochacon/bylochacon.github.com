@@ -56,8 +56,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStrokeSkipFillSkipOpacity {
-}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -139,8 +137,6 @@
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
-}
-.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 .bumper {
     font-size: 1px;
