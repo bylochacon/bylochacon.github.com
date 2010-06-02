@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100602" date="2010-06-02 12:11:06 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Site_Updates_files/shapeimage_1.jpg" left="0px" top="0px" width="393px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Due to the size of this site, I am listing here, &lt;a href="perma://BLPageReference/6436F3B0-7986-470D-864E-12BDCA53BC72"&gt;Site Guide&lt;/a&gt;, all the pages that have initial content on them and are ready for viewing.  Each page listed on the &lt;a href="perma://BLPageReference/6436F3B0-7986-470D-864E-12BDCA53BC72"&gt;Site Guide&lt;/a&gt; is also linked elsewhere on &lt;a href="perma://BLPageReference/381B1523-D08B-4A92-9AFA-C8BBDD7194A8"&gt;bylochacon.com&lt;/a&gt; by topic, type of resource and blog post. &#xD;&#xD;Also, I just fixed the &lt;a href="mailto%3Abylochacon%40gmail.com%3Fsubject%3DBylochacon.com%2520Suggestions"&gt;email&lt;/a&gt; links on all the pages (I think), so it should work now.  The RSS feed is still broken, as is the google search on each page.  I&#x2019;ll work on getting those up and running as soon as I can figure out how.  &#xD;&#xD;I generally work on one page a day, but am continuing to add links to other pages as I find them.  If you &lt;a href="mailto%3Abylochacon%40gmail.com%3Fsubject%3DBylochacon.com%2520Suggestions"&gt;email&lt;/a&gt; suggestions, I would be happy to add them right away.  &#xD;&#xD;Today I have finished the &lt;a href="perma://BLPageReference/26E2806A-9DF8-4226-85D8-E427FBE610D9"&gt;Links for History Humor, Fun &amp; Games&lt;/a&gt;.  Teachers, please use these resources with care, as every silly website does not have one-hundred percent student-friendly material.  &#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Site Updates</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, June 2, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -12,27 +12,6 @@
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_1 {
-    color: #404040;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
     line-height: 17px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -54,11 +33,11 @@
 }
 .style_4 {
 }
-.style_SkipStroke {
+.style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_1 {
+.style_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
@@ -67,7 +46,7 @@
     position: absolute;
     width: 145px;
 }
-.style_SkipStroke_2 {
+.style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
@@ -88,11 +67,6 @@
     background: #b2b2b2;
     opacity: 1.00;
 }
-.style_External_400_539 {
-    bottom: 0px;
-    position: relative;
-    width: 400px;
-}
 .style_External_269_220 {
     position: relative;
 }
@@ -100,6 +74,11 @@
     bottom: 0px;
     position: absolute;
     width: 104px;
+}
+.style_External_400_385 {
+    bottom: 0px;
+    position: relative;
+    width: 400px;
 }
 .Body {
     color: #404040;
@@ -131,27 +110,6 @@
     font-weight: bold;
     letter-spacing: 0;
     line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.Free_Form {
-    color: #404040;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 14px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -227,11 +185,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.Normal_External_400_539 {
-    bottom: 0px;
-    position: absolute;
-    width: 400px;
-}
 .Normal_External_515_43 {
     bottom: 0px;
     position: absolute;
@@ -244,6 +197,11 @@
     bottom: 0px;
     position: absolute;
     width: 104px;
+}
+.Normal_External_400_385 {
+    bottom: 0px;
+    position: absolute;
+    width: 400px;
 }
 .Normal_External_295_20 {
     bottom: 0px;

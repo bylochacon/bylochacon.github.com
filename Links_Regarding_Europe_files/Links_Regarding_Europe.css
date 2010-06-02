@@ -22,12 +22,12 @@
 .paragraph_style_1 {
     color: #404040;
     font-family: 'HelveticaNeue-Italic', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 12px;
+    font-size: 10px;
     font-style: italic;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 14px;
+    line-height: 12px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -224,13 +224,13 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_111_92 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_500_25 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_100 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_173_100 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
