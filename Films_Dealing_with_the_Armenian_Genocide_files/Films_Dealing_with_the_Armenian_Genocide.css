@@ -104,7 +104,9 @@
     text-transform: none;
 }
 .style {
+    color: #333333;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    opacity: 1.00;
 }
 .paragraph_style_5 {
     color: #404040;
@@ -128,9 +130,13 @@
     text-transform: none;
 }
 .style_1 {
-    font-style: italic;
+    color: #333333;
+    opacity: 1.00;
 }
 .style_2 {
+    font-style: italic;
+}
+.style_3 {
     font-size: 11px;
     line-height: 12px;
 }
@@ -155,11 +161,13 @@
     text-indent: 0px;
     text-transform: uppercase;
 }
-.style_3 {
+.style_4 {
+    color: #333333;
     font-size: 12px;
     font-style: normal;
     font-variant: normal;
     line-height: 15px;
+    opacity: 1.00;
     text-transform: none;
 }
 .paragraph_style_7 {
@@ -183,7 +191,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_4 {
+.style_5 {
     font-size: 12px;
     line-height: 14px;
 }
@@ -229,7 +237,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_5 {
+.style_6 {
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
     font-weight: bold;
@@ -256,19 +264,19 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_6 {
+.style_7 {
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
 }
-.style_7 {
+.style_8 {
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-style: italic;
 }
-.style_8 {
+.style_9 {
     font-size: 10px;
     line-height: 12px;
     text-decoration: underline;
 }
-.style_9 {
+.style_10 {
     font-size: 10px;
     line-height: 12px;
 }

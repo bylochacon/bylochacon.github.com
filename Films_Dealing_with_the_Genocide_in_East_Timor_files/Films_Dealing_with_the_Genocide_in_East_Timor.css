@@ -211,6 +211,10 @@
     background: transparent url(CA64B3C7F.png) repeat scroll center center;
     opacity: 1.00;
 }
+.style {
+    color: #333333;
+    opacity: 1.00;
+}
 .paragraph_style_9 {
     color: #404040;
     font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
@@ -347,10 +351,19 @@
 .graphic_textbox_layout_style_default_External_330_100 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_197_42 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_235_42 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_224_50 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_290_25 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_186_42 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

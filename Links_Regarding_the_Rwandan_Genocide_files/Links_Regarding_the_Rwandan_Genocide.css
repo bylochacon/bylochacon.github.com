@@ -140,10 +140,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_3 {
-    background: #a64b3c;
-    opacity: 0.50;
-}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -198,16 +194,6 @@
 }
 .graphic_image_style_default_SkipStroke {
     background: transparent;
-    opacity: 1.00;
-}
-.graphic_shape_layout_style_default {
-    padding: 4px;
-}
-.graphic_shape_layout_style_default_External_150_150 {
-    position: relative;
-}
-.graphic_shape_style_default_SkipStroke {
-    background: #a64b3c;
     opacity: 1.00;
 }
 .graphic_textbox_layout_style_default {

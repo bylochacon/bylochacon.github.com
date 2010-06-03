@@ -40,6 +40,10 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
 .paragraph_style_2 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -60,10 +64,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
 }
 .style_SkipStroke {
     background: transparent;
@@ -193,7 +193,7 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_515_128 {
+.Normal_External_543_88 {
     position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
