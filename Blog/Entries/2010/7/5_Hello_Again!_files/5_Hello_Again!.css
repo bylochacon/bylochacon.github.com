@@ -49,11 +49,6 @@
     background: #b2b2b2;
     opacity: 1.00;
 }
-.style_External_400_335 {
-    bottom: 0px;
-    position: relative;
-    width: 400px;
-}
 .style_External_269_220 {
     position: relative;
 }
@@ -61,6 +56,11 @@
     bottom: 0px;
     position: absolute;
     width: 104px;
+}
+.style_External_400_385 {
+    bottom: 0px;
+    position: relative;
+    width: 400px;
 }
 .Body {
     color: #404040;
@@ -180,7 +180,7 @@
     position: absolute;
     width: 104px;
 }
-.Normal_External_400_335 {
+.Normal_External_400_385 {
     bottom: 0px;
     position: absolute;
     width: 400px;
