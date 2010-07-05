@@ -47,6 +47,10 @@
 .style_External_270_131 {
     position: relative;
 }
+.style_3 {
+    font-size: 9px;
+    line-height: 11px;
+}
 .style_External_515_43 {
     bottom: 0px;
     position: absolute;
@@ -215,6 +219,18 @@
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 #widget1 a:visited {
     color: #333333;

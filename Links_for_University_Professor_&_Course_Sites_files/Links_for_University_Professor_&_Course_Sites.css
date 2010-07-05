@@ -40,6 +40,22 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: #a64b3c;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
 .paragraph_style_2 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -61,11 +77,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
+.style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
 }
@@ -90,14 +102,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
 .paragraph_style_4 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -118,10 +122,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_SkipStroke_4 {
-    background: #a64b3c;
-    opacity: 1.00;
 }
 .Free_Form {
     color: #404040;
@@ -195,10 +195,10 @@
 .graphic_textbox_layout_style_default_External_500_25 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_500_30 {
+.graphic_textbox_layout_style_default_External_111_105 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_111_105 {
+.graphic_textbox_layout_style_default_External_500_30 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_100 {
