@@ -217,10 +217,6 @@
     color: #d67053;
     text-decoration: underline;
 }
-#widget23 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
 #widget9 a:hover {
     color: #d67053;
     text-decoration: underline;
@@ -232,10 +228,6 @@
 #widget8 a:visited {
     color: #333333;
     text-decoration: none;
-}
-#widget23 a:hover {
-    color: #d67053;
-    text-decoration: underline;
 }
 #widget8 a {
     color: #a64b3c;
@@ -315,10 +307,6 @@
 }
 #widget18 a {
     color: #a64b3c;
-    text-decoration: none;
-}
-#widget23 a:visited {
-    color: #333333;
     text-decoration: none;
 }
 #widget7 a {

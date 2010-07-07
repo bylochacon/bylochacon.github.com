@@ -223,10 +223,6 @@
     color: #a64b3c;
     text-decoration: none;
 }
-#widget11 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
 #widget1 a:visited {
     color: #333333;
     text-decoration: none;
@@ -234,10 +230,6 @@
 .bumper {
     font-size: 1px;
     line-height: 1px;
-}
-#widget11 a {
-    color: #a64b3c;
-    text-decoration: none;
 }
 #widget6 a {
     color: #a64b3c;
@@ -302,10 +294,6 @@
 #widget10 a:visited {
     color: #333333;
     text-decoration: none;
-}
-#widget11 a:hover {
-    color: #d67053;
-    text-decoration: underline;
 }
 #widget4 a {
     color: #a64b3c;

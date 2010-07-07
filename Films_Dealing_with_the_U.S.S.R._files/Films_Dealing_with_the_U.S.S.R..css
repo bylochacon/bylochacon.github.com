@@ -314,19 +314,22 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_487_42 {
+.graphic_textbox_layout_style_default_External_330_112 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_330_164 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_330_112 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_330_228 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_330_216 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_487_42 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_303_42 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_330_100 {
@@ -524,10 +527,6 @@ a:hover {
     color: #333333;
     text-decoration: none;
 }
-#widget19 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
 #widget0 a:hover {
     color: #d67053;
     text-decoration: underline;
@@ -542,10 +541,6 @@ a:hover {
 }
 #widget6 a:visited {
     color: #333333;
-    text-decoration: none;
-}
-#widget19 a {
-    color: #a64b3c;
     text-decoration: none;
 }
 #widget1 a {
@@ -615,10 +610,6 @@ a:hover {
 #widget11 a:visited {
     color: #333333;
     text-decoration: none;
-}
-#widget19 a:hover {
-    color: #d67053;
-    text-decoration: underline;
 }
 body { 
     -webkit-text-size-adjust: none;

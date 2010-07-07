@@ -298,10 +298,6 @@ a:hover {
     color: #d67053;
     text-decoration: underline;
 }
-#widget22 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
 #widget12 a:visited {
     color: #333333;
     text-decoration: none;
@@ -369,10 +365,6 @@ a:hover {
 #widget7 a {
     color: #a64b3c;
     text-decoration: none;
-}
-#widget22 a:hover {
-    color: #d67053;
-    text-decoration: underline;
 }
 #widget13 a:visited {
     color: #333333;
@@ -463,10 +455,6 @@ a:hover {
     text-decoration: underline;
 }
 #widget10 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
-#widget22 a {
     color: #a64b3c;
     text-decoration: none;
 }

@@ -194,10 +194,6 @@
     color: #d67053;
     text-decoration: underline;
 }
-#widget21 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
 #widget11 a {
     color: #a64b3c;
     text-decoration: none;
@@ -350,10 +346,6 @@
     color: #a64b3c;
     text-decoration: none;
 }
-#widget21 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
 #widget6 a:visited {
     color: #333333;
     text-decoration: none;
@@ -433,10 +425,6 @@
 #widget19 a:hover {
     color: #d67053;
     text-decoration: underline;
-}
-#widget21 a:visited {
-    color: #333333;
-    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;
