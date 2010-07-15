@@ -200,6 +200,29 @@
 }
 .graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
+a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class1 {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a.class1:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class1:hover {
+    text-decoration: none;
+}
+a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
 #widget2 a:visited {
     color: #333333;
     text-decoration: none;
