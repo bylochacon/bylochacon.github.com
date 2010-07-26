@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
-  <lastEdited clientType="local-build-20100722" date="2010-07-22 21:18:43 -0700"/>
+  <lastEdited clientType="local-build-20100725" date="2010-07-25 19:40:33 -0700"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>BLOG</richText>
   </textBox>
   <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_East_Timor_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
-    <richText>Indonesia occupied East Timor from 1975 until 1999, with final realization of independence in 2002.  Torture, starvation, massacre and summary executions were suffered for twenty five years.  Out of a population of less than one-million, the East Timorese are estimated to have lost more than 100,000.  A short reading list can be found on the &lt;a href="perma://BLPageReference/F0032FB8-4BBC-4F09-97F2-981455003905"&gt;Bibliography of the East Timor Genocide&lt;/a&gt; page.</richText>
+    <richText>Indonesia occupied East Timor from 1975 until 1999, with final realization of independence in 2002.  Torture, starvation, massacre and summary executions were suffered for twenty five years.  Out of a population of less than one million, the East Timorese are estimated to have lost more than 100,000.  A short reading list can be found on the &lt;a href="perma://BLPageReference/F0032FB8-4BBC-4F09-97F2-981455003905"&gt;Bibliography of the East Timor Genocide&lt;/a&gt; page.</richText>
   </textBox>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
     <richText>East Timor</richText>
