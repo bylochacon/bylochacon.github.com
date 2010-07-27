@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
-  <lastEdited clientType="local-build-20100725" date="2010-07-25 19:40:36 -0700"/>
+  <lastEdited clientType="local-build-20100727" date="2010-07-27 16:42:52 -0700"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>BLOG</richText>
   </textBox>
   <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Genocide_in_East_Timor_files/shapeimage_1.jpg" left="0px" top="0px" width="388px" height="210px"/>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
-    <richText>I have put together a page for &lt;a href="perma://BLPageReference/0187FFF8-69EE-45A5-8A87-7CA75DE06F41"&gt;Links Regarding the Genocide in East Timor&lt;/a&gt;.  There isn&#x2019;t much, but it should help anyone interested get started in finding resources for their research.  I have also previously put up a page for a &lt;a href="perma://BLPageReference/F0032FB8-4BBC-4F09-97F2-981455003905"&gt;Bibliography of the Genocide in East Timor&lt;/a&gt; - again, not much, but a start.  If you have any resources that aren&#x2019;t listed here, I&#x2019;d be glad to hear about them, so please &lt;a href="mailto%3Abylochacon%40gmail.com%3Fsubject%3DBylochacon.com%2520Suggestions"&gt;email&lt;/a&gt; me!  </richText>
+    <richText>I have put together a page for &lt;a href="perma://BLPageReference/0187FFF8-69EE-45A5-8A87-7CA75DE06F41"&gt;Links Regarding the Genocide in East Timor&lt;/a&gt;.  There isn&#x2019;t much, but it should help anyone interested get started in finding resources for their research.  I have also previously put up a page for a &lt;a href="perma://BLPageReference/F0032FB8-4BBC-4F09-97F2-981455003905"&gt;Bibliography of the Genocide in East Timor&lt;/a&gt; - again, not much, but a start.  If you have any resources that aren&#x2019;t listed here, I&#x2019;d be glad to hear about them, so please &lt;a href="mailto%3Abylochacon%40gmail.com%3Fsubject%3DBylochacon.com%2520Suggestions"&gt;email&lt;/a&gt; me!  This also means that the main topic page for &lt;a href="perma://BLPageReference/6C339C22-91CF-4D43-890E-C56C0CFCD2A0"&gt;Genocide in East Timor&lt;/a&gt; should be finished sometime this week.  I hope to get more done than just that, but it is looking like a very busy time.  </richText>
   </textBox>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
     <richText>Genocide in East Timor</richText>
