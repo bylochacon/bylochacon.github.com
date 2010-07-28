@@ -41,7 +41,7 @@
     text-transform: none;
 }
 .style_SkipStroke_2 {
-    background: #a64c3d;
+    background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke_3 {
@@ -51,6 +51,10 @@
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
+}
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 0.50;
 }
 .style_SkipStrokeSkipFillSkipOpacity {
 }
@@ -62,15 +66,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_5 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_SkipStroke_6 {
-    background: transparent;
-    opacity: 0.50;
-}
-.style_SkipStroke_7 {
     background: transparent;
     opacity: 0.50;
 }
@@ -134,9 +130,6 @@
     padding: 4px;
 }
 .graphic_textbox_layout_style_default_External_200_53 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_198_148 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
