@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100730" date="2010-07-30 14:05:13 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Entry_1_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The Bangladesh Liberation War of 1971 was the rationale for the Pakistani army to adopt policies that resulted in a great number of deaths, most commonly estimated to be between 200,000 and 3 million.  An additional 8-10 million people fled to India as refugees from the violence.   I have put up pages for &lt;a href="perma://BLPageReference/E8231C83-6960-4232-AC57-E4FC63E3DABC"&gt;Links Regarding the Genocide in Bangladesh&lt;/a&gt;  and &lt;a href="perma://BLPageReference/32AB8C20-E985-4292-9EF3-B7F89526D913"&gt;Bibliography of the Bangladesh Genocide&lt;/a&gt; as well as set up a topic page for &lt;a href="perma://BLPageReference/A681A055-FD59-425C-A65A-32167CABC90A"&gt;Genocide in Bangladesh&lt;/a&gt;.  If you know of any films or additional web or book resources I should post, please &lt;a href="mailto%3Abylochacon%40gmail.com%3Fsubject%3DBylochacon.com%2520Suggestions"&gt;let me know&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Bangladesh Liberation War of 1971</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, July 30, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

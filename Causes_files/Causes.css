@@ -217,11 +217,20 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_420_120 {
+    position: relative;
+}
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
 }
 .style_External_420_119 {
+    position: relative;
+}
+.style_External_420_99 {
+    position: relative;
+}
+.style_External_420_90 {
     position: relative;
 }
 .style_External_420_150 {
@@ -299,10 +308,19 @@
 .Normal {
     padding: 0px;
 }
+.Normal_External_420_99 {
+    position: relative;
+}
 .Normal_External_256_19 {
     position: relative;
 }
 .Normal_External_420_119 {
+    position: relative;
+}
+.Normal_External_420_90 {
+    position: relative;
+}
+.Normal_External_420_120 {
     position: relative;
 }
 .Normal_External_420_150 {

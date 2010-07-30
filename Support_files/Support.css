@@ -61,13 +61,13 @@
 }
 .paragraph_style_2 {
     color: #404040;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 12px;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 15px;
+    line-height: 19px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -208,6 +208,9 @@
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_230_45 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default_External_660_22 {
     position: relative;
