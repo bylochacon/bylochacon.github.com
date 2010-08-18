@@ -45,10 +45,14 @@
     opacity: 1.00;
 }
 .style_SkipStroke_3 {
-    background: #a64c3d;
+    background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke_4 {
+    background: transparent;
+    opacity: 0.50;
+}
+.style_SkipStroke_5 {
     background: transparent;
     opacity: 0.50;
 }
@@ -59,14 +63,6 @@
     opacity: 1.00;
 }
 .style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_5 {
-    background: transparent;
-    opacity: 0.50;
-}
-.style_SkipStroke_6 {
     background: transparent;
     opacity: 1.00;
 }
@@ -130,9 +126,6 @@
     padding: 4px;
 }
 .graphic_textbox_layout_style_default_External_200_50 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_198_148 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

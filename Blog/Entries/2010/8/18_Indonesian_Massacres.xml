@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100818" date="2010-08-18 11:22:16 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Indonesian_Massacres_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I&#x2019;ve been traveling a lot the last couple weeks.  I was lucky enough to tag along on my husband&#x2019;s business trip to Pisa, Italy with my little girl.  It was so exciting for me, and Josie heard lots of &#x201C;Ciao Bella&#x201D;.&#xD;&#xD;To get back into the swing of things a bit, I am starting by putting up a couple small pages.  The first is the &lt;a href="perma://BLPageReference/9877852F-280C-4C7D-9200-EFE2FAA64D14"&gt;Links Regarding the Indonesian Massacres&lt;/a&gt;, and the second is the topic page for &lt;a href="perma://BLPageReference/00405B3E-8D0D-4721-ABEB-EEFB8B0917FF"&gt;Indonesian Massacres&lt;/a&gt;.  I have already put up a page for a &lt;a href="perma://BLPageReference/8A552536-A926-4792-8BF8-6B7D51A5885A"&gt;Bibliography of the Indonesian Massacres&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Indonesian Massacres</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, August 18, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>
