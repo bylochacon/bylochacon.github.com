@@ -41,6 +41,10 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_2 {
     padding: 10px;
 }
@@ -61,8 +65,12 @@
     font-size: 9px;
     line-height: 11px;
 }
-.style_SkipStroke_4 {
+.style_SkipStroke_5 {
     background: #b2b2b2;
+    opacity: 1.00;
+}
+.style_SkipStroke_6 {
+    background: transparent;
     opacity: 1.00;
 }
 .Body {
