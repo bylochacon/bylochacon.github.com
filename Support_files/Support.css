@@ -22,10 +22,6 @@
 .style {
     padding: 0px;
 }
-.style_SkipStroke_2 {
-    background: #363636;
-    opacity: 1.00;
-}
 .paragraph_style_1 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
@@ -46,18 +42,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
 }
 .paragraph_style_2 {
     color: #404040;
@@ -101,13 +85,36 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_390_170 {
+.style_External_390_100 {
     position: relative;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: #363636;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
 }
 .style_External_390_167 {
     position: relative;
 }
-.style_External_390_100 {
+.style_External_390_170 {
+    position: relative;
+}
+.style_External_390_154 {
     position: relative;
 }
 .Body {
@@ -176,16 +183,19 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_390_167 {
+.Normal_External_390_100 {
     position: relative;
 }
 .Normal_External_390_170 {
     position: relative;
 }
-.Normal_External_390_100 {
+.Normal_External_390_154 {
     position: relative;
 }
 .Normal_External_171_43 {
+    position: relative;
+}
+.Normal_External_390_167 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -196,11 +206,15 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_shape_layout_style_default {
-    padding: 4px;
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
 .graphic_shape_layout_style_default_External_230_160 {
     position: relative;
+}
+.graphic_shape_layout_style_default {
+    padding: 4px;
 }
 .graphic_shape_style_default_SkipStroke {
     background: #a64b3c;
@@ -209,10 +223,10 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_230_45 {
+.graphic_textbox_layout_style_default_External_660_22 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_660_22 {
+.graphic_textbox_layout_style_default_External_230_45 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

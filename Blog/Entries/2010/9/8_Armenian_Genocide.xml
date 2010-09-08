@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100908" date="2010-09-08 13:56:38 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Armenian_Genocide_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The Armenian Genocide refers to massacres and forced deportations of about one to one and a half million Christian Armenians living in Turkey under Ottoman Rule.  It occurred during the first world war, and war helped to justify the violence as well as keep the world from involving itself in the crisis.  Attacks were also directed against Assyrians and Greeks, though this is less widely known.  &#xD;&#xD;I have put up pages to begin gathering information here:  &lt;a href="perma://BLPageReference/BE5854D2-77BD-45E0-9297-D65C8743D36E"&gt;Armenian Genocide&lt;/a&gt;, &lt;a href="perma://BLPageReference/9A34387E-5631-4124-8DD3-914243650771"&gt;Links Regarding the Armenian Genocide&lt;/a&gt;, &lt;a href="perma://BLPageReference/1D3C5244-EF27-4536-AF18-353F23C521E1"&gt;Films Dealing with the Armenian Genocide&lt;/a&gt;, and &lt;a href="perma://BLPageReference/44CB75EA-BB1D-4515-BD35-DF499C5F7F76"&gt;Bibliography of the Armenian Genocide&lt;/a&gt;.  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Armenian Genocide</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, September 8, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

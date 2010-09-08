@@ -297,6 +297,17 @@ a.class4:hover {
     color: #d67053;
     text-decoration: underline;
 }
+a.class5 {
+    color: #404040;
+}
+a.class5:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class5:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
 a:hover {
     color: #d67053;
     text-decoration: underline;
