@@ -44,6 +44,14 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 0.50;
+}
 .style_SkipStrokeSkipFillSkipOpacity {
 }
 .style_SkipStroke {
@@ -53,6 +61,10 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
+}
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 0.50;
 }
 .Free_Form {
     color: #404040;
@@ -113,10 +125,10 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_200_62 {
+.graphic_textbox_layout_style_default_External_200_50 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_200_50 {
+.graphic_textbox_layout_style_default_External_200_62 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
