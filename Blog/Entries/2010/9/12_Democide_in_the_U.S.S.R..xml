@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100912" date="2010-09-12 22:41:31 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Democide_in_the_U.S.S.R._files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Politicide in the U.S.S.R. on this site (so far) refers to both the famine of 1932-33, known in the Ukraine as Holodomor, and the Great Purge between 1936 and 1938.   The famine was caused by government policies of collectivization, and death estimates range up to 11 million.   The Purges were political repression in the form of show trials, police surveillance, dekulakization, labor camp imprisonment and executions.  I put the following pages together on the subject: &#xD;&lt;a href="perma://BLPageReference/CDFBBB46-668D-4B2B-B8EB-0E046CAACCDF"&gt;Politicide in the U.S.S.R.&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/54D69832-7D25-41BE-8054-CD5FED718CD7"&gt;Links Regarding Politicide in the U.S.S.R.&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/3A9B83D0-E213-48C5-A268-D82A86274C6F"&gt;Bibliography of Politicide in the USSR&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/603491CF-FCF8-4931-8540-7624828FFF80"&gt;Films Dealing with the U.S.S.R.&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Democide in the U.S.S.R.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, September 12, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

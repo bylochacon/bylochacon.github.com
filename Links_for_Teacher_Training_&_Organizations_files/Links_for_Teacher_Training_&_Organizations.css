@@ -85,12 +85,12 @@
 .paragraph_style_4 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     font-style: normal;
     font-variant: normal;
     font-weight: bold;
     letter-spacing: 0;
-    line-height: 17px;
+    line-height: 23px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -150,35 +150,38 @@
     vertical-align: 0.25em;
 }
 .paragraph_style_7 {
-    color: #404040;
+    color: #333333;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 13px;
+    font-size: 12px;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 15px;
+    line-height: 14px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 0px;
+    padding-bottom: 12px;
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
 }
+.style_1 {
+    font-style: italic;
+}
 .paragraph_style_8 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     font-style: normal;
     font-variant: normal;
     font-weight: bold;
     letter-spacing: 0;
-    line-height: 17px;
+    line-height: 23px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -194,12 +197,12 @@
 .paragraph_style_9 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     font-style: normal;
     font-variant: normal;
     font-weight: bold;
     letter-spacing: 0;
-    line-height: 17px;
+    line-height: 23px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -269,6 +272,10 @@
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 0.75;
 }
 .Free_Form {
     color: #404040;
@@ -356,19 +363,22 @@
 .graphic_textbox_layout_style_default_External_500_100 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_511_53 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_500_113 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_25 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_511_25 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_500_106 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_104 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_75 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_503_30 {

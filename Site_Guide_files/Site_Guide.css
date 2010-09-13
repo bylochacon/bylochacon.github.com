@@ -319,6 +319,28 @@ a.class6:hover {
     color: #d67053;
     text-decoration: underline;
 }
+a.class7 {
+    color: #404040;
+}
+a.class7:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class7:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+a.class8 {
+    color: #404040;
+}
+a.class8:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class8:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
 a:hover {
     color: #d67053;
     text-decoration: underline;
