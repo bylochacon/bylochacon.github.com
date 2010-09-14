@@ -1,9 +1,11 @@
-// Created by iWeb 2.0.4 local-build-20100913
+// Created by iWeb 2.0.4 local-build-20100914
 
-setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
+setTransparentGifURL('Media/transparent.gif');function applyEffects()
+{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_2:new IWEmptyStroke(),stroke_0:new IWStrokeParts([{rect:new IWRect(-1,1,2,148),url:'Genocide_%26_Imperialism_files/stroke.png'},{rect:new IWRect(-1,-1,2,2),url:'Genocide_%26_Imperialism_files/stroke_1.png'},{rect:new IWRect(1,-1,198,2),url:'Genocide_%26_Imperialism_files/stroke_2.png'},{rect:new IWRect(199,-1,2,2),url:'Genocide_%26_Imperialism_files/stroke_3.png'},{rect:new IWRect(199,1,2,148),url:'Genocide_%26_Imperialism_files/stroke_4.png'},{rect:new IWRect(199,149,2,2),url:'Genocide_%26_Imperialism_files/stroke_5.png'},{rect:new IWRect(1,149,198,2),url:'Genocide_%26_Imperialism_files/stroke_6.png'},{rect:new IWRect(-1,149,2,2),url:'Genocide_%26_Imperialism_files/stroke_7.png'}],new IWSize(200,150)),stroke_1:new IWStrokeParts([{rect:new IWRect(-1,1,2,148),url:'Genocide_%26_Imperialism_files/stroke_8.png'},{rect:new IWRect(-1,-1,2,2),url:'Genocide_%26_Imperialism_files/stroke_9.png'},{rect:new IWRect(1,-1,198,2),url:'Genocide_%26_Imperialism_files/stroke_10.png'},{rect:new IWRect(199,-1,2,2),url:'Genocide_%26_Imperialism_files/stroke_11.png'},{rect:new IWRect(199,1,2,148),url:'Genocide_%26_Imperialism_files/stroke_12.png'},{rect:new IWRect(199,149,2,2),url:'Genocide_%26_Imperialism_files/stroke_13.png'},{rect:new IWRect(1,149,198,2),url:'Genocide_%26_Imperialism_files/stroke_14.png'},{rect:new IWRect(-1,149,2,2),url:'Genocide_%26_Imperialism_files/stroke_15.png'}],new IWSize(200,150))});registry.applyEffects();}
+function hostedOnDM()
 {return false;}
 function onPageLoad()
 {loadMozillaCSS('Genocide_&_Imperialism_files/Genocide_&_ImperialismMoz.css')
-adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');detectBrowser();Widget.onload();fixAllIEPNGs('Media/transparent.gif');performPostEffectsFixups()}
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');adjustLineHeightIfTooBig('id3');adjustFontSizeIfTooBig('id3');adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');detectBrowser();adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');adjustLineHeightIfTooBig('id7');adjustFontSizeIfTooBig('id7');Widget.onload();fixAllIEPNGs('Media/transparent.gif');fixupIECSS3Opacity('id6');fixupIECSS3Opacity('id8');fixupIECSS3Opacity('id9');fixupIECSS3Opacity('id10');applyEffects()}
 function onPageUnload()
 {Widget.onunload();}

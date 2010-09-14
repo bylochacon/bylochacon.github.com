@@ -1,4 +1,4 @@
-// Created by iWeb 2.0.4 local-build-20100913
+// Created by iWeb 2.0.4 local-build-20100914
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
 {var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWStrokeParts([{rect:new IWRect(-4,4,8,153),url:'Industrialization_files/stroke.png'},{rect:new IWRect(-4,-4,8,8),url:'Industrialization_files/stroke_1.png'},{rect:new IWRect(4,-4,232,8),url:'Industrialization_files/stroke_2.png'},{rect:new IWRect(236,-4,8,8),url:'Industrialization_files/stroke_3.png'},{rect:new IWRect(236,4,8,153),url:'Industrialization_files/stroke_4.png'},{rect:new IWRect(236,157,8,8),url:'Industrialization_files/stroke_5.png'},{rect:new IWRect(4,157,232,8),url:'Industrialization_files/stroke_6.png'},{rect:new IWRect(-4,157,8,8),url:'Industrialization_files/stroke_7.png'}],new IWSize(240,161)),stroke_1:new IWEmptyStroke()});registry.applyEffects();}
