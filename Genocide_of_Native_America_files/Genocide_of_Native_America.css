@@ -24,14 +24,18 @@
     opacity: 1.00;
 }
 .style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
     background: #a64c3d;
     opacity: 0.50;
 }
-.style_SkipStroke_4 {
+.style_SkipStroke_5 {
     background: transparent;
     opacity: 0.50;
 }
-.style_SkipStroke_5 {
+.style_SkipStroke_6 {
     background: transparent;
     opacity: 0.50;
 }
