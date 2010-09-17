@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20100917" date="2010-09-17 13:44:13 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="17_Primary_Source_Analysis_Worksheets_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>There are so many good tools that have been developed for primary sources that I have chosen to put a selection here; undoubtedly I will add more as time goes on.  &lt;a href="perma://BLPageReference/42ADE416-1137-4543-9AC7-CC62E3692047"&gt;Download&lt;/a&gt; these pdfs and examine each to see which is the best fit for your classroom and particular activity.  &#xD;&#xD;&lt;a href="artifact_analysis_worksheet-1.pdf"&gt;Artifact Analysis Worksheet from NARA.pdf&lt;/a&gt;&#xD;&#xD;&lt;a href="cartoon_analysis_worksheet.pdf"&gt;Cartoon Analysis Worksheet from NARA.pdf&lt;/a&gt;&#xD;&#xD;&lt;a href="photo_analysis_worksheet.pdf"&gt;Photo Analysis Worksheet from NARA.pdf&lt;/a&gt;&#xD;&#xD;&lt;a href="poster_analysis_worksheet.pdf"&gt;Poster Analysis Worksheet from NARA.pdf&lt;/a&gt;&#xD;&#xD;&lt;a href="sound_recording_analysis_worksheet.pdf"&gt;Sound Recording Analysis Worksheet from NARA.pdf&lt;/a&gt;&#xD;&#xD;&lt;a href="written_document_analysis_worksheet.pdf"&gt;Written Document Analysis Worksheet from NARA.pdf&lt;/a&gt;&#xD;&#xD;Also, new topic pages have been set up:&#xD;&lt;a href="perma://BLPageReference/88ABA671-D3D7-48D2-A4A2-47692D67B8A5"&gt;The Cold War&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/03E64557-E5FC-4920-8B13-02B3DAC3FC6E"&gt;The Great War&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/C0B90A41-C8DE-42DB-A537-2A93336A404D"&gt;Globalization&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/3C7AEF66-55BF-4D20-B0B3-420B292E2BC3"&gt;Modern Ideologies&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/3E556D26-ECFB-4D79-B211-C295078594A4"&gt;Interwar Period&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/04A72153-BE7E-473D-B25D-37B9A9AA7DD0"&gt;World War II&lt;/a&gt;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Primary Source Analysis Worksheets</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, September 17, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -171,6 +171,72 @@ a.class1:visited {
 a.class1:hover {
     text-decoration: none;
 }
+a.class2 {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a.class2:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class2:hover {
+    text-decoration: none;
+}
+a.class3 {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a.class3:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class3:hover {
+    text-decoration: none;
+}
+a.class4 {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a.class4:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class4:hover {
+    text-decoration: none;
+}
+a.class5 {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a.class5:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class5:hover {
+    text-decoration: none;
+}
+a.class6 {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a.class6:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class6:hover {
+    text-decoration: none;
+}
+a.class7 {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a.class7:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class7:hover {
+    text-decoration: none;
+}
 a:hover {
     color: #d67053;
     text-decoration: underline;

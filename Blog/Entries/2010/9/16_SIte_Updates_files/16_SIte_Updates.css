@@ -101,6 +101,8 @@
 .style_External_269_220 {
     position: relative;
 }
+.style_SkipStrokeSkipFillSkipOpacity {
+}
 .Body {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -343,6 +345,8 @@
 }
 .graphic_textbox_layout_style_default_External_145_43 {
     position: relative;
+}
+.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
