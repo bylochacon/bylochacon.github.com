@@ -341,6 +341,17 @@ a.class8:hover {
     color: #d67053;
     text-decoration: underline;
 }
+a.class9 {
+    color: #404040;
+}
+a.class9:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class9:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
 a:hover {
     color: #d67053;
     text-decoration: underline;
