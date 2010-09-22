@@ -1,4 +1,4 @@
-// Created by iWeb 2.0.4 local-build-20100920
+// Created by iWeb 2.0.4 local-build-20100921
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
 {var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_1:new IWEmptyStroke(),stroke_0:new IWStrokeParts([{rect:new IWRect(-3,3,6,243),url:'World_War_II_files/stroke.png'},{rect:new IWRect(-3,-3,6,6),url:'World_War_II_files/stroke_1.png'},{rect:new IWRect(3,-3,234,6),url:'World_War_II_files/stroke_2.png'},{rect:new IWRect(237,-3,6,6),url:'World_War_II_files/stroke_3.png'},{rect:new IWRect(237,3,6,243),url:'World_War_II_files/stroke_4.png'},{rect:new IWRect(237,246,6,7),url:'World_War_II_files/stroke_5.png'},{rect:new IWRect(3,246,234,7),url:'World_War_II_files/stroke_6.png'},{rect:new IWRect(-3,246,6,7),url:'World_War_II_files/stroke_7.png'}],new IWSize(240,249))});registry.applyEffects();}
