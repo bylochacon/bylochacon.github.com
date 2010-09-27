@@ -1,4 +1,4 @@
-// Created by iWeb 2.0.4 local-build-20100921
+// Created by iWeb 2.0.4 local-build-20100927
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
 {var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_1:new IWEmptyStroke(),stroke_0:new IWStrokeParts([{rect:new IWRect(-3,3,6,181),url:'Comparative_%26_General_Genocide_files/stroke.png'},{rect:new IWRect(-3,-3,6,6),url:'Comparative_%26_General_Genocide_files/stroke_1.png'},{rect:new IWRect(3,-3,294,6),url:'Comparative_%26_General_Genocide_files/stroke_2.png'},{rect:new IWRect(297,-3,6,6),url:'Comparative_%26_General_Genocide_files/stroke_3.png'},{rect:new IWRect(297,3,6,181),url:'Comparative_%26_General_Genocide_files/stroke_4.png'},{rect:new IWRect(297,184,6,7),url:'Comparative_%26_General_Genocide_files/stroke_5.png'},{rect:new IWRect(3,184,294,7),url:'Comparative_%26_General_Genocide_files/stroke_6.png'},{rect:new IWRect(-3,184,6,7),url:'Comparative_%26_General_Genocide_files/stroke_7.png'}],new IWSize(300,188))});registry.applyEffects();}

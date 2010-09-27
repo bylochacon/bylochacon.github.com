@@ -20,10 +20,7 @@
     text-align: left;
     text-decoration: none;
     text-indent: 0px;
-    text-transform: none;
-}
-.style_External_400_43 {
-    position: relative;
+    text-transform: uppercase;
 }
 .style_1 {
     padding: 0px;
@@ -74,6 +71,9 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_488_42 {
+    position: relative;
+}
 .Header {
     color: #666666;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
@@ -122,10 +122,10 @@
 .Normal_External_399_128 {
     position: relative;
 }
-.Normal_External_400_43 {
+.Normal_External_399_28 {
     position: relative;
 }
-.Normal_External_399_28 {
+.Normal_External_488_42 {
     position: relative;
 }
 .Quote {

@@ -2,30 +2,6 @@
     padding: 0px;
 }
 .paragraph_style {
-    color: #666666;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 36px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 43px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_1 {
-    padding: 0px;
-}
-.paragraph_style_1 {
     color: #a64b3c;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 36px;
@@ -46,6 +22,34 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_1 {
+    padding: 0px;
+}
+.paragraph_style_1 {
+    color: #666666;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 43px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: uppercase;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStroke_2 {
     background: #b3b3b3;
     opacity: 1.00;
@@ -59,13 +63,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_External_515_43 {
-    position: relative;
-}
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
@@ -73,6 +70,9 @@
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_488_42 {
+    position: relative;
 }
 .Header {
     color: #666666;
@@ -119,13 +119,13 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_515_43 {
-    position: relative;
-}
 .Normal_External_399_128 {
     position: relative;
 }
 .Normal_External_399_28 {
+    position: relative;
+}
+.Normal_External_488_42 {
     position: relative;
 }
 .Quote {

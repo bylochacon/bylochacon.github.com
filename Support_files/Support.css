@@ -89,10 +89,6 @@
     position: relative;
 }
 .style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
     background: #363636;
     opacity: 1.00;
 }
@@ -101,6 +97,10 @@
     opacity: 1.00;
 }
 .style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
 }

@@ -1,7 +1,7 @@
-// Created by iWeb 2.0.4 local-build-20100921
+// Created by iWeb 2.0.4 local-build-20100927
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
-{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_1:new IWEmptyStroke(),stroke_0:new IWStrokeParts([{rect:new IWRect(-3,3,6,189),url:'Genocide_in_Burundi_files/stroke.png'},{rect:new IWRect(-3,-3,6,6),url:'Genocide_in_Burundi_files/stroke_1.png'},{rect:new IWRect(3,-3,279,6),url:'Genocide_in_Burundi_files/stroke_2.png'},{rect:new IWRect(282,-3,6,6),url:'Genocide_in_Burundi_files/stroke_3.png'},{rect:new IWRect(282,3,6,189),url:'Genocide_in_Burundi_files/stroke_4.png'},{rect:new IWRect(282,192,6,7),url:'Genocide_in_Burundi_files/stroke_5.png'},{rect:new IWRect(3,192,279,7),url:'Genocide_in_Burundi_files/stroke_6.png'},{rect:new IWRect(-3,192,6,7),url:'Genocide_in_Burundi_files/stroke_7.png'}],new IWSize(285,196))});registry.applyEffects();}
+{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWStrokeParts([{rect:new IWRect(-3,3,6,189),url:'Genocide_in_Burundi_files/stroke.png'},{rect:new IWRect(-3,-3,6,6),url:'Genocide_in_Burundi_files/stroke_1.png'},{rect:new IWRect(3,-3,279,6),url:'Genocide_in_Burundi_files/stroke_2.png'},{rect:new IWRect(282,-3,6,6),url:'Genocide_in_Burundi_files/stroke_3.png'},{rect:new IWRect(282,3,6,189),url:'Genocide_in_Burundi_files/stroke_4.png'},{rect:new IWRect(282,192,6,7),url:'Genocide_in_Burundi_files/stroke_5.png'},{rect:new IWRect(3,192,279,7),url:'Genocide_in_Burundi_files/stroke_6.png'},{rect:new IWRect(-3,192,6,7),url:'Genocide_in_Burundi_files/stroke_7.png'}],new IWSize(285,196)),stroke_1:new IWEmptyStroke()});registry.applyEffects();}
 function hostedOnDM()
 {return false;}
 function onPageLoad()
