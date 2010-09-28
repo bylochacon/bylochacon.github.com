@@ -1,4 +1,4 @@
-// Created by iWeb 2.0.4 local-build-20100927
+// Created by iWeb 2.0.4 local-build-20100928
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
 {var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_1:new IWEmptyStroke(),stroke_0:new IWStrokeParts([{rect:new IWRect(-3,3,6,244),url:'Modern_Ideologies_files/stroke.png'},{rect:new IWRect(-3,-3,6,6),url:'Modern_Ideologies_files/stroke_1.png'},{rect:new IWRect(3,-3,188,6),url:'Modern_Ideologies_files/stroke_2.png'},{rect:new IWRect(191,-3,7,6),url:'Modern_Ideologies_files/stroke_3.png'},{rect:new IWRect(191,3,7,244),url:'Modern_Ideologies_files/stroke_4.png'},{rect:new IWRect(191,247,7,6),url:'Modern_Ideologies_files/stroke_5.png'},{rect:new IWRect(3,247,188,6),url:'Modern_Ideologies_files/stroke_6.png'},{rect:new IWRect(-3,247,6,6),url:'Modern_Ideologies_files/stroke_7.png'}],new IWSize(194,250))});registry.applyEffects();}
