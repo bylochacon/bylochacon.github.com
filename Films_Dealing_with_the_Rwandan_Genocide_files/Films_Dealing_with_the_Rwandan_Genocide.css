@@ -21,6 +21,27 @@
 }
 .paragraph_style_1 {
     color: #404040;
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 9px;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 11px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
+    color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
     font-style: normal;
@@ -40,7 +61,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_2 {
+.paragraph_style_3 {
     color: #333333;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 11px;
@@ -61,7 +82,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_3 {
+.paragraph_style_4 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 11px;
@@ -82,7 +103,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.paragraph_style_4 {
+.paragraph_style_5 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
@@ -103,7 +124,7 @@
     text-indent: 0px;
     text-transform: uppercase;
 }
-.paragraph_style_5 {
+.paragraph_style_6 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 11px;
@@ -124,7 +145,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_6 {
+.paragraph_style_7 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 14px;
@@ -145,7 +166,7 @@
     text-indent: 0px;
     text-transform: uppercase;
 }
-.paragraph_style_7 {
+.paragraph_style_8 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 11px;
@@ -166,7 +187,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_8 {
+.paragraph_style_9 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 12px;
@@ -191,7 +212,7 @@
     color: #333333;
     opacity: 1.00;
 }
-.paragraph_style_9 {
+.paragraph_style_10 {
     color: #333333;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 12px;
@@ -212,7 +233,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.paragraph_style_10 {
+.paragraph_style_11 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
@@ -233,7 +254,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_11 {
+.paragraph_style_12 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 12px;
@@ -262,7 +283,7 @@
     font-size: 9px;
     line-height: 11px;
 }
-.paragraph_style_12 {
+.paragraph_style_13 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -283,7 +304,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_13 {
+.paragraph_style_14 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -304,7 +325,7 @@
     text-indent: -36px;
     text-transform: none;
 }
-.paragraph_style_14 {
+.paragraph_style_15 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 11px;
@@ -325,7 +346,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_15 {
+.paragraph_style_16 {
     color: #303030;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -351,7 +372,7 @@
     font-size: 11px;
     line-height: 13px;
 }
-.paragraph_style_16 {
+.paragraph_style_17 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
@@ -372,7 +393,7 @@
     text-indent: 0px;
     text-transform: uppercase;
 }
-.paragraph_style_17 {
+.paragraph_style_18 {
     color: #333333;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 11px;
@@ -393,7 +414,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_18 {
+.paragraph_style_19 {
     color: #333333;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -414,7 +435,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_19 {
+.paragraph_style_20 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -435,7 +456,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_20 {
+.paragraph_style_21 {
     color: #333333;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 11px;
@@ -460,7 +481,7 @@
     font-size: 12px;
     line-height: 14px;
 }
-.paragraph_style_21 {
+.paragraph_style_22 {
     color: #333333;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -481,7 +502,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_22 {
+.paragraph_style_23 {
     color: #333333;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -502,7 +523,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_23 {
+.paragraph_style_24 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -528,7 +549,7 @@
     opacity: 1.00;
     text-decoration: underline;
 }
-.paragraph_style_24 {
+.paragraph_style_25 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -549,7 +570,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_25 {
+.paragraph_style_26 {
     color: #333333;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 11px;
@@ -570,7 +591,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_26 {
+.paragraph_style_27 {
     color: #333333;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -591,7 +612,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_27 {
+.paragraph_style_28 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 12px;
@@ -612,7 +633,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_28 {
+.paragraph_style_29 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 11px;
@@ -633,7 +654,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_29 {
+.paragraph_style_30 {
     color: #141414;
     font-family: 'HelveticaNeue-CondensedBlack', 'Helvetica Neue', 'Helvetica Neue Black Condensed', 'Arial', sans-serif;
     font-size: 18px;
@@ -654,34 +675,13 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_30 {
-    color: #404040;
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .style_SkipStroke_2 {
-    background: #a64b3c;
+    background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke_3 {
     background: #a64b3c;
-    opacity: 0.75;
+    opacity: 1.00;
 }
 .style_SkipStroke {
     background: transparent;
@@ -692,8 +692,8 @@
     opacity: 1.00;
 }
 .style_SkipStroke_4 {
-    background: transparent;
-    opacity: 1.00;
+    background: #a64b3c;
+    opacity: 0.75;
 }
 .style_SkipStroke_5 {
     background: transparent;
@@ -815,6 +815,9 @@
     background: #a64b3c;
     opacity: 1.00;
 }
+.graphic_textbox_layout_style_default_External_118_74 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_330_140 {
     position: relative;
 }
@@ -851,9 +854,6 @@
 .graphic_textbox_layout_style_default_External_330_255 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_224_50 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_330_180 {
     position: relative;
 }
@@ -861,6 +861,9 @@
     padding: 4px;
 }
 .graphic_textbox_layout_style_default_External_330_360 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_99_52 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_330_270 {

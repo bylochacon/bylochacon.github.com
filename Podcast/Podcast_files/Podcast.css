@@ -298,10 +298,6 @@ a:hover {
     color: #a64b3c;
     text-decoration: none;
 }
-#widget4 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
 #widget1 .Summary_Separator {
     color: #000000;
     font-family: 'Helvetica', 'Arial', sans-serif;
@@ -317,10 +313,6 @@ a:hover {
     text-align: left;
     text-decoration: none;
     text-transform: none;
-}
-#widget4 a:visited {
-    color: #333333;
-    text-decoration: none;
 }
 #widget1 .Summary_Body {
     color: #404040;
@@ -393,10 +385,6 @@ a:hover {
     text-align: left;
     text-decoration: none;
     text-transform: none;
-}
-#widget4 a:hover {
-    color: #d67053;
-    text-decoration: none;
 }
 #widget3 a:visited {
     color: #333333;

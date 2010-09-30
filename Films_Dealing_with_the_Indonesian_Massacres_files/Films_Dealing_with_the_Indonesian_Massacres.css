@@ -21,6 +21,27 @@
 }
 .paragraph_style_1 {
     color: #404040;
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 9px;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 11px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
+    color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
     font-style: normal;
@@ -40,7 +61,7 @@
     text-indent: 0px;
     text-transform: uppercase;
 }
-.paragraph_style_2 {
+.paragraph_style_3 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -64,7 +85,7 @@
 .style {
     text-decoration: underline;
 }
-.paragraph_style_3 {
+.paragraph_style_4 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -92,27 +113,6 @@
 .style_2 {
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
 }
-.paragraph_style_4 {
-    color: #404040;
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .paragraph_style_5 {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
@@ -135,8 +135,8 @@
     text-transform: uppercase;
 }
 .style_SkipStroke_2 {
-    background: transparent;
-    opacity: 0.50;
+    background: #a64b3c;
+    opacity: 1.00;
 }
 .style_SkipStroke_3 {
     background: transparent;
@@ -147,24 +147,24 @@
     opacity: 1.00;
 }
 .style_SkipStroke_1 {
-    background: #a64b3c;
+    background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke_4 {
     background: transparent;
-    opacity: 1.00;
+    opacity: 0.50;
 }
 .style_SkipStroke_5 {
     background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke_6 {
-    background: #a64b3c;
-    opacity: 0.50;
-}
-.style_SkipStroke_7 {
     background: transparent;
     opacity: 1.00;
+}
+.style_SkipStroke_7 {
+    background: #a64b3c;
+    opacity: 0.50;
 }
 .style_SkipStroke_8 {
     background: transparent;
@@ -277,7 +277,10 @@
 .graphic_textbox_layout_style_default_External_330_100 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_224_50 {
+.graphic_textbox_layout_style_default_External_99_52 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_118_74 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_330_120 {
@@ -289,18 +292,6 @@
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
-}
-a {
-    color: #a64b3c;
-    text-decoration: none;
-}
-a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-a:hover {
-    color: #d67053;
-    text-decoration: underline;
 }
 #widget1 a:visited {
     color: #333333;

@@ -48,6 +48,10 @@
     background: #a64c3d;
     opacity: 0.50;
 }
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStrokeSkipFillSkipOpacity {
 }
 .style_SkipStroke {
@@ -55,10 +59,6 @@
     opacity: 1.00;
 }
 .style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
 }
