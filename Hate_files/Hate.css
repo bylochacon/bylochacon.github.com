@@ -106,13 +106,17 @@
 }
 .style_SkipStroke_9 {
     background: transparent;
-    opacity: 0.50;
+    opacity: 0.30;
 }
 .style_SkipStroke_10 {
     background: transparent;
     opacity: 0.25;
 }
 .style_SkipStroke_11 {
+    background: transparent;
+    opacity: 0.50;
+}
+.style_SkipStroke_12 {
     background: transparent;
     opacity: 0.25;
 }

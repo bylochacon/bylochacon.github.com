@@ -19,10 +19,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
 .paragraph_style_1 {
     color: #333333;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -44,17 +40,21 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_2 {
+    background: #a64c3d;
+    opacity: 0.50;
+}
 .style_SkipStroke_3 {
     background: transparent;
-    opacity: 1.00;
+    opacity: 0.50;
 }
 .style_SkipStroke_4 {
     background: transparent;
-    opacity: 0.50;
+    opacity: 0.25;
 }
 .style_SkipStroke_5 {
     background: transparent;
-    opacity: 0.50;
+    opacity: 1.00;
 }
 .style_SkipStrokeSkipFillSkipOpacity {
 }
@@ -64,6 +64,43 @@
 }
 .style_SkipStroke_1 {
     background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_6 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_7 {
+    background: transparent;
+    opacity: 0.50;
+}
+.style_SkipStroke_8 {
+    background: transparent;
+    opacity: 0.50;
+}
+.paragraph_style_2 {
+    color: #404040;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 13px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style {
+    color: #008040;
     opacity: 1.00;
 }
 .Free_Form {
@@ -122,11 +159,20 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_200_76 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_200_53 {
     position: relative;
 }
-.graphic_textbox_layout_style_default {
-    padding: 4px;
+.graphic_textbox_layout_style_default_External_198_151 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_198_148 {
+    position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
