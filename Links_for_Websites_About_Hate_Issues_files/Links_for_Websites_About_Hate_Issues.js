@@ -1,9 +1,0 @@
-// Created by iWeb 2.0.4 local-build-20100519
-
-setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
-{return false;}
-function onPageLoad()
-{loadMozillaCSS('Links_for_Websites_About_Hate_Issues_files/Links_for_Websites_About_Hate_IssuesMoz.css')
-adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');Widget.onload();performPostEffectsFixups()}
-function onPageUnload()
-{Widget.onunload();}
