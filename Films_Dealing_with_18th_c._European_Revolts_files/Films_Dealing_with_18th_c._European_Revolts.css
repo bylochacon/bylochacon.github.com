@@ -89,6 +89,27 @@
     background: transparent;
     opacity: 1.00;
 }
+.paragraph_style_3 {
+    color: #404040;
+    font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', 'Helvetica Neue Bold Condensed', 'Arial', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 44px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -201,9 +222,24 @@
 .graphic_textbox_layout_style_default_External_118_74 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_647_139 {
+    position: relative;
+}
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 #widget2 a:visited {
     color: #333333;

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20101018" date="2010-10-18 10:13:48 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_The_Films_Are_Done%21_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Alright, I have finally, finally finished up all the pages for films on genocide and world history topics.  You can access them through the &lt;a href="perma://BLPageReference/A7FAD77F-A4F4-429C-99CE-6001DF1660D2"&gt;Topics&lt;/a&gt; page, the &lt;a href="perma://BLPageReference/522A0170-83F2-4E5F-A4B7-FF033641BF97"&gt;Films&lt;/a&gt; page, the &lt;a href="perma://BLPageReference/6436F3B0-7986-470D-864E-12BDCA53BC72"&gt;Site Guide&lt;/a&gt;, and if it is working, the &lt;a href="perma://BLPageReference/1D0E9E1B-EC2F-4918-B209-D9E72CC1C60D"&gt;Search&lt;/a&gt; page.  I am listing here all the pages that have been put up since the last blog entry.  &#xD;&#xD;&lt;a href="perma://BLPageReference/F16521A5-ABF7-470F-AA01-8C4069C4B13C"&gt;Films Dealing with Modern Ideologies&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/0F927666-0280-4162-94FE-9DBED4B28D80"&gt;Films Dealing with Foundations of Ethics &amp; Thought in the Modern Era&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/98BAEA1C-511E-445C-87EE-7B3B8C57B66D"&gt;Films Dealing with Globalization&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/56527AFD-3DCF-42CD-A382-3EC6191A9ABB"&gt;Films Dealing with the Interwar Period&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/B197710F-C883-4EA1-B9B4-17C5C4384A12"&gt;Films Dealing with the American Revolution&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/34C54E88-5C5B-4258-882D-A9F714B6B142"&gt;Films Dealing with the Haitian Revolution&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/D50001F1-EE14-47F1-9E21-8325DCE29B6F"&gt;Films Dealing with Topical &amp; Commodity Histories&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/E6FEF0B4-3EAE-401D-A44F-85C5034C1B62"&gt;Films Dealing with the Latin American Wars of Independence&lt;/a&gt;&#xD;&lt;a href="perma://BLPageReference/E0BE575D-3673-4FB4-A60A-DB635D15EB44"&gt;Films Dealing with 18th c. European Revolts&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Films Are Done!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, October 25, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

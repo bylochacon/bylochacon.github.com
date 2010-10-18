@@ -87,7 +87,7 @@
     font-size: 14px;
     font-style: normal;
     font-variant: small-caps;
-    font-weight: normal;
+    font-weight: bold;
     letter-spacing: 0;
     line-height: 17px;
     margin-bottom: 0px;
@@ -102,19 +102,15 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_1 {
-    font-variant: normal;
-    text-transform: none;
-}
 .paragraph_style_4 {
     color: #333333;
-    font-family: 'HelveticaNeue-UltraLightItalic', 'Helvetica Neue', 'Helvetica Neue UltraLight', 'Arial', sans-serif;
-    font-size: 14px;
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
     font-style: italic;
     font-variant: small-caps;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 16px;
+    line-height: 14px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -123,7 +119,7 @@
     padding-bottom: 10px;
     padding-top: 0px;
     text-align: left;
-    text-decoration: none;
+    text-decoration: underline;
     text-indent: 0px;
     text-transform: none;
 }
@@ -133,7 +129,7 @@
     font-size: 12px;
     font-style: normal;
     font-variant: small-caps;
-    font-weight: normal;
+    font-weight: bold;
     letter-spacing: 0;
     line-height: 15px;
     margin-bottom: 0px;
@@ -194,7 +190,7 @@
 }
 .paragraph_style_8 {
     color: #404040;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-variant: small-caps;
@@ -215,7 +211,7 @@
 }
 .paragraph_style_9 {
     color: #404040;
-    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-family: 'HelveticaNeue-Medium', 'Helvetica Neue', 'Helvetica Neue Medium', 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-variant: small-caps;
@@ -233,6 +229,9 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_1 {
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
 }
 .Free_Form {
     color: #404040;
@@ -280,6 +279,9 @@
     padding: 0px;
 }
 .Normal_External_250_100 {
+    position: relative;
+}
+.Normal_External_150_257 {
     position: relative;
 }
 .Normal_External_150_190 {
