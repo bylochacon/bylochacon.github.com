@@ -83,12 +83,6 @@
 }
 .style {
     color: #404040;
-    font-size: 12px;
-    line-height: 14px;
-    opacity: 1.00;
-}
-.style_1 {
-    color: #404040;
     opacity: 1.00;
 }
 .style_SkipStroke_4 {
@@ -120,7 +114,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_2 {
+.style_1 {
     font-size: 14px;
     line-height: 16px;
 }
@@ -225,6 +219,9 @@
 .Normal_External_160_2000 {
     position: relative;
 }
+.Normal_External_160_2478 {
+    position: relative;
+}
 .Title {
     color: #404040;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
@@ -286,6 +283,39 @@ a.class1:visited {
     text-decoration: none;
 }
 a.class1:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+a.class10 {
+    color: #404040;
+}
+a.class10:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class10:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+a.class11 {
+    color: #404040;
+}
+a.class11:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class11:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+a.class12 {
+    color: #404040;
+}
+a.class12:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class12:hover {
     color: #d67053;
     text-decoration: underline;
 }
