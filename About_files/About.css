@@ -48,9 +48,6 @@
 .style_2 {
     padding: 10px;
 }
-.style_External_270_131 {
-    position: relative;
-}
 .style_External_515_43 {
     bottom: 0px;
     position: absolute;
@@ -68,6 +65,9 @@
 .style_SkipStroke_5 {
     background: #b2b2b2;
     opacity: 1.00;
+}
+.style_External_270_119 {
+    position: relative;
 }
 .style_SkipStroke_6 {
     background: transparent;
@@ -221,7 +221,7 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_270_131 {
+.graphic_textbox_layout_style_default_External_270_119 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

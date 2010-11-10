@@ -48,6 +48,22 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 0.50;
+}
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 0.50;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
 .paragraph_style_2 {
     color: #404040;
     font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue', 'Helvetica Neue UltraLight', 'Arial', sans-serif;
@@ -73,17 +89,15 @@
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-weight: bold;
 }
-.style_SkipStroke {
+.style_SkipStroke_6 {
     background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
+    opacity: 0.75;
 }
 .style_SkipStrokeSkipFillSkipOpacity {
 }
 .style_SkipStrokeSkipFillSkipOpacity_1 {
+}
+.style_SkipStrokeSkipFillSkipOpacity_2 {
 }
 .paragraph_style_3 {
     color: #404040;
@@ -162,25 +176,28 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default_External_150_150 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_150_56 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default_External_137_64 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_170_305 {
+.graphic_textbox_layout_style_default_External_150_55 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_155_305 {
+.graphic_textbox_layout_style_default_External_170_251 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_180_343 {
+.graphic_textbox_layout_style_default_External_155_250 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_150_305 {
+.graphic_textbox_layout_style_default_External_150_250 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_180_250 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

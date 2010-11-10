@@ -133,15 +133,15 @@
 .style_External_270_190 {
     position: relative;
 }
-.style_External_479_42 {
+.style_External_230_45 {
     bottom: 0px;
     position: absolute;
-    width: 479px;
+    width: 230px;
 }
-.style_External_195_43 {
+.style_External_425_100 {
     bottom: 0px;
     position: absolute;
-    width: 195px;
+    width: 425px;
 }
 .Free_Form {
     color: #404040;
@@ -214,10 +214,10 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_479_42 {
+.Normal_External_425_100 {
     bottom: 0px;
     position: absolute;
-    width: 479px;
+    width: 425px;
 }
 .Normal_External_403_32 {
     bottom: 0px;
@@ -285,10 +285,10 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_195_43 {
+.graphic_textbox_layout_style_default_External_270_190 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_270_190 {
+.graphic_textbox_layout_style_default_External_230_45 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

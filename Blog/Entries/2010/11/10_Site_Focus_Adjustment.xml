@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20101110" date="2010-11-10 11:28:11 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Site_Focus_Adjustment_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>It has taken me hundreds of hours to put up what is on here so far, and I know I am not close to done.  The scope of the site to this point has been too wide - a hazard of studying the history of the world.  What I have done today is remove all the human rights pages that did not yet have content, and I will leave that field to others more experienced than I.  &#xD;&#xD;Instead, I intend to focus on my areas of strength, modern world history, genocide and teaching.  Those pages are about eighty-percent finished, and will hopefully be complete by the end of the year.  234 pages with initial content, and only 68 to go!  &#xD;&#xD;As you have probably noticed, the podcast is delayed.  I have written the first two podcasts, a short introduction and one on why study history, but I am waiting on equipment, so recording probably won&#x2019;t start until the first week of the new year.  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Site Focus Adjustment</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, November 10, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

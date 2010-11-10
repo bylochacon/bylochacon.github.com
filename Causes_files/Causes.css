@@ -106,6 +106,10 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_1 {
+    color: #333333;
+    opacity: 1.00;
+}
 .paragraph_style_5 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -190,13 +194,26 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_1 {
-    color: #303030;
+.paragraph_style_9 {
+    color: #333333;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
     opacity: 1.00;
-}
-.style_2 {
-    color: #0022e4;
-    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
 .style_External_256_19 {
     position: relative;

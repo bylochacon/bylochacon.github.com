@@ -42,7 +42,7 @@
 }
 .paragraph_style_2 {
     color: #404040;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-variant: small-caps;
@@ -63,7 +63,7 @@
 }
 .paragraph_style_3 {
     color: #404040;
-    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-variant: small-caps;
@@ -81,9 +81,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style {
-    font-family: 'HelveticaNeue-Medium', 'Helvetica Neue', 'Helvetica Neue Medium', 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
 }
 .paragraph_style_4 {
     color: #404040;
@@ -106,7 +103,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_1 {
+.style {
     font-variant: small-caps;
     text-transform: none;
 }
@@ -152,7 +149,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_2 {
+.style_1 {
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-weight: bold;
 }
@@ -177,7 +174,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_3 {
+.style_2 {
     font-weight: normal;
 }
 .paragraph_style_8 {
@@ -201,11 +198,10 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
+.style_3 {
+    font-family: 'HelveticaNeue-Medium', 'Helvetica Neue', 'Helvetica Neue Medium', 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
 }
-.style_SkipStroke_3 {
+.style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
@@ -217,7 +213,25 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 0.75;
+}
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 0.50;
+}
+.style_SkipStroke_6 {
+    background: transparent;
+    opacity: 0.50;
+}
 .style_SkipStrokeSkipFillSkipOpacity {
+}
+.style_SkipStrokeSkipFillSkipOpacity_1 {
 }
 .Free_Form {
     color: #404040;
@@ -268,6 +282,9 @@
     padding: 0px;
 }
 .Normal_External_150_260 {
+    position: relative;
+}
+.Normal_External_150_50 {
     position: relative;
 }
 .Normal_External_100_180 {
