@@ -71,7 +71,7 @@
 }
 .style_SkipStroke_4 {
     background: transparent;
-    opacity: 0.50;
+    opacity: 0.25;
 }
 .paragraph_style_3 {
     color: #404040;
@@ -104,13 +104,13 @@
 }
 .paragraph_style_4 {
     color: #404040;
-    font-family: 'HelveticaNeue-UltraLightItalic', 'Helvetica Neue', 'Helvetica Neue UltraLight', 'Arial', sans-serif;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 16px;
-    font-style: italic;
-    font-variant: small-caps;
-    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
     letter-spacing: 0;
-    line-height: 18px;
+    line-height: 19px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -124,23 +124,13 @@
     text-transform: none;
 }
 .style {
-    font-variant: normal;
-    text-transform: none;
-}
-.style_1 {
     font-family: 'HelveticaNeue-UltraLightItalic', 'Helvetica Neue', 'Helvetica Neue UltraLight', 'Arial', sans-serif;
     font-style: italic;
-    font-variant: normal;
     font-weight: normal;
-    text-transform: none;
 }
 .style_SkipStroke_5 {
     background: transparent;
-    opacity: 0.75;
-}
-.style_SkipStroke_6 {
-    background: transparent;
-    opacity: 0.50;
+    opacity: 0.25;
 }
 .style_SkipStrokeSkipFillSkipOpacity {
 }

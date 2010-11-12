@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20101112" date="2010-11-12 11:30:55 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_The_Cold_War_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I have put up links to sites about the history and teaching of the Cold War here:  &lt;a href="perma://BLPageReference/7D9EB7D1-15CD-4685-B5AB-BF2CA61FE4A5"&gt;Links Regarding the Cold War&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Cold War</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, November 13, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>
