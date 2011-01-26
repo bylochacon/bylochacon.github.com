@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110126" date="2011-01-26 10:55:07 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Between_World_Wars_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The period the first and second world war witnessed a staggering number of enormous changes in politics, art, technology and popular culture.  Here are some links I&#x2019;ve put together to begin examining the history more closely:  &lt;a href="perma://BLPageReference/A5B640D0-1E48-4DCF-ACE0-33D7771F2D04"&gt;Links Regarding the Interwar Period&lt;/a&gt;.  I have left out links specifically focused on American history for the time being, in the interest of getting this page up and sticking to the world history focus of this site.  About half the links are up today, and the rest should be up in the next week or so (I hope!).  We are in the process of moving to San Francisco, and it has been time-consuming.  &#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Between World Wars</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, January 26, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
