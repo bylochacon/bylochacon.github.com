@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110203" date="2011-02-03 12:21:32 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_World_War_II_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>World War II is the dividing event of the twentieth century.  There was the before:  hyper-nationalism, depression, dictators, and multiple crises.  There was the after:  a world divided between the camps of two superpowers with competing economic and political ideologies.  The war itself was epic.  Enormous casualties, harrowing testimony, victimization and murder of civilians on a scale hitherto inconceivable.  It has been romanticized in the years following, as the &#x201C;Good War&#x201D;, the struggle against Nazism and Fascism, fought by the &#x201C;Greatest Generation&#x201D;.  &#xD;&#xD;With so much attention on its study, it is difficult to find which resources are best.  I have striven to collect the best sources for overviews and collections of information.  Those links can then lead you to more specific topics.  I am about half-way through posting links to this page, so more will be up in the next few weeks.  &#xD;&#xD;If you have &lt;a href="mailto%3Abylochacon%40gmail.com%3Fsubject%3DBylochacon.com%2520Suggestions%3A%2520%2520World%2520War%2520II"&gt;suggestions, let me know&lt;/a&gt; so that I can add them in or make appropriate changes.  Also, if you know of others who might find my site useful, please pass it along!  &#xD;&#xD;&lt;a href="perma://BLPageReference/4CCE95C0-954A-4858-82AD-4A711871F784"&gt;Links Regarding World War II&lt;/a&gt;&#xD;&#xD;Additional Notes:  I have left out most sites dedicated specifically to the Holocaust, as they can be found on my &lt;a href="perma://BLPageReference/8E8C569E-794D-4FA8-9414-1538282D56E1"&gt;Links Regarding the Holocaust&lt;/a&gt; page.  Sites focused only on specific battles, military equipment or groups are generally left out, except when notoriety insists upon their inclusion.  Finally, sites centered on uniquely American experiences are generally not included as &lt;a href="perma://BLHome//"&gt;bylochacon.com&lt;/a&gt; is focused on world history and there is such a flood of information out there I had to limit it somehow.  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>World War II</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, February 3, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
