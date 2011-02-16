@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110216" date="2011-02-16 13:06:43 -0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_Google_Ranking_Is_Up%21_files/shapeimage_1.jpg" left="0px" top="0px" width="393px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I have now spent a year creating this site.  Six months ago, a search for &#x201C;world history genocide teaching&#x201D; put my site on google page twenty-five.  Today, it is on the first page, with only four sites above it.  Yay!&#xD;&#xD;Here&#x2019;s a link to the search:&#xD;&#xD;&lt;a href="http://www.google.com/search%3Fq%3Dworld+history+genocide+teaching%26ie%3Dutf-8%26oe%3Dutf-8%26aq%3Dt%26rls%3Dorg.mozilla%3Aen-US%3Aofficial%26client%3Dfirefox-a"&gt;http://www.google.com/search?q=world+history+genocide+teaching&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Google Ranking Is Up!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, February 16, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
