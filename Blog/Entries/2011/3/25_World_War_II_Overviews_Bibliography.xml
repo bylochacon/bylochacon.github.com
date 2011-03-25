@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110325" date="2011-03-25 11:05:20 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_World_War_II_Overviews_Bibliography_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Due to the size of the topic, there will be a series of bibliographies here.  Today is only the start, a selection of introductions to World War II.  &#xD;&#xD;&lt;a href="perma://BLPageReference/B72F89EE-46EE-458C-A676-1DE83E98C2C4"&gt;Bibliography of World War II Overviews&lt;/a&gt;&#xD;&#xD;&lt;a href="perma://BLPageReference/DF064356-37C1-48A0-8B9F-F00BB6E05EE5"&gt;Bibliographies of World War II&lt;/a&gt; (this page will link to the multiple bibliographies posted in the future)</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>World War II Overviews Bibliography</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, March 25, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
