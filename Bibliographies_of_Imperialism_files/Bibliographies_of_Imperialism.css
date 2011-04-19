@@ -44,13 +44,21 @@
     background: transparent;
     opacity: 0.50;
 }
+.style_SkipStroke_3 {
+    background: #a64c3d;
+    opacity: 0.50;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke_1 {
-    background: #a64c3d;
-    opacity: 0.50;
+    background: transparent;
+    opacity: 1.00;
 }
 .Free_Form {
     color: #404040;
@@ -97,15 +105,16 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_650_82 {
+.Normal_External_650_85 {
     position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default_External_148_148 {
-    position: relative;
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
@@ -116,9 +125,24 @@
 .graphic_textbox_layout_style_default_External_150_50 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_148_148 {
+    position: relative;
+}
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 #widget2 a:visited {
     color: #333333;

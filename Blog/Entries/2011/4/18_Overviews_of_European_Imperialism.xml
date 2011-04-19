@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110419" date="2011-04-19 15:55:43 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Overviews_of_European_Imperialism_files/shapeimage_1.jpg" left="0px" top="0px" width="393px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Books to start learning about European Imperialism.&#xD;&#xD;&lt;a href="perma://BLPageReference/3C642F16-AE20-465C-8CDF-A1E3197D1D61"&gt;Bibliography of Overviews of Imperialism&lt;/a&gt;&#xD;&#xD;&lt;a href="perma://BLPageReference/0A072188-A559-48B1-9DFE-D64B358CF615"&gt;Bibliographies of Imperialism&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Overviews of European Imperialism</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, April 18, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
