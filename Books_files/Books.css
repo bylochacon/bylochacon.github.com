@@ -133,8 +133,8 @@
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 14px;
     font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
+    font-variant: small-caps;
+    font-weight: bold;
     letter-spacing: 0;
     line-height: 17px;
     margin-bottom: 0px;
@@ -154,8 +154,8 @@
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
     font-size: 14px;
     font-style: normal;
-    font-variant: small-caps;
-    font-weight: bold;
+    font-variant: normal;
+    font-weight: normal;
     letter-spacing: 0;
     line-height: 17px;
     margin-bottom: 0px;
