@@ -65,22 +65,16 @@
     font-weight: bold;
 }
 .style_1 {
-    font-size: 2px;
-    font-weight: bold;
-    line-height: 2px;
-}
-.style_2 {
-    font-size: 2px;
-    font-style: italic;
-    line-height: 2px;
-}
-.style_3 {
     font-size: 11px;
     font-style: italic;
     line-height: 13px;
 }
 .style_SkipStroke_2 {
     background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: #a64c3d;
     opacity: 1.00;
 }
 .style_SkipStroke {
@@ -91,9 +85,15 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_3 {
-    background: #a64c3d;
-    opacity: 1.00;
+.style_2 {
+    font-size: 2px;
+    font-weight: bold;
+    line-height: 2px;
+}
+.style_3 {
+    font-size: 2px;
+    font-style: italic;
+    line-height: 2px;
 }
 .paragraph_style_3 {
     color: #404040;

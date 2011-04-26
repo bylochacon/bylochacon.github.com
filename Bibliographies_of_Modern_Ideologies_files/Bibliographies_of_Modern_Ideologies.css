@@ -44,6 +44,18 @@
     background: transparent;
     opacity: 0.50;
 }
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 0.50;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -104,6 +116,10 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
 .graphic_textbox_layout_style_default_External_148_148 {
     position: relative;
 }
@@ -116,6 +132,18 @@
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 #widget2 a:visited {
     color: #333333;

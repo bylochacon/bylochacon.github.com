@@ -60,6 +60,9 @@
     background: transparent;
     opacity: 1.00;
 }
+.style {
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+}
 .Body {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -235,6 +238,17 @@ a.class7:visited {
     text-decoration: none;
 }
 a.class7:hover {
+    text-decoration: none;
+}
+a.class8 {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a.class8:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class8:hover {
     text-decoration: none;
 }
 a:hover {
