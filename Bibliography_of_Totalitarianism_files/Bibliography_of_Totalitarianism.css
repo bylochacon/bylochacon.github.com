@@ -40,13 +40,38 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style {
+    font-weight: bold;
+}
+.style_1 {
+    font-size: 11px;
+    font-style: italic;
+    line-height: 13px;
+}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_3 {
-    background: #a64c3d;
+.paragraph_style_2 {
+    color: #404040;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 36px;
+    margin-right: 0px;
+    margin-top: 0px;
     opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -36px;
+    text-transform: none;
 }
 .style_SkipStroke {
     background: transparent;
@@ -54,6 +79,10 @@
 }
 .style_SkipStroke_1 {
     background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: #a64c3d;
     opacity: 1.00;
 }
 .Free_Form {
@@ -108,61 +137,49 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default_External_175_50 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_175_50 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default_External_141_266 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_544_292 {
+.graphic_textbox_layout_style_default_External_544_300 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_537_266 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_544_300 {
+.graphic_textbox_layout_style_default_External_544_292 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
-#widget8 a:hover {
-    color: #d67053;
-    text-decoration: underline;
+#widget5 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+#widget0 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+#widget1 a {
+    color: #a64b3c;
+    text-decoration: none;
 }
 #widget2 a {
     color: #a64b3c;
     text-decoration: none;
 }
-#widget5 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget2 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget9 a {
+#widget3 a {
     color: #a64b3c;
     text-decoration: none;
 }
-#widget11 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget1 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-.bumper {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget11 a {
+#widget4 a {
     color: #a64b3c;
     text-decoration: none;
 }
@@ -170,51 +187,51 @@
     color: #a64b3c;
     text-decoration: none;
 }
-#widget9 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget5 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget3 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
-#widget0 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget9 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
 #widget6 a:hover {
     color: #d67053;
     text-decoration: underline;
+}
+#widget4 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+#widget6 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+#widget2 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+#widget2 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+#widget7 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
 }
 #widget0 a:visited {
     color: #333333;
     text-decoration: none;
 }
-#widget3 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget0 a {
+#widget8 a {
     color: #a64b3c;
     text-decoration: none;
 }
-#widget12 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
-#widget12 a:hover {
+#widget5 a:hover {
     color: #d67053;
     text-decoration: underline;
 }
-#widget7 a {
+#widget8 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+#widget9 a {
     color: #a64b3c;
     text-decoration: none;
 }
@@ -222,39 +239,35 @@
     font-size: 1px;
     line-height: 1px;
 }
-#widget4 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget8 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget10 a:hover {
+#widget9 a:hover {
     color: #d67053;
     text-decoration: underline;
 }
-#widget10 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget11 a:hover {
+#widget8 a:hover {
     color: #d67053;
     text-decoration: underline;
 }
-#widget4 a {
-    color: #a64b3c;
+#widget1 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+#widget7 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+#widget9 a:visited {
+    color: #333333;
     text-decoration: none;
 }
 #widget4 a:hover {
     color: #d67053;
     text-decoration: underline;
 }
-#widget12 a:visited {
+#widget5 a:visited {
     color: #333333;
     text-decoration: none;
 }
-#widget1 a:hover {
+#widget7 a:hover {
     color: #d67053;
     text-decoration: underline;
 }
@@ -262,37 +275,17 @@
     color: #333333;
     text-decoration: none;
 }
-#widget1 a {
-    color: #a64b3c;
+#widget1 a:visited {
+    color: #333333;
     text-decoration: none;
 }
-#widget7 a:hover {
+#widget0 a:hover {
     color: #d67053;
     text-decoration: underline;
 }
-#widget8 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
-#widget7 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget10 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
-#widget5 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
-#widget6 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget2 a:visited {
-    color: #333333;
-    text-decoration: none;
+#widget3 a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 body { 
     -webkit-text-size-adjust: none;
