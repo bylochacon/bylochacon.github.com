@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110503" date="2011-05-03 12:16:57 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Overviews_of_Communism_%26_Socialism_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I have put up a page of books to start learning about communism and socialism here:  &lt;a href="perma://BLPageReference/2CEF6965-5F47-417B-B5CA-D3F23EACBF52"&gt;Bibliography of Socialism &amp; Communism&lt;/a&gt;.&#xD;&#xD;I have also finished the initial content of the bibliographies of modern ideologies including fascism, nazism, totalitarianism, communism and socialism:  &lt;a href="perma://BLPageReference/B92F8B02-E307-433C-8AE6-CE35B39B7710"&gt;Bibliographies of Modern Ideologies&lt;/a&gt;.&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Overviews of Communism &amp; Socialism</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, May 3, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
