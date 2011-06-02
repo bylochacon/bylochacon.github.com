@@ -20,14 +20,35 @@
     text-transform: none;
 }
 .paragraph_style_1 {
-    color: #404040;
+    color: #333333;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 16px;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 36px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -36px;
+    text-transform: none;
+}
+.paragraph_style_2 {
+    color: #333333;
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 14px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 36px;
@@ -40,22 +61,39 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style {
-    color: #003300;
+.paragraph_style_3 {
+    color: #333333;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
     opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
-.paragraph_style_2 {
-    color: #404040;
+.paragraph_style_4 {
+    color: #333333;
     font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     font-style: italic;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 16px;
+    line-height: 14px;
     margin-bottom: 0px;
     margin-left: 0px;
-    margin-right: 36px;
+    margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
@@ -73,10 +111,10 @@
 }
 .style_SkipStroke_1 {
     background: transparent;
-    opacity: 0.50;
+    opacity: 1.00;
 }
-.paragraph_style_3 {
-    color: #003300;
+.paragraph_style_5 {
+    color: #333333;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
     font-style: normal;
@@ -96,8 +134,35 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_1 {
+.style {
     font-style: italic;
+}
+.paragraph_style_6 {
+    color: #333333;
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 36px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -36px;
+    text-transform: none;
+}
+.style_SkipStrokeSkipFillSkipOpacity_1 {
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
 }
 .Body {
     color: #404040;
@@ -175,13 +240,28 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_500_76 {
+.graphic_textbox_layout_style_default_External_473_50 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_468_50 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_78 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_446_75 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_64 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_50 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_75 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_500_50 {
+.graphic_textbox_layout_style_default_External_487_76 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_86 {

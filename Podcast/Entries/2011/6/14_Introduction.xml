@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="D7DCF2AE-4DE9-4581-BBB6-2BA46644091E">
-  <lastEdited clientType="local-build-20110524" date="2011-05-24 11:29:22 -0700"/>
+  <lastEdited clientType="local-build-20110602" date="2011-06-02 11:17:38 -0700"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>PODCAST</richText>
   </textBox>
