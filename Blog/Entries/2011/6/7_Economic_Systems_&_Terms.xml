@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110607" date="2011-06-07 11:29:18 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_Economic_Systems_%26_Terms_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Thank you to all the people who have visited the site this week!  I would love to hear what you think, so please email if you can.&#xD;&#xD;Today&#x2019;s addition to the site:  if you are not well-schooled in economic terminology, I&#x2019;ve put together a quick cheat sheet for you to reference.  This is definitely one of the longer lists of definitions I plan to put up.  It is not in any particular order yet, so please browse the list to find the particular term you are looking for.  &#xD;&#xD;&lt;a href="perma://BLPageReference/6027B3F2-6F9E-44C9-B270-59F37A531115"&gt;Definitions of Economic Systems&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Economic Systems &amp; Terms</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, June 7, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
