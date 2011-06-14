@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
-  <lastEdited clientType="local-build-20110607" date="2011-06-07 11:29:18 -0700"/>
+  <lastEdited clientType="local-build-20110614" date="2011-06-14 13:00:30 -0700"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>BLOG</richText>
   </textBox>
@@ -9,7 +9,7 @@
     <richText>Here are some quick reference definitions for studying types of government.&#xD;&#xD;&lt;a href="perma://BLPageReference/24F06454-BCA6-4A33-84A9-230530BBC7AD"&gt;Definitions of Government Systems&lt;/a&gt;</richText>
   </textBox>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
-    <richText>Systems of Rule</richText>
+    <richText>Systems of Rule:  Definitions of Key Terms</richText>
   </textBox>
   <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
     <richText>&lt;b&gt;Thursday, June 2, 2011&lt;/b&gt;</richText>

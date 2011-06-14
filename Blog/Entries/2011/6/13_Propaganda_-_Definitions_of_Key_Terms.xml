@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110614" date="2011-06-14 13:00:32 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Propaganda_-_Definitions_of_Key_Terms_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Propaganda types and methods are important not just for history students to know, but also for everyday citizens.  Through familiarity with the propaganda practices on this page, a person can be better equipped to fight against the constant attempts to manipulate them into buying a product or voting for a candidate.  &lt;a href="perma://BLPageReference/6A5CAA82-7C89-4768-8A28-283D0C7A2704"&gt;Definitions of Propaganda&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Propaganda:  Definitions of Key Terms</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, June 13, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>

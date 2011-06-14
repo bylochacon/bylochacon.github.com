@@ -41,66 +41,6 @@
     text-transform: none;
 }
 .paragraph_style_2 {
-    color: #404040;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 16px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 36px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style {
-    color: #003300;
-    opacity: 1.00;
-}
-.paragraph_style_3 {
-    color: #404040;
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 14px;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 16px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 36px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 0.50;
-}
-.style_SkipStrokeSkipFillSkipOpacity {
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.paragraph_style_4 {
     color: #003300;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -121,8 +61,95 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_1 {
+.style {
     font-style: italic;
+}
+.paragraph_style_3 {
+    color: #404040;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_1 {
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-style: italic;
+}
+.paragraph_style_4 {
+    color: #404040;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 6px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_5 {
+    color: #404040;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 36px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_2 {
+    font-size: 12px;
+    line-height: 14px;
+}
+.style_3 {
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    line-height: 14px;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStrokeSkipFillSkipOpacity {
 }
 .Body {
     color: #404040;
@@ -203,23 +230,77 @@
 .graphic_textbox_layout_style_default_External_107_68 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_500_76 {
+.graphic_textbox_layout_style_default_External_500_222 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_500_75 {
+.graphic_textbox_layout_style_default_External_500_330 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_500_50 {
+.graphic_textbox_layout_style_default_External_500_402 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_442 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_196 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_316 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_246 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_258 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_190 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_204 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_176 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_96 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_253 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_234 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_101 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_86 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_500_294 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_312 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_232 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_384 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_492 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_400 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
+}
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
-}
-.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 #widget2 a:visited {
     color: #333333;

@@ -10,6 +10,11 @@
 .style_3 {
     padding: 10px;
 }
+.style_External_295_34 {
+    bottom: 0px;
+    position: absolute;
+    width: 295px;
+}
 .style_4 {
 }
 .style_SkipStroke_2 {
@@ -41,11 +46,6 @@
     bottom: 0px;
     position: relative;
     width: 400px;
-}
-.style_External_295_20 {
-    bottom: 0px;
-    position: absolute;
-    width: 295px;
 }
 .style_SkipStroke_5 {
     background: #b2b2b2;
@@ -177,15 +177,15 @@
     position: absolute;
     width: 104px;
 }
+.Normal_External_295_34 {
+    bottom: 0px;
+    position: absolute;
+    width: 295px;
+}
 .Normal_External_400_293 {
     bottom: 0px;
     position: absolute;
     width: 400px;
-}
-.Normal_External_295_20 {
-    bottom: 0px;
-    position: absolute;
-    width: 295px;
 }
 .Previous {
     color: #a64b3c;

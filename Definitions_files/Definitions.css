@@ -42,13 +42,13 @@
 }
 .paragraph_style_2 {
     color: #404040;
-    font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue', 'Helvetica Neue UltraLight', 'Arial', sans-serif;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-variant: small-caps;
-    font-weight: normal;
+    font-weight: bold;
     letter-spacing: 0;
-    line-height: 18px;
+    line-height: 19px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -79,13 +79,13 @@
 }
 .paragraph_style_3 {
     color: #404040;
-    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue', 'Helvetica Neue UltraLight', 'Arial', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-variant: small-caps;
-    font-weight: bold;
+    font-weight: normal;
     letter-spacing: 0;
-    line-height: 19px;
+    line-height: 18px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
