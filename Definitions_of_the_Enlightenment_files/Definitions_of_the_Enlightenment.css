@@ -77,40 +77,36 @@
 .paragraph_style_3 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 16px;
+    line-height: 18px;
     margin-bottom: 0px;
     margin-left: 0px;
-    margin-right: 36px;
+    margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
-    padding-bottom: 0px;
+    padding-bottom: 6px;
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
 }
-.style_1 {
-    color: #003300;
-    opacity: 1.00;
-}
 .paragraph_style_4 {
     color: #404040;
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 14px;
-    font-style: italic;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
     font-variant: normal;
     font-weight: normal;
     letter-spacing: 0;
-    line-height: 16px;
+    line-height: 19px;
     margin-bottom: 0px;
     margin-left: 0px;
-    margin-right: 36px;
+    margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
@@ -186,7 +182,7 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_650_50 {
+.Normal_External_450_50 {
     position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
@@ -196,13 +192,46 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_513_294 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_512_402 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_514_150 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_510_177 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_107_68 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_500_75 {
+.graphic_textbox_layout_style_default_External_511_222 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_510_168 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_310 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_511_276 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_513_168 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_512_150 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_86 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_512_366 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_506_258 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
