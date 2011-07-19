@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110719" date="2011-07-19 13:02:31 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Enemies_of_the_People%3A__A_New_Film_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The second is a new film online for a few weeks about Cambodia.  It was suggested to me by Sara Cohan, Director of Education at the Genocide Education Project. &lt;b&gt;&lt;a href="http://www.pbs.org/pov/enemies/"&gt;http://www.pbs.org/pov/enemies/&lt;/a&gt;&lt;/b&gt;.  I posted the description on my &lt;a href="perma://BLPageReference/E42F40AA-7B74-422A-AF01-009E2BCA7400"&gt;Cambodian Films page&lt;/a&gt;, added at the bottom.  </richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Enemies of the People:  A New Film</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, July 10, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>

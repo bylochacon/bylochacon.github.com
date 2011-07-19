@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110719" date="2011-07-19 13:02:30 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Genocide_of_the_Herero_%26_Nama%3A__Definitions_of_Key_Terms_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>This genocide is often referred to as the first modern genocide, and is often linked to later atrocities by the Nazis through medical training and ideology.  I have put a list of terms for reference here:  &lt;a href="perma://BLPageReference/77726968-A6AB-4404-914C-4BD18D92EC93"&gt;Definitions of the Genocide of the Herero &amp; Nama&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Genocide of the Herero &amp; Nama:  Definitions of Key Terms</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, July 11, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>

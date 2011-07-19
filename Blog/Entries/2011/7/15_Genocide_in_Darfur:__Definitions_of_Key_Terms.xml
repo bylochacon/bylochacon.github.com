@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110719" date="2011-07-19 13:02:31 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Genocide_in_Darfur%3A__Definitions_of_Key_Terms_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The current genocide in Darfur requires some background knowledge to be able to follow many of the more rigorous articles about it.  Please start learning here, and then find a group where you can take action.&#xD;&lt;a href="perma://BLPageReference/DBB3B7B5-EF26-4445-83EF-101BB29CD8F8"&gt;Definitions of Genocide in Darfur&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Genocide in Darfur:  Definitions of Key Terms</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, July 15, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>

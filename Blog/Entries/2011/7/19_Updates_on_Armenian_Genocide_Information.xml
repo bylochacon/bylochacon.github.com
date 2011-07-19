@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110719" date="2011-07-19 13:02:30 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Updates_on_Armenian_Genocide_Information_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The Armenian Genocide is the first topic that I am editing and refining with expert help.  The Director of Education for the Genocide Education Project, Sara Cohan, has helped me to eliminate less useful sources and directed me towards better ones on each of these pages.  I am grateful to her for generously sharing her expertise.  &#xD;&#xD;&lt;a href="perma://BLPageReference/BE5854D2-77BD-45E0-9297-D65C8743D36E"&gt;Armenian Genocide&lt;/a&gt; - I have altered the description slightly to be more clear.&#xD;&#xD;&lt;a href="perma://BLPageReference/4706CABA-045E-4673-90E2-99F27D4202B4"&gt;Definitions of Armenian Genocide&lt;/a&gt; - I have replaced about half the wikipedia definitions with definitions from academic sources more focused on the Armenian Genocide.&#xD;&#xD;&lt;a href="perma://BLPageReference/9A34387E-5631-4124-8DD3-914243650771"&gt;Links Regarding the Armenian Genocide&lt;/a&gt; - I have eliminated more politically-bent sites and added some new ones.&#xD;&#xD;&lt;a href="perma://BLPageReference/1D3C5244-EF27-4536-AF18-353F23C521E1"&gt;Films Dealing with the Armenian Genocide&lt;/a&gt; - I moved the Armenian language films to the bottom and deleted politically-bent films.&#xD;&#xD;&lt;a href="perma://BLPageReference/44CB75EA-BB1D-4515-BD35-DF499C5F7F76"&gt;Bibliography of the Armenian Genocide&lt;/a&gt; - I have added several new books recommended by the Genocide Education Project.&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Updates on Armenian Genocide Information</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, July 19, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>

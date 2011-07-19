@@ -41,30 +41,6 @@
     text-transform: none;
 }
 .paragraph_style_2 {
-    color: #003300;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 17px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style {
-    font-style: italic;
-}
-.paragraph_style_3 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -85,18 +61,65 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_1 {
+.style {
     font-family: 'ArialMT', 'Arial', sans-serif;
 }
-.style_2 {
-    font-family: 'ArialMT', 'Arial', sans-serif;
+.paragraph_style_3 {
+    color: #003300;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_1 {
     font-style: italic;
 }
+.style_2 {
+    font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
+}
+.paragraph_style_4 {
+    color: #333333;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_3 {
+    font-style: italic;
+}
+.style_4 {
     font-size: 66%;
     vertical-align: 0.25em;
 }
-.paragraph_style_4 {
+.paragraph_style_5 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -117,11 +140,15 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_1 {
+.style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
@@ -200,43 +227,59 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default_External_515_204 {
-    position: relative;
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_107_68 {
+.graphic_textbox_layout_style_default_External_515_414 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_204 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_464_78 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_515_218 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_500_134 {
+.graphic_textbox_layout_style_default_External_526_134 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_515_106 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_441_134 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_487_134 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_114_56 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_515_81 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_515_75 {
+.graphic_textbox_layout_style_default_External_476_78 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_515_358 {
+.graphic_textbox_layout_style_default_External_517_134 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_464_64 {
+.graphic_textbox_layout_style_default_External_448_64 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_86 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_515_78 {
+.graphic_textbox_layout_style_default_External_485_64 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_515_260 {
+.graphic_textbox_layout_style_default_External_515_148 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_515_120 {
@@ -248,19 +291,10 @@
 .graphic_textbox_layout_style_default_External_515_302 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_515_148 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_515_232 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_515_152 {
+.graphic_textbox_layout_style_default_External_515_178 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_515_246 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_515_178 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_515_162 {
@@ -269,13 +303,13 @@
 .graphic_textbox_layout_style_default_External_515_176 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_515_137 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_515_100 {
+.graphic_textbox_layout_style_default_External_515_330 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_515_134 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_493_120 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
@@ -283,6 +317,18 @@
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+a {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 #widget2 a:visited {
     color: #333333;

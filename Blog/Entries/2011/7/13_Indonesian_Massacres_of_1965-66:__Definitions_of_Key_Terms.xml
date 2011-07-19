@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110719" date="2011-07-19 13:02:31 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Indonesian_Massacres_of_1965-66%3A__Definitions_of_Key_Terms_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The Indonesian Massacres were a brutal event in the Cold War.  I have put key terms here:  &lt;a href="perma://BLPageReference/8922065F-2FF5-4CE6-9F1F-D934725B7A2F"&gt;Definitions of the Indonesian Massacres&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Indonesian Massacres of 1965-66:  Definitions of Key Terms</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, July 13, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>

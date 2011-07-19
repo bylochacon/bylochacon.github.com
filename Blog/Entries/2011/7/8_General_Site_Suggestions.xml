@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110719" date="2011-07-19 13:02:31 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_General_Site_Suggestions_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A general site of world history resources created by an H-Net listserv member, Tim Vermande.  The site can be found at:  &lt;a href="http://www.vermande.us/tim/200.html"&gt;http://www.vermande.us/tim/200.html&lt;/a&gt;.  I am also posting it to my page for &lt;a href="perma://BLPageReference/347929EC-9977-494B-AADF-16D015BCAD84"&gt;General World History Resources&lt;/a&gt;.&#xD;&#xD;He also mentioned that my RSS feed does not work, so I am taking it off since I do not have the expertise to fix it (this whole site is being created off of iWeb).</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>General Site Suggestions</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, July 8, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>

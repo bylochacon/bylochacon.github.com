@@ -353,6 +353,18 @@
     background: transparent;
     opacity: 0.25;
 }
+.style_SkipStroke_10 {
+    background: transparent;
+    opacity: 0.80;
+}
+.style_SkipStroke_11 {
+    background: transparent;
+    opacity: 0.60;
+}
+.style_SkipStroke_12 {
+    background: transparent;
+    opacity: 0.40;
+}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
