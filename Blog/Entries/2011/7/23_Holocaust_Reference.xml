@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110723" date="2011-07-23 22:54:56 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Holocaust_Reference_files/shapeimage_1.jpg" left="0px" top="0px" width="393px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The scope of Holocaust study is so far-reaching that reference sheets can be really useful.  I have put together two pages to help:  &lt;a href="perma://BLPageReference/27F319D0-E45F-44CE-B2E8-D4526074E6C9"&gt;Definitions of the Holocaust&lt;/a&gt; and &lt;a href="perma://BLPageReference/785EE6EA-D67C-48C8-8DDD-5A156F967BC1"&gt;People in the Holocaust&lt;/a&gt;.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Holocaust Reference</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, July 23, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
