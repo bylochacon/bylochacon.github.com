@@ -128,6 +128,9 @@
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-weight: bold;
 }
+.style_2 {
+    font-weight: bold;
+}
 .style_SkipStrokeSkipFillSkipOpacity_1 {
 }
 .Free_Form {
@@ -189,22 +192,22 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_180_304 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_170_251 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_155_254 {
+.graphic_textbox_layout_style_default_External_391_107 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_391_107 {
+.graphic_textbox_layout_style_default_External_155_255 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_249_53 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_150_252 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_180_305 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
