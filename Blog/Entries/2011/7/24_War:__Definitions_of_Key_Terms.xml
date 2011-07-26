@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110726" date="2011-07-26 13:40:30 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_War%3A__Definitions_of_Key_Terms_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>War is a wide-ranging topic with terms you will see in many other histories.  This is a reference page to help you through your readings and lectures:  &lt;a href="perma://BLPageReference/6D8292CB-0D53-47D2-B251-9CA9D03A0004"&gt;Definitions of War&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>War:  Definitions of Key Terms</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, July 24, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
