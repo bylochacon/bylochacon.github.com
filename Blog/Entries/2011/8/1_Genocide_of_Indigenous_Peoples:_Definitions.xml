@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110802" date="2011-08-02 10:56:51 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Genocide_of_Indigenous_Peoples%3A_Definitions_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A reference sheet for studying genocide of indigenous people, focused mainly on the Amerindian experiences: &lt;a href="perma://BLPageReference/A9A43B3C-7C02-4F32-B6F9-F49D319D6102"&gt;Definitions of Genocide of Indigenous Peoples&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Genocide of Indigenous Peoples: Definitions</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, August 1, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>

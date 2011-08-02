@@ -40,26 +40,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStrokeSkipFillSkipOpacity {
-}
-.style_SkipStrokeSkipFillSkipOpacity_1 {
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
 .paragraph_style_2 {
     color: #4c4c4c;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -83,14 +63,6 @@
 }
 .style {
     color: #404040;
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_5 {
-    background: transparent;
     opacity: 1.00;
 }
 .paragraph_style_3 {
@@ -139,6 +111,30 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStroke_6 {
     background: transparent;
     opacity: 1.00;
@@ -146,6 +142,10 @@
 .style_SkipStroke_7 {
     background: transparent;
     opacity: 1.00;
+}
+.style_SkipStrokeSkipFillSkipOpacity {
+}
+.style_SkipStrokeSkipFillSkipOpacity_1 {
 }
 .Body {
     color: #404040;
@@ -216,10 +216,13 @@
 .Normal_External_175_45 {
     position: relative;
 }
-.Normal_External_160_2800 {
+.Normal_External_160_2899 {
     position: relative;
 }
 .Normal_External_160_2816 {
+    position: relative;
+}
+.Normal_External_160_2800 {
     position: relative;
 }
 .Title {
@@ -261,11 +264,11 @@
 .graphic_textbox_layout_style_default_External_430_80 {
     position: relative;
 }
+.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
+}
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
-}
-.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 a {
     color: #a64b3c;

@@ -20,27 +20,6 @@
     text-transform: none;
 }
 .paragraph_style_1 {
-    color: #404040;
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 11px;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 12px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_2 {
     color: #003300;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -159,13 +138,10 @@
 .graphic_textbox_layout_style_default_External_500_134 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_107_68 {
+.graphic_textbox_layout_style_default_External_500_218 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_148 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_500_218 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_120 {

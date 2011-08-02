@@ -20,27 +20,6 @@
     text-transform: none;
 }
 .paragraph_style_1 {
-    color: #404040;
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 11px;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 12px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_2 {
     color: #003300;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -64,7 +43,13 @@
 .style {
     font-style: italic;
 }
-.style_SkipStrokeSkipFillSkipOpacity {
+.style_1 {
+    font-family: 'HelveticaNeue-Italic', 'Helvetica Neue', 'Arial', sans-serif;
+    font-style: italic;
+}
+.style_2 {
+    font-size: 66%;
+    vertical-align: -0.25em;
 }
 .style_SkipStroke {
     background: transparent;
@@ -74,51 +59,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.paragraph_style_3 {
-    color: #404040;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 16px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 36px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_1 {
-    color: #003300;
-    opacity: 1.00;
-}
-.paragraph_style_4 {
-    color: #404040;
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 14px;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 16px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 36px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
+.style_SkipStrokeSkipFillSkipOpacity {
 }
 .Body {
     color: #404040;
@@ -193,23 +134,62 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_textbox_layout_style_default_External_515_204 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_107_68 {
+.graphic_textbox_layout_style_default_External_515_106 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_500_75 {
+.graphic_textbox_layout_style_default_External_515_50 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_92 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_458_50 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_64 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_86 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_515_262 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_78 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_260 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_120 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_190 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_148 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_162 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_176 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_134 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
+}
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
-}
-.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 #widget2 a:visited {
     color: #333333;

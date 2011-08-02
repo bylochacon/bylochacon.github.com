@@ -20,27 +20,6 @@
     text-transform: none;
 }
 .paragraph_style_1 {
-    color: #404040;
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 11px;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 12px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_2 {
     color: #003300;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -64,6 +43,27 @@
 .style {
     font-style: italic;
 }
+.paragraph_style_2 {
+    color: #404040;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_SkipStrokeSkipFillSkipOpacity {
 }
 .style_SkipStroke {
@@ -73,52 +73,6 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
-}
-.paragraph_style_3 {
-    color: #404040;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 14px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 16px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 36px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_1 {
-    color: #003300;
-    opacity: 1.00;
-}
-.paragraph_style_4 {
-    color: #404040;
-    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 14px;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 16px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 36px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
 }
 .Body {
     color: #404040;
@@ -183,33 +137,138 @@
     text-indent: 0px;
     text-transform: none;
 }
-.Normal {
-    padding: 0px;
-}
 .Normal_External_650_85 {
     position: relative;
+}
+.Normal {
+    padding: 0px;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
+.graphic_textbox_layout_style_default_External_515_402 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_162 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_504_120 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_302 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_440_120 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_440_139 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_234 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_246 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_440_101 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_448_177 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_232 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_190 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_380_177 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_310 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_44 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_148 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_94 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_139 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_78 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_177 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_288 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_176 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_358 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_82 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_64 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_158 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_218 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_101 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_386 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_274 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_107_68 {
+.graphic_textbox_layout_style_default_External_464_152 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_500_75 {
+.graphic_textbox_layout_style_default_External_475_63 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_316 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_120 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_505_82 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_86 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_515_106 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_515_612 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
+}
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
-}
-.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 #widget2 a:visited {
     color: #333333;
