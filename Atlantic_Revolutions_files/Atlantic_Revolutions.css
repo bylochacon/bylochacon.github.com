@@ -42,15 +42,15 @@
 }
 .style_SkipStroke_2 {
     background: transparent;
-    opacity: 0.50;
+    opacity: 1.00;
 }
 .style_SkipStroke_3 {
-    background: #a64c3d;
+    background: transparent;
     opacity: 0.50;
 }
 .style_SkipStroke_4 {
-    background: transparent;
-    opacity: 1.00;
+    background: #a64c3d;
+    opacity: 0.50;
 }
 .style_SkipStrokeSkipFillSkipOpacity {
 }
