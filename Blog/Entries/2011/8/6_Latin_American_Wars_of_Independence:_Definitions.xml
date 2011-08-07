@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110806" date="2011-08-06 22:57:09 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_Latin_American_Wars_of_Independence%3A_Definitions_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>There are so many battles and wars fought for independence from Spain and Portugal in the 19th century that it can be hard to keep them straight at first.  Here is a list of related terms.  For now, like all my definitions sheets, it is starting off filled with Wikipedia summaries and will in time be changed to better, more succinct definitions.  Here is the initial page, with dozens of terms: &lt;a href="perma://BLPageReference/9100E5A1-AB21-4A8B-8EF9-29B822C173F0"&gt;Definitions of the Latin American Wars of Independence&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Latin American Wars of Independence: Definitions</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, August 6, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
