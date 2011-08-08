@@ -131,6 +131,13 @@
 .style_2 {
     font-weight: bold;
 }
+.style_3 {
+    font-style: italic;
+    font-weight: normal;
+}
+.style_4 {
+    font-weight: normal;
+}
 .style_SkipStrokeSkipFillSkipOpacity_1 {
 }
 .Free_Form {
@@ -192,10 +199,10 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_175_289 {
+.graphic_textbox_layout_style_default_External_180_288 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_180_307 {
+.graphic_textbox_layout_style_default_External_180_292 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_170_259 {
