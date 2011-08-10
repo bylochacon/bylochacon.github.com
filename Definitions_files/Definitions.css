@@ -136,6 +136,11 @@
     font-weight: normal;
 }
 .style_4 {
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-style: italic;
+    font-weight: normal;
+}
+.style_5 {
     font-weight: normal;
 }
 .style_SkipStrokeSkipFillSkipOpacity_1 {
