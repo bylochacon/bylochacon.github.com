@@ -1,7 +1,7 @@
-// Created by iWeb 2.0.4 local-build-20110810
+// Created by iWeb 2.0.4 local-build-20110815
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
-{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_19:new IWEmptyStroke(),stroke_14:new IWEmptyStroke(),stroke_12:new IWEmptyStroke(),stroke_1:new IWEmptyStroke(),stroke_6:new IWEmptyStroke(),stroke_2:new IWEmptyStroke(),stroke_17:new IWEmptyStroke(),stroke_0:new IWEmptyStroke(),stroke_13:new IWEmptyStroke(),stroke_4:new IWEmptyStroke(),stroke_15:new IWEmptyStroke(),stroke_16:new IWEmptyStroke(),stroke_21:new IWEmptyStroke(),stroke_8:new IWEmptyStroke(),stroke_7:new IWEmptyStroke(),stroke_20:new IWEmptyStroke(),stroke_11:new IWEmptyStroke(),stroke_18:new IWEmptyStroke(),stroke_5:new IWEmptyStroke(),stroke_9:new IWEmptyStroke(),stroke_3:new IWEmptyStroke(),stroke_10:new IWEmptyStroke()});registry.applyEffects();}
+{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_6:new IWEmptyStroke(),stroke_8:new IWEmptyStroke(),stroke_9:new IWEmptyStroke(),stroke_13:new IWEmptyStroke(),stroke_7:new IWEmptyStroke(),stroke_18:new IWEmptyStroke(),stroke_16:new IWEmptyStroke(),stroke_3:new IWEmptyStroke(),stroke_14:new IWEmptyStroke(),stroke_19:new IWEmptyStroke(),stroke_15:new IWEmptyStroke(),stroke_2:new IWEmptyStroke(),stroke_11:new IWEmptyStroke(),stroke_4:new IWEmptyStroke(),stroke_0:new IWEmptyStroke(),stroke_21:new IWEmptyStroke(),stroke_17:new IWEmptyStroke(),stroke_10:new IWEmptyStroke(),stroke_12:new IWEmptyStroke(),stroke_20:new IWEmptyStroke(),stroke_5:new IWEmptyStroke(),stroke_1:new IWEmptyStroke()});registry.applyEffects();}
 function hostedOnDM()
 {return false;}
 function onPageLoad()

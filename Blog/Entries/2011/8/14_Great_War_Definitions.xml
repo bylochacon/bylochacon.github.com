@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110815" date="2011-08-15 15:20:51 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Great_War_Definitions_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Lots and lots of definitions of terms related to the Great War: &lt;a href="perma://BLPageReference/75FEC325-A67D-42B8-873E-F93D17D304BF"&gt;Definitions of the Great War&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Great War Definitions</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, August 14, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
