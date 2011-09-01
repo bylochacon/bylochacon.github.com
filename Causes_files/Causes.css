@@ -46,7 +46,7 @@
 .paragraph_style_2 {
     color: #404040;
     font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 10px;
+    font-size: 11px;
     font-style: italic;
     font-variant: normal;
     font-weight: normal;
@@ -237,10 +237,6 @@
 .style_External_420_120 {
     position: relative;
 }
-.style_SkipStroke_4 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_External_420_119 {
     position: relative;
 }
@@ -379,16 +375,6 @@
     opacity: 1.00;
 }
 .graphic_generic_title_textbox_style_default_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.graphic_textbox_layout_style_default {
-    padding: 4px;
-}
-.graphic_textbox_layout_style_default_External_673_313 {
-    position: relative;
-}
-.graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
