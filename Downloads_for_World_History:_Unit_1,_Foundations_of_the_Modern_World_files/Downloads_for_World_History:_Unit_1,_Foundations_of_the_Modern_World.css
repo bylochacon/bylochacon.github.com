@@ -50,8 +50,6 @@
 }
 .style_SkipStrokeSkipFillSkipOpacity {
 }
-.style_SkipStrokeSkipFillSkipOpacity_1 {
-}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -59,6 +57,8 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
+}
+.style_SkipStrokeSkipFillSkipOpacity_1 {
 }
 .Body {
     color: #404040;
@@ -158,6 +158,17 @@ a {
 }
 a:visited {
     color: #333333;
+    text-decoration: none;
+}
+a.class1 {
+    color: #a64b3c;
+    text-decoration: none;
+}
+a.class1:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class1:hover {
     text-decoration: none;
 }
 a:hover {
