@@ -19,11 +19,6 @@
 .style_4 {
     padding: 10px;
 }
-.style_External_400_571 {
-    bottom: 0px;
-    position: relative;
-    width: 400px;
-}
 .paragraph_style {
     color: #a64b3c;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
@@ -86,6 +81,11 @@
 }
 .style_External_269_220 {
     position: relative;
+}
+.style_External_400_319 {
+    bottom: 0px;
+    position: relative;
+    width: 400px;
 }
 .Body {
     color: #404040;
@@ -205,7 +205,7 @@
     position: absolute;
     width: 104px;
 }
-.Normal_External_400_571 {
+.Normal_External_400_319 {
     bottom: 0px;
     position: absolute;
     width: 400px;

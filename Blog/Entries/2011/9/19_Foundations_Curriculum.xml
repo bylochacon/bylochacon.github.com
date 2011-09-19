@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110919" date="2011-09-19 16:14:11 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Foundations_Curriculum_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Here are activities I&#x2019;ve used and created for introducing major influences on the modern world - religion, government, and philosophy.  Most are original, but if I have left off credit somewhere, please let me know so that I can fix it.  Please leave the author&#x2019;s name on the work if you do use it.&#xD;&#xD;&lt;b&gt;&lt;a href="perma://BLPageReference/D569DBFC-7248-4AF9-B1DF-A79102879399"&gt;Unit 1 - &lt;/a&gt;&lt;/b&gt;&lt;a href="perma://BLPageReference/D569DBFC-7248-4AF9-B1DF-A79102879399"&gt;Foundations of the Modern World&lt;/a&gt;&lt;b&gt;&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Foundations Curriculum</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, September 19, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
