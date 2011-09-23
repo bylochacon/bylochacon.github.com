@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110923" date="2011-09-23 15:27:42 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Industrial_Revolution_Curriculum_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Some tests, projects and handouts for teaching the Industrial Revolution.&#xD;&#xD;&lt;b&gt;&lt;a href="perma://BLPageReference/848C350B-A2E3-4B07-A8BD-B24E2D3CB5A2"&gt;Downloads for World History: Unit 3, Industrial Revolution &amp; Modern Ideologies&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Industrial Revolution Curriculum</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, September 23, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
