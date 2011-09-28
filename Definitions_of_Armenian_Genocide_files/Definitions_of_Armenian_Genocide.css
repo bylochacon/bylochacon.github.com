@@ -148,10 +148,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_SkipStrokeSkipFillSkipOpacity {
 }
 .Body {
@@ -224,10 +220,6 @@
     position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.graphic_image_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
@@ -330,19 +322,11 @@ a:hover {
     color: #d67053;
     text-decoration: underline;
 }
-#widget2 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget1 a {
-    color: #a64b3c;
-    text-decoration: none;
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
 }
 #widget0 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget1 a:hover {
     color: #d67053;
     text-decoration: underline;
 }
@@ -354,23 +338,7 @@ a:hover {
     color: #a64b3c;
     text-decoration: none;
 }
-#widget1 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget2 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
 .spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget2 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-.bumper {
     font-size: 1px;
     line-height: 1px;
 }

@@ -240,19 +240,11 @@
 }
 .graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
-#widget2 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget1 a {
-    color: #a64b3c;
-    text-decoration: none;
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
 }
 #widget0 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget1 a:hover {
     color: #d67053;
     text-decoration: underline;
 }
@@ -264,23 +256,7 @@
     color: #a64b3c;
     text-decoration: none;
 }
-#widget1 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget2 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
 .spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget2 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-.bumper {
     font-size: 1px;
     line-height: 1px;
 }

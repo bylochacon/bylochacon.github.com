@@ -50,8 +50,21 @@
     color: #a64b3c;
     opacity: 1.00;
 }
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_3 {
     padding: 0px;
+}
+.style_External_403_154 {
+    bottom: 0px;
+    position: relative;
+    width: 403px;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
 .paragraph_style_2 {
     color: #404040;
@@ -77,6 +90,10 @@
 .style_4 {
     font-family: 'LucidaGrande', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
 }
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
 .paragraph_style_3 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -98,40 +115,13 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_5 {
-    padding: 10px;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_External_403_154 {
-    bottom: 0px;
-    position: relative;
-    width: 403px;
-}
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke_4 {
-    background: #b2b2b2;
-    opacity: 1.00;
-}
-.style_SkipStroke_5 {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_270_190 {
-    position: relative;
 }
 .style_External_230_45 {
     bottom: 0px;
@@ -206,11 +196,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.Normal_External_403_154 {
-    bottom: 0px;
-    position: absolute;
-    width: 403px;
-}
 .Normal {
     padding: 0px;
 }
@@ -219,31 +204,15 @@
     position: absolute;
     width: 425px;
 }
-.Normal_External_403_32 {
+.Normal_External_403_154 {
     bottom: 0px;
     position: absolute;
     width: 403px;
 }
-.Quote {
-    color: #a64b3c;
-    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
-    font-size: 16px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 22px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
+.Normal_External_403_32 {
+    bottom: 0px;
+    position: absolute;
+    width: 403px;
 }
 .Title {
     color: #404040;
@@ -285,9 +254,6 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_270_190 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_230_45 {
     position: relative;
 }
@@ -307,38 +273,6 @@ a:hover {
     color: #d67053;
     text-decoration: underline;
 }
-#widget1 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget0 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget1 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget3 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget2 a:visited {
-    color: #333333;
-    text-decoration: none;
-}
-#widget3 a:hover {
-    color: #d67053;
-    text-decoration: underline;
-}
-#widget0 a {
-    color: #a64b3c;
-    text-decoration: none;
-}
 #widget1 a {
     color: #a64b3c;
     text-decoration: none;
@@ -347,21 +281,29 @@ a:hover {
     color: #d67053;
     text-decoration: underline;
 }
-#widget2 a {
+#widget1 a:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+#widget0 a {
     color: #a64b3c;
     text-decoration: none;
 }
-#widget2 a:hover {
-    color: #d67053;
-    text-decoration: underline;
+#widget1 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
 }
 .bumper {
     font-size: 1px;
     line-height: 1px;
-}
-#widget3 a {
-    color: #a64b3c;
-    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20110928" date="2011-09-28 13:19:38 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_Great_War_Curriculum_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A smattering of activities and tools for teaching about the first world war.  (Also, the google ads were bugging me, and since I don&#x2019;t believe they will lead me down the path of financial independence, I deleted them.)&#xD;&#xD;&lt;b&gt;&lt;a href="perma://BLPageReference/68093F83-F112-4965-A1B0-4F6F533E7F9A"&gt;Downloads for World History: Unit 5, The Great War&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Great War Curriculum</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, September 28, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
