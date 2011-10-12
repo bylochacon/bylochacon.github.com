@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20111011" date="2011-10-11 22:31:58 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_World_War_II_Curriculum_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A video guide, key and timeline on the Nazis in Poland:  &lt;b&gt;&lt;a href="perma://BLPageReference/8203E8BB-E818-41D0-8E5F-684D574F5917"&gt;Downloads for World History: Unit 7, World War II.&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>World War II Curriculum</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, October 11, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>

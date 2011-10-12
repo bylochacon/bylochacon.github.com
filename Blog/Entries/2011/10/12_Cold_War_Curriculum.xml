@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20111011" date="2011-10-11 22:31:58 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Cold_War_Curriculum_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Three activities for teaching the Cold War:  &lt;b&gt;&lt;a href="perma://BLPageReference/8FCB9419-98D4-46F1-A87F-BCD06F05D0ED"&gt;Downloads for World History: Unit 9, The Cold War.&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Cold War Curriculum</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, October 12, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
