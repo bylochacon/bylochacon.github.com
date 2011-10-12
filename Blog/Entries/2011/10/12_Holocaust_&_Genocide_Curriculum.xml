@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20111012" date="2011-10-12 10:46:18 -0700"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Holocaust_%26_Genocide_Curriculum_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Here are a few readings and activities on the Holocaust and genocides in addition to a very useful reference (if I do say so myself) for using the film Schindler&#x2019;s List in the classroom: &lt;b&gt; &lt;/b&gt;&lt;b&gt;&lt;a href="perma://BLPageReference/CB1AA4B6-843F-4EC5-8439-DC42AF2B117D"&gt;Downloads for World History: Unit 8, Holocaust &amp; Genocide&lt;/a&gt;&lt;/b&gt;&lt;b&gt;.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Holocaust &amp; Genocide Curriculum</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, October 12, 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>
