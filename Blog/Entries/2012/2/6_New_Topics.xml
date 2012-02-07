@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20120206" date="2012-02-06 21:02:34 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_New_Topics_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I&#x2019;ve spent much of the last year working on a project of European history, and so I am going to start adding the resources I uncover to this site.  To start with:  &lt;a href="perma://BLPageReference/4982A660-AD40-4E75-955E-1DB1AA24D3B0"&gt;Links Regarding Ancient Europe&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New Topics</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, February 6, 2012&lt;/b&gt;</richText>
+  </textBox>
+</content>

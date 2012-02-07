@@ -5,6 +5,15 @@
     <link>http://bylochacon.com/History_Resources/Blog</link>
     <description>Linked and downloadable resources in the areas of world history, genocide and teaching.</description>
     <item>
+      <title>New Topics</title>
+      <link>http://bylochacon.com/History_Resources/Blog/Entries/2012/2/6_New_Topics.html</link>
+      <guid isPermaLink="false">91d592d6-15ce-4a58-9b05-ffe01624e91a</guid>
+      <pubDate>Mon, 6 Feb 2012 12:03:45 -0800</pubDate>
+      <description>I&#x2019;ve spent much of the last year working on a project of European history, and so I am going to start adding the resources I uncover to this site.  To start with:  &lt;a href="../Links_Regarding_Ancient_Europe.html"&gt;Links Regarding Ancient Europe&lt;/a&gt;.</description>
+      <iweb:image href="Media/Europe_satellite_globe-NASA.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://bylochacon.com/History_Resources/Blog/Entries/2012/2/6_New_Topics.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
       <title>Holocaust &amp; Genocide Curriculum</title>
       <link>http://bylochacon.com/History_Resources/Blog/Entries/2011/10/12_Holocaust_%26_Genocide_Curriculum.html</link>
       <guid isPermaLink="false">10b50475-a83d-409c-861c-c83f34deedf0</guid>
@@ -85,16 +94,7 @@
       <iweb:image href="Media/threeestates.jpg"></iweb:image>
       <iweb:comment enabled="0" count="0" link="http://bylochacon.com/History_Resources/Blog/Entries/2011/9/21_French_Revolution_Curriculum.html#comment_layer"></iweb:comment>
     </item>
-    <item>
-      <title>Foundations Curriculum</title>
-      <link>http://bylochacon.com/History_Resources/Blog/Entries/2011/9/19_Foundations_Curriculum.html</link>
-      <guid isPermaLink="false">f21f95ed-d3e3-45ce-94b9-608b6113fa09</guid>
-      <pubDate>Mon, 19 Sep 2011 15:46:39 -0700</pubDate>
-      <description>Here are activities I&#x2019;ve used and created for introducing major influences on the modern world - religion, government, and philosophy.  Most are original, but if I have left off credit somewhere, please let me know so that I can fix it.  Please leave the author&#x2019;s name on the work if you do use it.&lt;br/&gt;&lt;br/&gt;&lt;a href="../Downloads_for_World_History%253A_Unit_1,_Foundations_of_the_Modern_World.html"&gt;Unit 1 - Foundations of the Modern World&lt;/a&gt;&lt;br/&gt;</description>
-      <iweb:image href="Media/t_Haga_Sofia_RB1.jpg"></iweb:image>
-      <iweb:comment enabled="0" count="0" link="http://bylochacon.com/History_Resources/Blog/Entries/2011/9/19_Foundations_Curriculum.html#comment_layer"></iweb:comment>
-    </item>
-    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
     <iweb:baseURL>http://bylochacon.com/History_Resources/Blog</iweb:baseURL>
     <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
   </channel>

@@ -5,6 +5,13 @@
     <link>http://bylochacon.com/History_Resources/Blog</link>
     <description>Linked and downloadable resources in the areas of world history, genocide and teaching.</description>
     <item>
+      <title>New Topics</title>
+      <link>http://bylochacon.com/History_Resources/Blog/Entries/2012/2/6_New_Topics.html</link>
+      <guid isPermaLink="false">91d592d6-15ce-4a58-9b05-ffe01624e91a</guid>
+      <pubDate>Mon, 6 Feb 2012 12:03:45 -0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://bylochacon.com/History_Resources/Blog/Entries/2012/2/6_New_Topics.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
       <title>Holocaust &amp; Genocide Curriculum</title>
       <link>http://bylochacon.com/History_Resources/Blog/Entries/2011/10/12_Holocaust_%26_Genocide_Curriculum.html</link>
       <guid isPermaLink="false">10b50475-a83d-409c-861c-c83f34deedf0</guid>
@@ -900,7 +907,7 @@
       <pubDate>Thu, 4 Mar 2010 00:00:00 -0800</pubDate>
       <iweb:comment enabled="0" count="0" link="http://bylochacon.com/History_Resources/Blog/Entries/2010/3/4_Welcome%21.html#comment_layer"></iweb:comment>
     </item>
-    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
     <iweb:baseURL>http://bylochacon.com/History_Resources/Blog</iweb:baseURL>
     <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
   </channel>

@@ -81,6 +81,27 @@
 }
 .style_SkipStrokeSkipFillSkipOpacity_1 {
 }
+.style {
+    font-family: 'HelveticaNeue-UltraLightItalic', 'Helvetica Neue', 'Helvetica Neue UltraLight', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 14px;
+    text-transform: none;
+}
+.style_1 {
+    font-family: 'HelveticaNeue-UltraLightItalic', 'Helvetica Neue', 'Helvetica Neue UltraLight', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 14px;
+}
+.style_2 {
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -140,7 +161,13 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_150_347 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_330_345 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_150_306 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_101_78 {

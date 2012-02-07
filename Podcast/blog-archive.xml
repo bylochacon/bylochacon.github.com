@@ -11,7 +11,7 @@
       <pubDate>Fri, 30 Sep 2011 09:30:40 -0700</pubDate>
       <iweb:comment enabled="0" count="0" link="http://bylochacon.com/History_Resources/Podcast/Entries/2011/9/30_Introduction.html#comment_layer"></iweb:comment>
     </item>
-    <iweb:dateFormat>MMMM d, yyyy</iweb:dateFormat>
+    <iweb:dateFormat>MMMM d, y</iweb:dateFormat>
     <iweb:baseURL>http://bylochacon.com/History_Resources/Podcast</iweb:baseURL>
     <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
   </channel>

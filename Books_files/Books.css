@@ -195,6 +195,54 @@
     text-indent: 0px;
     text-transform: none;
 }
+.paragraph_style_9 {
+    color: #404040;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 10px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_2 {
+    font-family: 'HelveticaNeue-UltraLightItalic', 'Helvetica Neue', 'Helvetica Neue UltraLight', 'Arial', sans-serif;
+    font-size: 9px;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 10px;
+    text-transform: none;
+}
+.style_3 {
+    font-family: 'HelveticaNeue-UltraLightItalic', 'Helvetica Neue', 'Helvetica Neue UltraLight', 'Arial', sans-serif;
+    font-size: 9px;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 10px;
+}
+.style_4 {
+    font-size: 9px;
+    line-height: 11px;
+}
+.style_5 {
+    font-size: 9px;
+    font-style: italic;
+    font-variant: normal;
+    line-height: 11px;
+    text-transform: none;
+}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
@@ -219,9 +267,26 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_6 {
+    font-family: 'HelveticaNeue-UltraLightItalic', 'Helvetica Neue', 'Helvetica Neue UltraLight', 'Arial', sans-serif;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    text-transform: none;
+}
+.style_SkipStroke_6 {
+    background: transparent;
+    opacity: 0.50;
+}
+.style_SkipStroke_7 {
+    background: transparent;
+    opacity: 0.50;
+}
 .style_SkipStrokeSkipFillSkipOpacity {
 }
 .style_SkipStrokeSkipFillSkipOpacity_1 {
+}
+.style_SkipStrokeSkipFillSkipOpacity_2 {
 }
 .Free_Form {
     color: #404040;
@@ -268,13 +333,13 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_150_400 {
+.Normal_External_150_350 {
     position: relative;
 }
 .Normal_External_250_100 {
     position: relative;
 }
-.Normal_External_170_400 {
+.Normal_External_170_350 {
     position: relative;
 }
 .Title {
@@ -313,7 +378,13 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_150_305 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_101_78 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_150_307 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
