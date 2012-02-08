@@ -276,11 +276,15 @@
 }
 .style_SkipStroke_6 {
     background: transparent;
-    opacity: 0.50;
+    opacity: 1.00;
 }
 .style_SkipStroke_7 {
     background: transparent;
     opacity: 0.50;
+}
+.style_SkipStroke_8 {
+    background: transparent;
+    opacity: 1.00;
 }
 .style_SkipStrokeSkipFillSkipOpacity {
 }
