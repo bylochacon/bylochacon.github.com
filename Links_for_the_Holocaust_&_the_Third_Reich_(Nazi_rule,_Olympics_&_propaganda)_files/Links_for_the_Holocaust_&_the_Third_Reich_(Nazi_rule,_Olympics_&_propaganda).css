@@ -86,6 +86,31 @@
 .style_3 {
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
 }
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.paragraph_style_3 {
+    color: #6c8627;
+    font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', 'Helvetica Neue Bold Condensed', 'Arial', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 29px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: underline;
+    text-indent: 0px;
+    text-transform: none;
+}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -131,7 +156,7 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_416_120 {
+.Normal_External_531_116 {
     position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
@@ -160,10 +185,10 @@
 .graphic_textbox_layout_style_default_External_519_78 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_500_100 {
+.graphic_textbox_layout_style_default_External_500_92 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_500_92 {
+.graphic_textbox_layout_style_default_External_500_100 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_106 {
@@ -176,6 +201,9 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_36 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_600_36 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

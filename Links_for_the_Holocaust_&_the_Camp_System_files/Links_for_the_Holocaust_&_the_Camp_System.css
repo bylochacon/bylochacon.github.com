@@ -79,8 +79,29 @@
 .style_1 {
     font-family: 'ArialMT', 'Arial', sans-serif;
 }
-.style_2 {
-    font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 0.85;
+}
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 0.70;
+}
+.style_SkipStroke_6 {
+    background: transparent;
+    opacity: 0.55;
+}
+.style_SkipStroke_7 {
+    background: transparent;
+    opacity: 0.40;
+}
+.style_SkipStroke_8 {
+    background: transparent;
+    opacity: 0.25;
 }
 .Free_Form {
     color: #404040;
@@ -148,15 +169,6 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_111_92 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_500_53 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_500_77 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_500_79 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_100 {

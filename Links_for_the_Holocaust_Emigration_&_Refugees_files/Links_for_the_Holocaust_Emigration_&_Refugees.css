@@ -83,6 +83,10 @@
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-style: italic;
 }
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -128,7 +132,7 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_556_85 {
+.Normal_External_556_89 {
     position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {

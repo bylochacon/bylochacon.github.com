@@ -270,6 +270,17 @@ a:visited {
     color: #333333;
     text-decoration: none;
 }
+a.class1 {
+    text-decoration: underline;
+}
+a.class1:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class1:hover {
+    color: #d67053;
+    text-decoration: underline;
+}
 a:hover {
     color: #d67053;
     text-decoration: underline;
