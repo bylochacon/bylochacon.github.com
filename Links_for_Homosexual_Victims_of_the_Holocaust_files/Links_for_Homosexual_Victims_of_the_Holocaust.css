@@ -79,6 +79,10 @@
 .style_1 {
     font-family: 'ArialMT', 'Arial', sans-serif;
 }
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -173,6 +177,17 @@ a {
 a:visited {
     color: #333333;
     text-decoration: none;
+}
+a.class1 {
+    text-decoration: underline;
+}
+a.class1:visited {
+    color: #333333;
+    text-decoration: none;
+}
+a.class1:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 a:hover {
     color: #d67053;

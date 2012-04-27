@@ -82,6 +82,10 @@
 .style_2 {
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
 }
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
