@@ -57,10 +57,10 @@
 .style_3 {
     padding: 0px;
 }
-.style_External_403_154 {
+.style_External_390_154 {
     bottom: 0px;
     position: relative;
-    width: 403px;
+    width: 390px;
 }
 .style_SkipStroke {
     background: transparent;
@@ -204,15 +204,15 @@
     position: absolute;
     width: 425px;
 }
-.Normal_External_403_154 {
-    bottom: 0px;
-    position: absolute;
-    width: 403px;
-}
 .Normal_External_403_32 {
     bottom: 0px;
     position: absolute;
     width: 403px;
+}
+.Normal_External_390_154 {
+    bottom: 0px;
+    position: absolute;
+    width: 390px;
 }
 .Title {
     color: #404040;
@@ -273,6 +273,10 @@ a:hover {
     color: #d67053;
     text-decoration: underline;
 }
+#widget2 a:visited {
+    color: #333333;
+    text-decoration: none;
+}
 #widget1 a {
     color: #a64b3c;
     text-decoration: none;
@@ -297,9 +301,17 @@ a:hover {
     color: #333333;
     text-decoration: none;
 }
+#widget2 a {
+    color: #a64b3c;
+    text-decoration: none;
+}
 .spacer {
     font-size: 1px;
     line-height: 1px;
+}
+#widget2 a:hover {
+    color: #d67053;
+    text-decoration: underline;
 }
 .bumper {
     font-size: 1px;
