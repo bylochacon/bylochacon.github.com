@@ -1,11 +1,29 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html><head><title></title></head><body><!-- mywebstats.org hitcounter start-->
-<div align="center"><a href="http://www.mywebstats.org" target="_blank"><SCRIPT language="Javascript" type="text/javascript">
-<!--
-cname="mws"; _d=document;
-if (_d.cookie.indexOf(cname) == -1) { _u=1; } else { _u=0; } _d.cookie = cname + "=true";
-_d.write("<img border=\"0\" alt=\"Hit Counter\" src=\"http://www.mywebstats.org/count.php?js=1&refer="+escape(document.referrer)+"&sw="+screen.width+"&sh="+screen.height+"&sc="+screen.colorDepth+"&uq="+_u+"&uid=35255\">");
-//-->
-</SCRIPT></a><BR><a target="_blank" href="http://www.inkandstuff.co.uk/"><font style="font-size: 9px;color:#a0a0a0;text-decoration: none">Ink Cartridges</font></a><BR><NOSCRIPT>
-<img border="0" alt="Hit Counter" src="http://www.mywebstats.org/count.php?js=0&uid=35255"><br><a target="_blank" href="http://www.mywebstats.org/"><font style="font-size: 9px;color:#a0a0a0;text-decoration: none">Hit Counter</font></a></NOSCRIPT><br></div>
-<!-- (c)2008 mywebstats.org All Rights Reserved  hitcounter end--></body></html>
+<html><head><title></title></head><body><script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 10,
+  interval: 30000,
+  width: 270,
+  height: 200,
+  theme: {
+    shell: {
+      background: '#8f8b8f',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#383538',
+      color: '#ffffff',
+      links: '#4aed05'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: false,
+    behavior: 'all'
+  }
+}).render().setUser('bylochacon').start();
+</script></body></html>
