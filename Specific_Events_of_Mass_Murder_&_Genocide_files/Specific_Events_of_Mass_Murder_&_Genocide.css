@@ -46,6 +46,10 @@
 }
 .style_SkipStroke_3 {
     background: transparent;
+    opacity: 0.50;
+}
+.style_SkipStroke_4 {
+    background: transparent;
     opacity: 1.00;
 }
 .paragraph_style_2 {
@@ -68,10 +72,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_SkipStroke_4 {
-    background: transparent;
-    opacity: 0.50;
 }
 .style_SkipStroke {
     background: transparent;
