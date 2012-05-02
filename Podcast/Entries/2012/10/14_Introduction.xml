@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D7DCF2AE-4DE9-4581-BBB6-2BA46644091E">
+  <lastEdited clientType="local-build-20120501" date="2012-05-02 05:54:04 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>PODCAST</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>This podcast is an introduction to the series I am planning to start.  The whole project is, like this site, meant to illuminate the basic events of modern world history.  &#xD;&#xD;Topics will be covered in a thematic-chronological blend, starting with a very quick overview of the foundations of the modern world including religious, philosophical and civic ideas.  Following that I will examine the Atlantic Revolutions of the late 18th and early 19th centuries, Industrialization, European Imperialism, Modern Ideologies, the Great War, the Interwar Period, World War II, the Cold War, the Holocaust and other Genocides, and Globalization.  &#xD;&#xD;The plan is to create introductions to each of these topics, and then cycle back through with more in-depth lectures, so although the breadth of this podcast stays the same, the depth will increase over time.  &lt;i&gt;(I will be doing the first round of these topics with special attention to European history, as it coincides with a project I am currently working on.)&lt;/i&gt;&#xD;&#xD;Additionally, I will try to post materials related to each podcast here on the site.  You can find the related materials through links on each &lt;a href="perma://BLPageReference/63014850-8C12-40DA-8A14-0862D2044001"&gt;Podcast description&lt;/a&gt;, the &lt;a href="perma://BLPageReference/87618619-46F0-43FD-900B-0401FDC46A10"&gt;Blog&lt;/a&gt;, the &lt;a href="perma://BLPageReference/6436F3B0-7986-470D-864E-12BDCA53BC72"&gt;Site Guide&lt;/a&gt;, the &lt;a href="perma://BLPageReference/A7FAD77F-A4F4-429C-99CE-6001DF1660D2"&gt;Topics&lt;/a&gt; page, and of course the &lt;a href="perma://BLPageReference/1D0E9E1B-EC2F-4918-B209-D9E72CC1C60D"&gt;Search&lt;/a&gt;.  If you know of a resource that would be helpful, &lt;a href="mailto%3Abylochacon%40gmail.com%3Fsubject%3DBylochacon.com%2520Suggestions"&gt;please let me know&lt;/a&gt;.  &#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;October 14, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Introduction</richText>
+  </textBox>
+  <image id="generic-movie-attribute" dynamic="no" visible="yes" src="14_Introduction_files/tree_life.jpg" left="0px" top="0px" width="300px" height="199.2px"/>
+</content>

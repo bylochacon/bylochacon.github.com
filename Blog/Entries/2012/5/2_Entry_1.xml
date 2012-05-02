@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20120501" date="2012-05-02 05:54:02 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Entry_1_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The listing of annotated &lt;a href="perma://BLPageReference/CFAE7BF0-29AB-460B-BA89-5EC8CAB1A9AF"&gt;Links Regarding Comparative &amp; General Genocide&lt;/a&gt; has been hugely expanded.  More resources can be found here: &lt;a href="perma://BLPageReference/236C4BCE-9933-447D-BD0A-052CB9666F1A"&gt;Comparative &amp; General Genocide&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>General Resources on Genocide</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, May 2, 2012&lt;/b&gt;</richText>
+  </textBox>
+</content>
