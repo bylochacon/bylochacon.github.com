@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20120502" date="2012-05-03 04:59:45 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Former_Yugoslavia_Resource_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I&#x2019;ve checked and added to resources on ethnic cleansing in the former Yugoslavia:  &lt;a href="perma://BLPageReference/E5ADC84B-37FC-4277-A056-A466A96F908D"&gt;Links Regarding Ethnic Cleansing in Kosovo, Bosnia &amp; Herzegovina&lt;/a&gt;.  Books and films can be found here: &lt;a href="perma://BLPageReference/A80AC34E-1525-473E-BF33-91B44347FC29"&gt;Ethnic Cleansing in the Former Yugoslavia&lt;/a&gt;.  If you know of good resources I&#x2019;ve missed, please let me know!</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Former Yugoslavia Resources</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, May 3, 2012&lt;/b&gt;</richText>
+  </textBox>
+</content>
