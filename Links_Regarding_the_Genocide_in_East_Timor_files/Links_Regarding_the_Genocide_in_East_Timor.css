@@ -104,31 +104,6 @@
     text-transform: none;
 }
 .paragraph_style_5 {
-    color: #333333;
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 12px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style {
-    font-size: 6px;
-    line-height: 7px;
-}
-.paragraph_style_6 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -149,7 +124,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_7 {
+.paragraph_style_6 {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -164,6 +139,27 @@
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 14px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_7 {
+    color: #333333;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
     padding-top: 0px;
     text-align: left;
     text-decoration: none;
@@ -205,6 +201,22 @@
 .style_SkipStroke_8 {
     background: transparent;
     opacity: 0.25;
+}
+.style_SkipStroke_9 {
+    background: transparent;
+    opacity: 0.85;
+}
+.style_SkipStroke_10 {
+    background: transparent;
+    opacity: 0.70;
+}
+.style_SkipStroke_11 {
+    background: transparent;
+    opacity: 0.55;
+}
+.style_SkipStroke_12 {
+    background: transparent;
+    opacity: 0.40;
 }
 .Free_Form {
     color: #404040;
@@ -291,9 +303,6 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_111_92 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_522_43 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

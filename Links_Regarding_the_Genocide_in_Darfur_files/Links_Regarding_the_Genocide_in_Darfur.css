@@ -166,6 +166,73 @@
     text-indent: 0px;
     text-transform: none;
 }
+.paragraph_style_8 {
+    color: #404040;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_9 {
+    color: #404040;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style {
+    color: #333333;
+    opacity: 1.00;
+}
+.paragraph_style_10 {
+    color: #404040;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 14px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
@@ -208,27 +275,77 @@
 }
 .style_SkipStroke_10 {
     background: transparent;
-    opacity: 0.50;
+    opacity: 1.00;
 }
 .style_SkipStroke_11 {
     background: transparent;
-    opacity: 1.00;
+    opacity: 0.75;
 }
 .style_SkipStroke_12 {
     background: transparent;
-    opacity: 0.85;
+    opacity: 0.50;
 }
 .style_SkipStroke_13 {
     background: transparent;
-    opacity: 0.70;
+    opacity: 0.90;
 }
 .style_SkipStroke_14 {
     background: transparent;
-    opacity: 0.55;
+    opacity: 0.70;
 }
 .style_SkipStroke_15 {
     background: transparent;
+    opacity: 0.30;
+}
+.style_SkipStroke_16 {
+    background: transparent;
     opacity: 0.25;
+}
+.style_1 {
+    color: #383838;
+    opacity: 1.00;
+}
+.paragraph_style_11 {
+    color: #333333;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_12 {
+    color: #333333;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Helvetica Neue Light', 'Arial', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
 .Free_Form {
     color: #404040;
@@ -275,7 +392,7 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_515_85 {
+.Normal_External_585_85 {
     position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
@@ -314,10 +431,16 @@
 .graphic_textbox_layout_style_default_External_523_30 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_521_143 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_519_106 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_111_92 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_509_30 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

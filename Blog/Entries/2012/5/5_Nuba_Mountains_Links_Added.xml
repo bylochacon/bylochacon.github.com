@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20120503" date="2012-05-04 05:08:13 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Nuba_Mountains_Links_Added_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I&#x2019;ve changed the title of the Darfur page to include the Sudan, South Sudan, Darfur and Nuba Mountains (parts of South Sudan) - I&#x2019;m keeping the web address the same though, so that still just says Darfur.  The Bashir government is on its fourth genocide in the region. There are some added links here, but many of the first sites are keeping up on the news in Nuba as well.  &lt;a href="perma://BLPageReference/5BE88AB7-596F-4C1F-BEE7-B6D40D13C3F6"&gt;Links Regarding the Genocide in Darfur&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Nuba Mountains Links Added</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, May 5, 2012&lt;/b&gt;</richText>
+  </textBox>
+</content>
