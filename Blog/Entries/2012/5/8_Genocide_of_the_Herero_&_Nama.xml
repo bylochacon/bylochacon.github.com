@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20120507" date="2012-05-08 01:53:21 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Genocide_of_the_Herero_%26_Nama_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Updated and expanded links for the German Genocide in Namibia, at the start of the 20th century: &lt;a href="perma://BLPageReference/261872D8-460F-4E6A-B49E-4F81D795F56E"&gt;Links Regarding the Genocide of the Herero &amp; Nama&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Genocide of the Herero &amp; Nama</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, May 8, 2012&lt;/b&gt;</richText>
+  </textBox>
+</content>

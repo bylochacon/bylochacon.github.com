@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F4746D59-F999-41D9-83FC-91C87BC93810">
+  <lastEdited clientType="local-build-20120507" date="2012-05-08 01:53:21 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOG</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Entry_1_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Updated links for Stalins crimes against humanity and especially the Ukrainian Holodomar: &lt;a href="perma://BLPageReference/54D69832-7D25-41BE-8054-CD5FED718CD7"&gt;Links Regarding Politicide in the U.S.S.R.&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Updated Soviet Links</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, May 11, 2012&lt;/b&gt;</richText>
+  </textBox>
+</content>
