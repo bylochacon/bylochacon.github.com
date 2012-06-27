@@ -20,28 +20,7 @@
     text-transform: none;
 }
 .paragraph_style_1 {
-    color: #404040;
-    font-family: 'HelveticaNeue-Italic', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 10px;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: normal;
-    letter-spacing: 0;
-    line-height: 12px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_2 {
-    color: #404040;
+    color: #333333;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 11px;
     font-style: normal;
@@ -61,11 +40,11 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
+.style {
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-weight: bold;
 }
-.paragraph_style_3 {
+.paragraph_style_2 {
     color: #404040;
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 18px;
@@ -86,6 +65,62 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_1 {
+    font-style: italic;
+    font-weight: normal;
+}
+.paragraph_style_3 {
+    color: #404040;
+    font-family: 'HelveticaNeue-Italic', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 10px;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 12px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_4 {
+    color: #404040;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 12px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_2 {
+    font-family: 'ArialMT', 'Arial', sans-serif;
+}
+.style_3 {
+    font-family: 'ArialMT', 'Arial', sans-serif;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -93,9 +128,6 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
-}
-.style {
-    font-family: 'ArialMT', 'Arial', sans-serif;
 }
 .style_SkipStroke_3 {
     background: transparent;
@@ -108,9 +140,6 @@
 .style_SkipStroke_5 {
     background: transparent;
     opacity: 0.75;
-}
-.style_1 {
-    font-family: 'ArialMT', 'Arial', sans-serif;
 }
 .Free_Form {
     color: #404040;
@@ -154,11 +183,11 @@
     text-indent: 0px;
     text-transform: none;
 }
-.Normal {
-    padding: 0px;
-}
 .Normal_External_515_43 {
     position: relative;
+}
+.Normal {
+    padding: 0px;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
     background: transparent;
@@ -168,37 +197,37 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default {
-    padding: 4px;
-}
 .graphic_textbox_layout_style_default_External_500_30 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_500_25 {
-    position: relative;
+.graphic_textbox_layout_style_default {
+    padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_111_92 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_522_128 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_500_104 {
+.graphic_textbox_layout_style_default_External_521_22 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_100 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_521_22 {
+.graphic_textbox_layout_style_default_External_111_44 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_500_25 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_522_128 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_527_130 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_519_116 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_82 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_500_53 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_519_116 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
