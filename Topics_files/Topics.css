@@ -102,6 +102,16 @@
     font-variant: normal;
     text-transform: none;
 }
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 0.50;
+}
+.style_SkipStrokeSkipFillSkipOpacity_2 {
+}
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 0.50;
+}
 .Free_Form {
     color: #404040;
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -161,16 +171,16 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_150_347 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_330_345 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_150_306 {
+.graphic_textbox_layout_style_default_External_101_78 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_101_78 {
+.graphic_textbox_layout_style_default_External_150_539 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_150_551 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_150_305 {
